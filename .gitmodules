@@ -1,0 +1,6 @@
+[submodule "kross-hugo"]
+	path = kross-hugo
+	url = https://github.com/themefisher/kross-hugo.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book

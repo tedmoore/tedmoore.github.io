@@ -1,0 +1,57 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ted Moore | Composer, Improviser, Multimedia Artist, Coder'
+theme = "ananke"
+featured_image = "Ted Moore - credit Ben Semisch 01.jpg"
+
+[params]
+  # body_classes = 'roboto'
+  body_classes = 'avenir next'
+  # body_classes = 'helvetica neue'
+  # body_classes = 'avenir'
+[[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/ted_moore"
+[[params.ananke_socials]]
+  name = "facebook"
+  url = "https://www.facebook.com/ted.moore.9619/"
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/tedmoore"
+  weight = 2
+[[params.ananke_socials]]
+  name = "instagram"
+  url = "https://instagram.com/_ted_moore_"
+  weight = 1
+[[params.ananke_socials]]
+  name = "youtube"
+  url = "https://www.youtube.com/channel/UCgCOXAIJJyU5cGMP8WXUedg"
+[menu]
+[[menu.main]]
+  name = 'works'
+  weight = 1
+  url = '/works/'
+[[menu.main]]
+  name = 'installations'
+  weight = 2
+  url = '/installations/'
+[[menu.main]]
+  name = 'releases'
+  weight = 3
+  url = '/releases/'
+[[menu.main]]
+  name = 'improv'
+  weight = 4
+  url = '/improv/'
+[[menu.main]]
+  name = 'software/research'
+  url = '/softwareresearch/'
+  weight = 5
+[[menu.main]]
+  name = 'theater/dance'
+  url = '/theaterdance/'
+  weight = 6
+[[menu.main]]
+  name = 'about/contact'
+  url = '/aboutcontact/'
+  weight = 7
