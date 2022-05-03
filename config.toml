@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Ted Moore | Composer, Improviser, Multimedia Artist, Coder'
-theme = "ananke"
+theme = "gohugo-theme-ananke"
 featured_image = "Ted Moore - credit Ben Semisch 01.jpg"
 
 [params]
