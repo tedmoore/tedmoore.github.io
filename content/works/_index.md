@@ -1,7 +1,7 @@
 ---
 title: "works"
 draft: false
-layout: single
+layout: list
 ---
 
 This is the works page.
