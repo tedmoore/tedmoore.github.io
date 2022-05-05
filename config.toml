@@ -3,12 +3,19 @@ languageCode = 'en-us'
 title = 'Ted Moore | Composer, Improviser, Multimedia Artist, Coder'
 theme = "gohugo-theme-ananke"
 featured_image = "Ted Moore - credit Ben Semisch 01.jpg"
+paginate = 99
+googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 
 [params]
   # body_classes = 'roboto'
   body_classes = 'avenir next'
   # body_classes = 'helvetica neue'
   # body_classes = 'avenir'
+  # body_classes = "avenir bg-near-white"
+  
+  # post_content_classes = 'helvetica neue'
+  post_content_classes = 'avenir next'
+  worksmedia = ['tap','triangle','apsis-ii']
 [[params.ananke_socials]]
   name = "twitter"
   url = "https://twitter.com/ted_moore"

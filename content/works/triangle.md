@@ -1,10 +1,11 @@
 ---
 title: "triangle"
-date: 2022-05-01T22:44:17+01:00
 draft: false
 year: 2020
 description: string quartet and tape
-layout: single-work
+layout: single-works
+embedlink: https://www.youtube.com/embed/_UV-tv2FAo8
+weight: 2
 ---
 
 

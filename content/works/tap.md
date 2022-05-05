@@ -1,10 +1,11 @@
 ---
 title: "tap"
-date: 2022-05-01T22:44:11+01:00
 draft: false
 year: 2019
 description: percussion trio and multimedia
-layout: single-work
+layout: single-works
+embedlink: https://www.youtube.com/embed/588iNBZDJy0
+weight: 1
 ---
 
 _tap_ was composed for [line upon line percussion](https://www.lineuponlinepercussion.org/) which is based in Austin, TX.
