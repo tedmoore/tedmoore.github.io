@@ -1,9 +1,30 @@
 ---
-title: "electronics improv"
-date: 2022-05-01T22:59:54+01:00
+title: "improvisation"
 draft: false
+layout: single
 ---
 
-{{< youtube id="26jz6cdNhEQ" >}}
+{{< columnrow >}}
+{{% column %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
 
+bruit is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](), [Ben Roidl-Ward](), [Yung-Tuan Ku](https://www.github.com), [Emerson Hunton](), Eric Krouse, [Anne La Berge](), and [Tom Weeks]().
+All tracks feature Ted Moore improvising on electronics
+
+November 20, 2020
+[Carrier Records]() 056
+
+{{< /column >}}
+
+{{< column >}}
+
+{{< bandcamp-album id="3748377265" title="bruit by Ted Moore" width="50%" >}}
+
+{{< /column >}}
+
+{{< /columnrow >}}
+
+{{< youtube-float 26jz6cdNhEQ 40 right >}}
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+{{< youtube-float 588iNBZDJy0 70 left >}}
 Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.

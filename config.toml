@@ -7,6 +7,8 @@ paginate = 99
 googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 
 [params]
+  # menu_classes = 'helvetica neue'
+  menu_classes = 'roboto'
   # body_classes = 'roboto'
   body_classes = 'avenir next'
   # body_classes = 'helvetica neue'
@@ -17,22 +19,20 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   post_content_classes = 'avenir next'
   worksmedia = ['tap','triangle','apsis-ii']
 [[params.ananke_socials]]
-  name = "twitter"
-  url = "https://twitter.com/ted_moore"
+  name = "instagram"
+  url = "https://instagram.com/_ted_moore_"
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/tedmoore"
 [[params.ananke_socials]]
   name = "facebook"
   url = "https://www.facebook.com/ted.moore.9619/"
 [[params.ananke_socials]]
-  name = "github"
-  url = "https://github.com/tedmoore"
-  weight = 2
-[[params.ananke_socials]]
-  name = "instagram"
-  url = "https://instagram.com/_ted_moore_"
-  weight = 1
-[[params.ananke_socials]]
   name = "youtube"
   url = "https://www.youtube.com/channel/UCgCOXAIJJyU5cGMP8WXUedg"
+[[params.ananke_socials]]
+  name = "twitter"
+  url = "https://twitter.com/ted_moore"
 [menu]
 [[menu.main]]
   name = 'works'
