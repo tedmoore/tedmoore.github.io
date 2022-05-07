@@ -35,30 +35,34 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   url = "https://twitter.com/ted_moore"
 [menu]
 [[menu.main]]
-  name = 'works'
+  name = 'music'
   weight = 1
-  url = '/works/'
+  url = '/music/'
 [[menu.main]]
   name = 'installations'
   weight = 2
   url = '/installations/'
 [[menu.main]]
   name = 'releases'
-  weight = 3
+  weight = 4
   url = '/releases/'
 [[menu.main]]
   name = 'improv'
-  weight = 4
+  weight = 3
   url = '/improv/'
 [[menu.main]]
   name = 'software/research'
   url = '/softwareresearch/'
-  weight = 5
+  weight = 6
 [[menu.main]]
   name = 'theater/dance'
   url = '/theaterdance/'
-  weight = 6
+  weight = 5
 [[menu.main]]
   name = 'about/contact'
   url = '/aboutcontact/'
   weight = 7
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

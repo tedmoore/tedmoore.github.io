@@ -3,28 +3,89 @@ title: "improvisation"
 draft: false
 layout: single
 ---
+<!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
+{{< columnrow items="items-center">}}
+{{< column 30 >}}
+{{% center %}}
+_"frankly unsafe"_
 
-{{< columnrow >}}
-{{% column %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
-
-bruit is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](), [Ben Roidl-Ward](), [Yung-Tuan Ku](https://www.github.com), [Emerson Hunton](), Eric Krouse, [Anne La Berge](), and [Tom Weeks]().
-All tracks feature Ted Moore improvising on electronics
-
-November 20, 2020
-[Carrier Records]() 056
-
+-icareifyoulisten.com  
+[full review](https://icareifyoulisten.com/2017/08/binary-canary-guest-improvisers-bc1/)
+{{% /center %}}
 {{< /column >}}
 
-{{< column >}}
+{{< column 30 >}}
+{{% center %}}
+_"does indeed suggest the idea of algorithms gone haywire, of sounds and noise
+barely held in check"_
 
-{{< bandcamp-album id="3748377265" title="bruit by Ted Moore" width="50%" >}}
-
+-Downtown Music Gallery  
+[full review](https://www.downtownmusicgallery.com/newsletter_detail.php?newsID=1861)
+{{% /center %}}
 {{< /column >}}
 
+{{< column 30 >}}
+{{% center %}}
+_"alien soundscapes from some distant otherworld...enigmatic and well worth probing"_
+
+-Jazz Times  
+[full review](https://jazztimes.com/reviews/albums/binary-canary-iterative-systems-carrier/)
+{{% /center %}}
+{{< /column >}}
 {{< /columnrow >}}
 
-{{< youtube-float 26jz6cdNhEQ 40 right >}}
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+{{< columnrow >}}
+{{% column 50 pr1 %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
+### _bruit_ (2020)
 
-{{< youtube-float 588iNBZDJy0 70 left >}}
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+_bruit_ is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](), [Ben Roidl-Ward](), [Yung-Tuan Ku](https://www.github.com), [Emerson Hunton](), Eric Krouse, [Anne La Berge](), and [Tom Weeks]().
+All tracks feature Ted Moore improvising on electronics
+
+November 20, 2020  
+[Carrier Records]() 056
+{{< /column >}}
+{{< column 50 >}}
+{{< bandcamp-album id="3748377265" title="bruit by Ted Moore" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< vimeo 565771489 >}} <!-- impro with fabrizio spera -->
+
+{{< vimeo 702084783 >}} <!-- impro with ben opie -->
+
+{{< youtube 26jz6cdNhEQ >}} <!-- impro with rodrigo constanzo -->
+
+{{< vimeo 380576819 >}} <!-- impro with Kyle Bruckmann and Macie Stewart -->
+
+{{< youtube rqr8KXlAhi0 >}} <!-- talking free music -->
+
+{{% center %}}
+
+## [Binary Canary](https://www.binarycanarymusic.com/)
+laptop-woodwinds improvisation duo with saxophonist Kyle Hutchins
+
+## Ars Electroacoustica
+avant garde improvisation using electronic and acoustic instruments  
+Fall 2015-Spring 2017  
+co-hosted with laptop improviser Scott Miller
+
+**_Ars Electroacoustica_ guest improvisers:**  
+Pat O'Keefe  
+Kyle Hutchins  
+Davu Seru  
+Elaine Evans  
+Dan Lippel  
+Jacqueline Ultan  
+Nathan Hanson  
+Jorrit Dijkstra  
+Adam Zahller  
+Sarah Porwoll-Lee  
+Nick Zielinski  
+Carl Fisk  
+Noah Ophoven-Baldwin  
+Sam Pluta  
+Peter Evans  
+Alex Bissen (IOSIS)​  
+​Ben Roidl-Ward  
+Jen Hill  
+{{% /center %}}

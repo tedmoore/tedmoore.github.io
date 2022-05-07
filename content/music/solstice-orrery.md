@@ -1,0 +1,7 @@
+---
+title: Solstice Orrery
+draft: false
+year: 2017
+description: video design
+layout: single-works
+---
