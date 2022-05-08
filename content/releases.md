@@ -1,6 +1,149 @@
 ---
-title: "Releases"
-date: 2022-05-01T23:00:08+01:00
+title: album releases
 draft: false
 ---
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _bruit_ (2020)  
+_bruit_ is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](http://www.jennamarielyle.com/), [Ben Roidl-Ward](https://www.benroidlward.com/), [Yung-Tuan Ku](http://www.yungtuanku.com/), Emerson Hunton, Eric Krouse, [Anne La Berge](https://annelaberge.com/), and [Tom Weeks](http://tomweeksmusic.com/).
+All tracks feature Ted Moore improvising on electronics
 
+November 20, 2020  
+[Carrier Records](https://carrierrecords.com/) 056
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="3748377265" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Ripple Effects_ (2020)
+[Ripple Effects](https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY) from [Joey Brink](https://www.joeybrink.com/) is a collection of newly composed works for carillon, which includes my piece [_the curve is exponential_](/music/the-curve-is-exponential) for carillon and tape.
+
+March 2020  
+UChicago Arts
+{{% /column %}}
+{{< column 50 >}}
+{{< figure src="/images/ripple_effects.png" link="https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _iterative systems_ (2019)  
+_iterative systems_ is [Binary Canary](http://www.binarycanarymusic.com)'s third studio album featuring feedback saxophone, no-input mixer, feedback PVC tubes, eurorack modular synthesizer, feedback cymbal, and of course, regular saxophone. 
+
+All tracks are structured improvisations.  
+Binary Canary is Ted Moore and [Kyle Hutchins](http://www.jefferykylehutchins.com/).
+
+October 4, 2019  
+​[Carrier Records](https://carrierrecords.com/) 042
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="650935838" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _FEATHERMUCKER_ (2018)  
+[The Dream Songs Project](http://www.thedreamsongsproject.org/) performing my 45-minute song cycle, [_FEATHERMUCKER_](/music/feathermucker).
+
+Text by [Timothy Otte](http://www.timothyotte.com/)
+
+September 4, 2018  
+[AVID Sound Records](http://www.avidsoundrecords.com/) 20181
+
+Recorded at [Wild Sound Recording Studio](https://www.wild-sound.com/), Minneapolis, Minnesota
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="3589582284" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Raba_ (2018)  
+Raba is a portrait album of composer [Scott Miller](https://www.scottlmiller.net/).
+
+Track 7, "Solstice Orrery" features video design by Ted Moore
+
+March 16, 2018  
+[New Focus Recordings](https://www.newfocusrecordings.com/)
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="2300810728" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _BC+1_ (2017)
+_BC+1_ is [Binary Canary](http://www.binarycanarymusic.com)'s second studio album featuring Binary Canary improvisations in collaboration with [Scott Miller](https://www.scottlmiller.net/), [Pat O'Keefe](https://www.patokeefe.org/), [Brittany Primavera](http://www.brittanyprimavera.com/), and [Adam Zahller](http://www.adamzahller.com/).
+
+All tracks are free improvisations.  
+Binary Canary is Ted Moore and [Kyle Hutchins](http://www.jefferykylehutchins.com/).
+
+​June 1, 2017  
+[AVID Sound Records](http://www.avidsoundrecords.com/) 20171
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="2365399416" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Gilgamesh & Enkidu_ (2016)  
+Album of my [eponymously titled](/music/gilgamesh-enkidu) evening-length string quartet.
+
+March 11, 2016  
+[Ravello Records](https://www.ravellorecords.com/)
+{{% /column %}}
+{{< column 50 >}}
+{{< figure src="/images/gilgamesh_enkidu.jpg" link="https://www.ravellorecords.com/catalog/rr7926/" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _click/blow_ (2015)
+[Binary Canary](http://www.binarycanarymusic.com)'s debut album.
+
+All tracks are free improvisations.  
+Binary Canary is Ted Moore and [Kyle Hutchins](http://www.jefferykylehutchins.com/).
+
+May 31, 2015  
+[AVID Sound Records](http://www.avidsoundrecords.com/) 20152
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="729402276" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _History is Going to Change_ (2015)  
+Clarinetist Sarah Porwoll-Lee's debut album featuring my work [_leviathan_](/music/leviathan).
+
+November 2015  
+[AVID Sound Records](http://www.avidsoundrecords.com/) 20153
+{{% /column %}}
+{{< column 50 >}}
+{{< figure src="/images/history_is_going_to_change.jpg" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Interactions_ (2014)  
+[AVIDduo](http://avidduomusic.com/)'s debut album features my work _deepities_.
+
+February 2014  
+[AVID Sound Records](http://www.avidsoundrecords.com/) 20141
+{{% /column %}}
+{{< column 50 >}}
+{{< figure src="/images/interactions.jpg" >}}
+{{< /column >}}
+{{< /columnrow >}}

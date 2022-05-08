@@ -38,11 +38,11 @@ _"alien soundscapes from some distant otherworld...enigmatic and well worth prob
 {{% column 50 pr1 %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
 ### _bruit_ (2020)
 
-_bruit_ is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](), [Ben Roidl-Ward](), [Yung-Tuan Ku](https://www.github.com), [Emerson Hunton](), Eric Krouse, [Anne La Berge](), and [Tom Weeks]().
+_bruit_ is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](http://www.jennamarielyle.com/), [Ben Roidl-Ward](https://www.benroidlward.com/), [Yung-Tuan Ku](http://www.yungtuanku.com/), Emerson Hunton, Eric Krouse, [Anne La Berge](https://annelaberge.com/), and [Tom Weeks](http://tomweeksmusic.com/).
 All tracks feature Ted Moore improvising on electronics
 
 November 20, 2020  
-[Carrier Records]() 056
+[Carrier Records](https://carrierrecords.com/) 056
 {{< /column >}}
 {{< column 50 >}}
 {{< bandcamp-album id="3748377265" title="bruit by Ted Moore" width="100%" >}}
