@@ -1,12 +1,13 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Ted Moore | Composer, Improviser, Multimedia Artist, Coder'
+title = "Ted Moore | Composer, Improviser, Multimedia Artist, Creative Coder, Educator"
 theme = "gohugo-theme-ananke"
 featured_image = "Ted Moore - credit Ben Semisch 01.jpg"
 paginate = 99
 googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 
 [params]
+  # site_logo = "images/Ted Moore pc Brian Fancher.jpg"
   # menu_classes = 'helvetica neue'
   menu_classes = 'roboto'
   # body_classes = 'roboto'
@@ -33,11 +34,19 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 [[params.ananke_socials]]
   name = "twitter"
   url = "https://twitter.com/ted_moore"
+[[params.ananke_socials]]
+  name = "bandcamp"
+  url = "https://tedmoore.bandcamp.com/"
+  color = "#4A9FBF"
+[[params.ananke_socials]]
+  name = "soundcloud"
+  url = "https://www.soundcloud.com/tedmoore"
+  color = "#ed612b"
 [menu]
 [[menu.main]]
   name = 'music'
   weight = 1
-  url = '/music/'
+  url = '/works/'
 [[menu.main]]
   name = 'installations'
   weight = 2
@@ -51,8 +60,8 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   weight = 3
   url = '/improv/'
 [[menu.main]]
-  name = 'software/research'
-  url = '/softwareresearch/'
+  name = 'research/software'
+  url = '/research/'
   weight = 6
 [[menu.main]]
   name = 'theater/dance'
