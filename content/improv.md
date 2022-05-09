@@ -5,6 +5,16 @@ layout: single
 ---
 <!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
 {{< columnrow items="items-center">}}
+
+{{< column 30 >}}
+{{% center %}}
+_"alien soundscapes from some distant otherworld...enigmatic and well worth probing"_
+
+-Jazz Times  
+[full review](https://jazztimes.com/reviews/albums/binary-canary-iterative-systems-carrier/)
+{{% /center %}}
+{{< /column >}}
+
 {{< column 30 >}}
 {{% center %}}
 _"frankly unsafe"_
@@ -21,15 +31,6 @@ barely held in check"_
 
 -Downtown Music Gallery  
 [full review](https://www.downtownmusicgallery.com/newsletter_detail.php?newsID=1861)
-{{% /center %}}
-{{< /column >}}
-
-{{< column 30 >}}
-{{% center %}}
-_"alien soundscapes from some distant otherworld...enigmatic and well worth probing"_
-
--Jazz Times  
-[full review](https://jazztimes.com/reviews/albums/binary-canary-iterative-systems-carrier/)
 {{% /center %}}
 {{< /column >}}
 {{< /columnrow >}}

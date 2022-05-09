@@ -1,5 +1,5 @@
 ---
-title: music compositions
+title: music & media compositions
 draft: false
 layout: list
 ---
