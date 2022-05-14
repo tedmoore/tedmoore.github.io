@@ -9,7 +9,9 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 [params]
   # site_logo = "images/Ted Moore pc Brian Fancher.jpg"
   # menu_classes = 'helvetica neue'
-  menu_classes = 'roboto'
+  menu_classes = 'avenir next'
+  # menu_classes = 'garamond'
+  # menu_classes = 'roboto'
   # body_classes = 'roboto'
   body_classes = 'avenir next'
   # body_classes = 'helvetica neue'
@@ -44,7 +46,7 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   color = "#ed612b"
 [menu]
 [[menu.main]]
-  name = 'music'
+  name = 'works'
   weight = 1
   url = '/works/'
 [[menu.main]]

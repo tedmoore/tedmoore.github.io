@@ -6,4 +6,5 @@ description: a piece written by Ted
 layout: single-works
 embedlink: 
 weight: 0
+categories: ["composition"]
 ---
