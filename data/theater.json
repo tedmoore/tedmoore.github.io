@@ -1,121 +1,122 @@
 {
   "list":[
     {
-      "title":"BODYTALK",
-      "year":2019,
-      "description":"Theater and Performing Arts Department, University of Chicago, Choreographed by Sophia Bell",
+      "Title":"BODYTALK",
+      "Year":"2019",
+      "Description":"Theater and Performing Arts Department, University of Chicago, Choreographed by Sophia Bell",
       "role":"Sound Designer",
-      "url":null
+      "URL":"none"
     },
     {
-      "title":"The Broken Jug",
-      "year":2018,
-      "description":"Theater and Performing Arts Department, University of Chicago, Directed by Pirachula Chulanon",
+      "Title":"The Broken Jug",
+      "Year":"2018",
+      "Description":"Theater and Performing Arts Department, University of Chicago, Directed by Pirachula Chulanon",
       "role":"Sound Designer",
-      "url":null
+      "URL":"none"
     },
     {
-      "title":"APPETITE",
-      "year":2017,
-      "description":"Ted Moore and Charles Campbell (Skewed Visions)",
+      "Title":"APPETITE",
+      "Year":"2017",
+      "Description":"Ted Moore and Charles Campbell (Skewed Visions)",
       "role":"Sound Design, Video Design, and Performance",
-      "url":"/works/appetite"
+      "URL":"/works/appetite"
     },
     {
-      "title":"These Are The Men",
-      "year":2015,
-      "description":"Umbrella Collective",
+      "Title":"These Are The Men",
+      "Year":"2015",
+      "Description":"Umbrella Collective",
       "role":"Sound Designer",
-      "url":"https://www.umbrellaco.org/tatm-2015.html"
+      "URL":"https://www.umbrellaco.org/tatm-2015.html"
     },
     {
-      "title":"PERSEPHONE",
-      "year":2014,
-      "description":"Choreography by Hannah Holman",
+      "Title":"PERSEPHONE",
+      "Year":"2014",
+      "Description":"Choreography by Hannah Holman",
       "role":"Composer and Sound Designer",
-      "url":"/works/persephone"
+      "URL":"/works/persephone"
     },
     {
-      "title":"Mineapolis Cubed",
-      "year":2014,
-      "description":"Directed by Eric F. Avery",
+      "Title":"Mineapolis Cubed",
+      "Year":"2014",
+      "Description":"Directed by Eric F. Avery",
       "role":"Composer, Sound Designer, Installation Artist, and Performer",
-      "url":null
+      "URL":"none"
     },
     {
-      "title":"HWY 57",
-      "year":2014,
-      "description":"Choreography by Blake Nellis",
+      "Title":"HWY 57",
+      "Year":"2014",
+      "Description":"Choreography by Blake Nellis",
       "role":"Composer",
-      "url":null
+      "URL":"none"
     },
     {
-      "title":"Rapture",
-      "year":2014,
-      "description":"Umbrella Collective",
+      "Title":"Rapture",
+      "Year":"2014",
+      "Description":"Umbrella Collective",
       "role":"Composer and Sound Designer",
-      "url":"https://www.umbrellaco.org/rapture-2014.html"
+      "URL":"https://www.umbrellaco.org/rapture-2014.html",
+      "URL":"none"
     },
     {
-      "title":"Body House",
-      "year":2014,
-      "description":"Written by Megan Clark Directed by Gwethalyn Williams",
+      "Title":"Body House",
+      "Year":"2014",
+      "Description":"Written by Megan Clark Directed by Gwethalyn Williams",
       "role":"Sound Designer",
-      "url":null
+      "URL":"none"
     },
     {
-      "title":"These Are The Men (workshop)",
-      "year":2014,
-      "description":"Umbrella Collective",
+      "Title":"These Are The Men (workshop)",
+      "Year":"2014",
+      "Description":"Umbrella Collective",
       "role":"Sound Designer",
-      "url":"https://www.umbrellaco.org/tatm-workshop-2014.html"
+      "URL":"https://www.umbrellaco.org/tatm-workshop-2014.html"
     },
     {
-      "title":"Leaves",
-      "year":2013,
-      "description":"Umbrella Collective",
+      "Title":"Leaves",
+      "Year":"2013",
+      "Description":"Umbrella Collective",
       "role":"Music Director and Guitarist",
-      "url":"https://www.umbrellaco.org/leaves-2013.html"
+      "URL":"https://www.umbrellaco.org/leaves-2013.html"
     },
     {
-      "title":"Rain Follows the Plow",
-      "year":2013,
-      "description":"Umbrella Collective",
+      "Title":"Rain Follows the Plow",
+      "Year":"2013",
+      "Description":"Umbrella Collective",
       "role":"Composer and Sound Designer",
-      "url":"https://www.umbrellaco.org/rainfollows-2013.html"
+      "URL":"https://www.umbrellaco.org/rainfollows-2013.html"
     },
     {
-      "title":"Emma Woodhouse is Not a Bitch",
-      "year":2013,
-      "description":"Umbrella Collective",
+      "Title":"Emma Woodhouse is Not a Bitch",
+      "Year":"2013",
+      "Description":"Umbrella Collective",
       "role":"Sound Designer",
-      "url":"https://www.umbrellaco.org/emma-2013.html"
+      "URL":"https://www.umbrellaco.org/emma-2013.html"
     },
     {
-      "title":"Care Enough",
-      "year":2012,
-      "description":"Umbrella Collective",
+      "Title":"Care Enough",
+      "Year":"2012",
+      "Description":"Umbrella Collective",
       "role":"Composer and Sound Designer",
-      "url":null
+      "URL":"none"
     }
   ],
   "media":[
     {
-      "title":"APPETITE",
+      "Title":"APPETITE",
       "info":"(excerpts)",
-      "year":2017,
+      "Year":"2017",
       "type":"vimeo",
       "id":"221813599"
     },
     {
-      "title":"PERSEPHONE",
-      "year":2014,
+      "Title":"PERSEPHONE",
+      "Year":"2014",
       "type":"vimeo",
       "id":"115116613"
     },
     {
-      "title":"Body House",
-      "year":2014,
+      "Title":"Body House",
+      "Year":"2014",
       "type":"image",
       "path":"/images/body-house.jpg"
     }
