@@ -1,5 +1,5 @@
 ---
-title: installations
+title: "installations"
 draft: false
-layout: single
+layout: single-installations
 ---

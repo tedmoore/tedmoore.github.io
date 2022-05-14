@@ -4,8 +4,8 @@ draft: false
 year: 2020
 description: string quartet and tape
 layout: single-works
-embedlink: https://www.youtube.com/embed/_UV-tv2FAo8
 weight: 2
+categories: ["composition"]
 ---
 
 {{< vimeo-float 514278225 65 right >}}

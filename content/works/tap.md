@@ -4,8 +4,9 @@ draft: false
 year: 2019
 description: percussion trio and multimedia
 layout: single-works
-embedlink: https://www.youtube.com/embed/588iNBZDJy0
 weight: 1
+categories: ["composition"]
+tags: ["multimedia"]
 ---
 
 {{< vimeo-float 339268455 65 right >}} 

@@ -9,7 +9,8 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 [params]
   # site_logo = "images/Ted Moore pc Brian Fancher.jpg"
   # menu_classes = 'helvetica neue'
-  menu_classes = 'avenir next'
+  # menu_classes = 'avenir next'
+  menu_classes = 'system sans-serif'
   # menu_classes = 'garamond'
   # menu_classes = 'roboto'
   # body_classes = 'roboto'
@@ -20,7 +21,28 @@ googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
   
   # post_content_classes = 'helvetica neue'
   post_content_classes = 'avenir next'
-  worksmedia = ['tap','triangle','apsis-ii']
+
+[[params.works_media]]
+  name = "triangle"
+  id = "_UV-tv2FAo8"
+  type = "youtube"
+[[params.works_media]]
+  name = "apsis ii"
+  id = "NNOv9wCXzMc"
+  type = "youtube"
+[[params.works_media]]
+  name = "still motion"
+  id = "O0tJMihak4U"
+  type = "youtube"
+[[params.works_media]]
+  name = "tap"
+  id = "588iNBZDJy0"
+  type = "youtube"
+[[params.works_media]]
+  name = "November 15, 2019"
+  album = "3748377265"
+  track = "1472216924"
+  type = "bandcamp"
 [[params.ananke_socials]]
   name = "instagram"
   url = "https://instagram.com/_ted_moore_"
