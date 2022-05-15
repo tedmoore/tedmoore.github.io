@@ -1,13 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.tedmooremusic.com/'
 languageCode = 'en-us'
 title = "Ted Moore | Composer, Improviser, Multimedia Artist, Creative Coder, Educator"
+copyright = "Ted Moore. All Rights Reserved."
 theme = "gohugo-theme-ananke"
-featured_image = "Ted Moore - credit Ben Semisch 01.jpg"
 paginate = 99
-googlefonts = "http://fonts.googleapis.com/css?family=Itim|Limelight"
 
 [params]
-  # site_logo = "images/Ted Moore pc Brian Fancher.jpg"
   # menu_classes = 'helvetica neue'
   # menu_classes = 'avenir next'
   menu_classes = 'system sans-serif'
