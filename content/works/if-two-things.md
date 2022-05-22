@@ -6,3 +6,8 @@ description: saxophone, mezzo soprano, and live electronics
 layout: single-works
 categories: ["composition"]
 ---
+
+{{< youtube-float 8vEfSfQfbVg 60 right >}}
+Commissioned by The Poem is Done Ensemble. 
+
+{{< el "full score" "/scores/if_two_things_dont_fit_by_ted_moore.pdf" >}}

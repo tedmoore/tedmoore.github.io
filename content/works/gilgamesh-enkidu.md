@@ -1,6 +1,7 @@
 ---
 title: Gilgamesh & Enkidu
-year: 
+year: 2012
 draft: false
+description: string quartet & electronics
 categories: ["composition"]
 ---

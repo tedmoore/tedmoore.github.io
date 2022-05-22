@@ -6,3 +6,5 @@ description: violin, bassoon, and tape
 layout: single-works
 categories: ["composition"]
 ---
+
+Commissioned by Prairie Ghost (Erica Dicker, violin & Dana Jessen, bassoon)
