@@ -7,6 +7,7 @@ layout: single-works
 weight: 1
 categories: ["composition"]
 tags: ["multimedia"]
+featuredimage: images/eclipse/eclipse00.jpg
 ---
 
 {{< vimeo-float 339268455 65 right >}} 

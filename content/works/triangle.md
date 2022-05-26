@@ -6,6 +6,7 @@ description: string quartet and tape
 layout: single-works
 weight: 2
 categories: ["composition"]
+featuredimage: images/eclipse/eclipse01.jpg
 ---
 
 {{< vimeo-float 514278225 65 right >}}
