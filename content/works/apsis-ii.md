@@ -6,6 +6,7 @@ description: piano four hands and tape
 layout: single-works
 weight: 3
 categories: ["composition"]
+featuredimage: /images/apsis-ii-score-screenshot.png
 ---
 
 {{< youtube-float NNOv9wCXzMc 60 right >}}

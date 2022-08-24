@@ -6,6 +6,7 @@ description: performer, video feedback, and audio feedback
 layout: single-works
 categories: ["theater","composition"]
 tags: ["multimedia","feedback"]
+featuredimage: /images/appetite/appetite_promo_00.png
 ---
 
 {{< vimeo-float 221813599 60 right >}}

@@ -6,6 +6,7 @@ description: feedback saxophone, saxohpone wtih embeded electronics, 142 speaker
 layout: single-works
 categories: ["composition"]
 tags: ["feedback","multimedia","dmx"]
+featuredimage: /images/column-kyle.jpeg
 ---
 
 {{< vimeo-float 319280440 60 right >}}

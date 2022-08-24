@@ -6,6 +6,7 @@ description: flute, alto saxophone, cello, percussion, live processing, and vide
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
+featuredimage: /images/apsis-cubes.png
 ---
 
 {{< vimeo-float 187273227 60 right >}}

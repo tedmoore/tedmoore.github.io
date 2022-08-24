@@ -6,6 +6,7 @@ description: bassoon, live processing, no-input-mixer, tape, and DMX lights
 layout: single-works
 categories: ["composition"]
 tags: ["feedback","multimedia","dmx"]
+featuredimage: /images/feed-ben.jpeg
 ---
 
 {{< vimeo-float 490931924 60 right >}}

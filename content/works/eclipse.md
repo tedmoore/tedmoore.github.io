@@ -6,6 +6,7 @@ description: tenor saxophone, live electronics, live processing
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia","feedback"]
+featuredimage: /images/eclipse/eclipse01.jpg
 ---
 
 {{< vimeo-float 122591231 60 right >}}

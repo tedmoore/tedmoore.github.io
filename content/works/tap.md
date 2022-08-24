@@ -7,7 +7,7 @@ layout: single-works
 weight: 1
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/eclipse/eclipse00.jpg
+featuredimage: images/tap-dots.png
 ---
 
 {{< vimeo-float 339268455 65 right >}} 

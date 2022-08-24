@@ -6,6 +6,7 @@ description: string quartet, six channel tape, feedback PVC tubes, and DMX light
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia","dmx"]
+featuredimage: /images/circle-featured-image.png
 ---
 
 {{< soundcloud-float 462225324 60 right>}}
