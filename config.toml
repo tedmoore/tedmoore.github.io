@@ -1,6 +1,6 @@
 baseURL = 'http://www.tedmooremusic.com/'
 languageCode = 'en-us'
-title = "Ted Moore | Composer, Improviser, Multimedia Artist, Creative Coder, Educator"
+title = "Ted Moore | Composer, Improviser, Multimedia Artist"
 copyright = "Ted Moore. All Rights Reserved."
 theme = ["gohugo-theme-ananke"]
 paginate = 99

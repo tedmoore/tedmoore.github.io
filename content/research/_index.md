@@ -4,11 +4,12 @@ draft: false
 layout: single
 ---
 # Software
-{{% center 70 %}}  
-_Much of my creative work involves creative coding, so here is a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my [github](https://github.com/tedmoore) for more._
+{{% center 75 %}}  
+_Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my [github](https://github.com/tedmoore) for more._
 {{% /center %}}  
+* [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist [Dana Jessen](https://www.danajessen.com/) (2022) (SuperCollider)
 * [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
-* [Serge Modular Archive Instrument](/research/serge) (SuperCollider, Processing, & C++ openFrameworks) (2021-22)
+* [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ openFrameworks)
 * [Aluminum Forest](/works/aluminum-forest) (2021) (Arduino & Supercollider)
 * [PlotXYColor](https://github.com/tedmoore/PlotXYColor) plotter for inspecting multi-dimensional data (2020) (SuperCollider)
 * [JSON Writer](https://github.com/tedmoore/JSON-Writer-Supercollider) (2020) (SuperCollider)
@@ -21,27 +22,51 @@ _Much of my creative work involves creative coding, so here is a selection of so
 * [TSNE](https://github.com/tedmoore/tSNE-SuperCollider) Port (2019) (SuperCollider, mostly superseded by [FluCoMa](https://www.flucoma.org/)'s [UMAP](https://learn.flucoma.org/reference/umap/) and other dimensionality reduction algorithms)
 * [Non-Real Time FFT & IFFT](https://github.com/tedmoore/FFTNRT) (client-side) (SuperCollider, superseded by [FluCoMa](https://www.flucoma.org/)'s [FluidBufSTFT](https://learn.flucoma.org/reference/stft/)) 
 * Live Video & Audio Sampler (2017) (C++, openFrameworks, see a [performance](/works/stillmotion) with this in use)
-* ​[Custom Voice Modulator](https://github.com/tedmoore/voice-modulator) for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
+* ​[Voice Modulator](https://github.com/tedmoore/voice-modulator) for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
 * [LFO / Arpeggiator / Gate / Trigger](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) for Endorphin.es Shuttle Control (2016) (SuperCollider)
 * [Microtonal Keyboard](https://github.com/tedmoore/Microtonal-Keyboard) (2016) (SuperCollider)​
 
 # Writing
+{{< columnrow >}}
+{{% column 50 %}}
+### "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
+A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing that Žuraj composes using custom made computer-aided composition tools, this analysis reverse engineers some of the equations and algorithms that he may have used. A generative example using Žuraj's methods is included.
+{{% /column %}}
+{{< column >}}
+{{< figure src="/images/zuraj_figure08.jpg" width="400px">}}
+{{< /column >}}
+{{< /columnrow >}}
 
-{{< figure src="/images/zuraj_figure08.jpg#floatright" width="500px">}}
-### Polynomial Functions in Žuraj's Changeover (2019) publication forthcoming
-A mathematical analysis of Vito Žuraj's orchestral work Changeover. Knowing that Žuraj composes using custom made computer-aided composition tools, this analysis reverse engineers some of the equations and algorithms that he may have used. A generative example using Žuraj's methods is included.
+{{< columnrow >}}
+{{% column 60 %}}
+### "Expression, Collaboration, and Intuition" _Wet Ink Archive_ (2022)
+Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms and what I think it might all mean.
+{{% /column %}}
+{{< column >}}
+{{< figure src="/images/274.png" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
+{{< /column >}}
+{{< /columnrow >}}
 
-### Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator
+{{< columnrow >}}
+{{% column 60 %}}
+### _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
+The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
+{{% /column %}}
+{{< column >}}
+{{< figure src="/images/274.png" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
 
 # Presentations
 
 ### CCL
 
+{{< figure src="/images/00_resynth_buffer_with_activations.png#floatright" width="500px" link="https://learn.flucoma.org/learn/bufnmf/" >}}
 ### Non-negative Matrix Factorization for Spatial Audio (2020)  
-Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was cancelled, but the organizers invited alumni to give talks about some aspect of their work with spatial audio. I presented this algorithm which I find very useful for spatializing audio in interesting ways.
-slides
+Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was cancelled, but the organizers invited alumni to give talks about some aspect of their work with spatial audio. I presented my use of non-negative matrix factorization (NMF) for audio decomposition and spatialization. See the {{< el "NMF overview" "https://learn.flucoma.org/learn/bufnmf/" >}} I created for the FluCoMa project. 
 
-### Interference Patterns: analysis of interacting feedbacks in hollow (2020)
+### Interference Patterns: analysis of interacting feedbacks in _hollow_ (2020)
 
 This presentation analyzes the feedback system of my piece, hollow, which uses three large PVC tubes to create feedback at the resonant frequencies of the tubes. Through filtering, delay line modulation and serial feedback routing, various emergent sonic properties arise. Analysis of the resulting sounds provides some insight into the behaviors of the system.
 ​slides

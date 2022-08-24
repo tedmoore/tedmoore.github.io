@@ -1,0 +1,17 @@
+<div class="flex justify-between w-100 tc">
+  {{ $ncols := 3}}
+  {{ $width := div 100 $ncols }}
+  {{ $dir := print "static/" (.Get 0) }}
+  {{ range $column, $el0 := (seq $ncols) }}
+    <div class="flex flex-column w-{{$width}}">
+      {{ range $index, $pic := readDir $dir }}
+        {{ if eq (mod $index $ncols) $column }}
+          <div class="pb1">
+            {{ $path := print "/" ($.Get 0) "/" .Name }}
+            <a href="{{$path}}"><img src="{{ $path }}"></a>
+          </div>
+        {{ end }}  
+      {{ end }}
+    </div>
+  {{end}}
+</div>
