@@ -5,6 +5,7 @@ year: 2020
 description: tape
 layout: single-works
 categories: ["composition"]
+featuredimage: /images/hold.png
 ---
 
 {{< soundcloud-float 787627537 60 right>}}

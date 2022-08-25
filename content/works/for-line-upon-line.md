@@ -6,6 +6,7 @@ description: video
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
+featuredimage: /images/for-line-upon-line.png
 ---
 
 {{< vimeo-float 414905457 60 right >}}
