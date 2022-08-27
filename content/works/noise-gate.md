@@ -6,6 +6,7 @@ description: double bass, tape, and video
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
+featuredimage: /images/noise-gate.jpeg
 ---
 
 {{< vimeo-float 586682135 60 right >}}

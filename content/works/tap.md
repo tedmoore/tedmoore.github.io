@@ -7,7 +7,7 @@ layout: single-works
 weight: 1
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/tap-dots.png
+featuredimage: images/tap.png
 ---
 
 {{< vimeo-float 339268455 65 right >}} 

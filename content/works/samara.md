@@ -5,4 +5,5 @@ year: 2014
 description: string quartet and alto flute
 layout: single-works
 categories: ["composition"]
+featuredimage: /images/samara.png
 ---

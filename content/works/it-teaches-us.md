@@ -6,6 +6,7 @@ description: feedback cymbal
 layout: single-works
 categories: ["composition"]
 tags: ["feedback"]
+featuredimage: /images/it-teaches-us-credit-Ben-Semisch.jpeg
 ---
 
 {{< vimeo-float 209015574 60 right >}}

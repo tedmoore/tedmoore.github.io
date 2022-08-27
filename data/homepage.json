@@ -1,8 +1,8 @@
 {
-  "order":["tap","aluminum-forest","triangle","quartet",
-    "still-motion","attacksustainrelease","patina",
-    "shadow","noise-gate",
-    "hold","for-line-upon-line","if-two-thinigs",
+  "order":[
+    "tap","aluminum-forest","triangle","quartet",
+    "still-motion","attacksustainrelease","patina","shadow",
+    "noise-gate","hold","for-line-upon-line","if-two-things",
     "solstice-orrery"
   ]
 }

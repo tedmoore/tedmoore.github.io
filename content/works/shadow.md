@@ -6,4 +6,5 @@ description: saxophone, no-input mixer, and DMX lights
 layout: single-works
 categories: ["composition"]
 tags: ["feedback"]
+featuredimage: /images/shadow-credit-Ben-Semisch.jpeg
 ---

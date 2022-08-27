@@ -6,4 +6,5 @@ description: video design
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
+featuredimage: /images/solstice-orrery.png
 ---

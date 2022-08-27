@@ -6,7 +6,7 @@ description: quartet ensemble and video processing
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/eclipse/eclipse02.jpg
+featuredimage: images/quartet.png
 ---
 
 {{< vimeo-float 540621361 65 right >}}
