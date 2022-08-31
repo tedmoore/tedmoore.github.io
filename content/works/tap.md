@@ -4,7 +4,6 @@ draft: false
 year: 2019
 description: percussion trio and multimedia
 layout: single-works
-weight: 1
 categories: ["composition"]
 tags: ["multimedia"]
 featuredimage: images/tap.png

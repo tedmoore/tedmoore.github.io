@@ -4,7 +4,6 @@ draft: false
 year: 2020
 description: string quartet and tape
 layout: single-works
-weight: 2
 categories: ["composition"]
 featuredimage: images/triangle.png
 ---

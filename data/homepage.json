@@ -1,8 +1,22 @@
 {
   "order":[
-    "tap","improv","DJII","aluminum-forest","triangle","quartet","it-teaches-us",
-    "still-motion","attacksustainrelease","patina","shadow",
-    "noise-gate","hold","for-line-upon-line","if-two-things",
-    "solstice-orrery","hollow"
+    "tap",
+    "improv",
+    "aluminum-forest",
+    "triangle",
+    "quartet",
+    "it-teaches-us",
+    "still-motion",
+    "circle",
+    "attacksustainrelease",
+    "hollow",
+    "patina",
+    "shadow",
+    "noise-gate",
+    "DJII",
+    "hold",
+    "for-line-upon-line",
+    "if-two-things",
+    "solstice-orrery"
   ]
 }
