@@ -6,11 +6,11 @@ description: performer, video feedback, and audio feedback
 layout: single-works
 categories: ["theater","composition"]
 tags: ["multimedia","feedback"]
-featuredimage: /images/appetite/appetite_promo_00.png
+featuredimage: /images/appetite/appetite-promo-05.png
 ---
 
-{{< vimeo-float 221813599 60 right >}}
-Created in collaboration with theater artist Charles Campbell of [Skewed Visions](https://skewedvisions.org/).
+{{< vimeo-float 221766997 60 right >}}
+Created in collaboration with theater artist Charles Campbell of {{< el "Skewed Visions" "https://skewedvisions.org/" >}}.
 
 _​APPETITE_ uses the principle of feedback (audio, video, and cultural) to create environments that, while structured and intentional, are open, unpredictable, and greater than the elements used in their construction.
 
