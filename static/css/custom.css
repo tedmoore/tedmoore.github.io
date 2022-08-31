@@ -13,35 +13,42 @@ img[src$='#floatright']
 	float:right;
 }
 
-/* Parent Container */.content_img{
+.container {
   position: relative;
-  width: 200px;
-  height: 200px;
-  float: left;
-  margin-right: 10px;
- }
- 
- /* Child Text Container */.content_img div{
+  width: 100%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
   position: absolute;
+  top: 0;
   bottom: 0;
+  left: 0;
   right: 0;
-  background: black;
-  color: white;
-  margin-bottom: 5px;
-  font-family: sans-serif;
+  height: 100%;
+  width: 100%;
   opacity: 0;
-  visibility: hidden;
-  -webkit-transition: visibility 0s, opacity 0.5s linear; 
-  transition: visibility 0s, opacity 0.5s linear;
- }
- 
- /* Hover on Parent Container */.content_img:hover{
-  cursor: pointer;
- }
- 
- .content_img:hover div{
-  width: 150px;
-  padding: 8px 15px;
-  visibility: visible;
-  opacity: 0.7; 
- }
+  transition: .5s ease;
+  background-color: #000000;
+}
+
+.container:hover .overlay {
+  opacity: 0.85;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}

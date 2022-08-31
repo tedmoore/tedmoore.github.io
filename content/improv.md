@@ -4,7 +4,7 @@ draft: false
 layout: single
 ---
 <!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
-{{< columnrow items="items-center">}}
+{{< columnrow items="items-center" >}}
 
 {{< column 30 >}}
 {{% center %}}
@@ -37,6 +37,8 @@ barely held in check"_
 
 {{< columnrow >}}
 {{% column 50 pr1 %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
+
+{{< soundcloud-float 1312713016 100 >}}
 
 ### _bruit_ (2020)
 
