@@ -1,7 +1,9 @@
 ---
 title: "improvisation"
+description: with live electronics
 draft: false
 layout: single
+featuredimage: /images/fabrizio.png
 ---
 <!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
 {{< columnrow items="items-center" >}}
@@ -35,10 +37,12 @@ barely held in check"_
 {{< /column >}}
 {{< /columnrow >}}
 
-{{< columnrow >}}
-{{% column 50 pr1 %}} <!-- the % signs make sure that what's in this column get's processed as markdown */}} -->
-
 {{< soundcloud-float 1312713016 100 >}}
+
+{{< line-break >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}} <!-- the % signs make sure that what's in this column get's processed as markdown -->
 
 ### _bruit_ (2020)
 
