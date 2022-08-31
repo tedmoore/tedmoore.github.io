@@ -21,7 +21,7 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * [Linear Assignment Algorithms](https://github.com/tedmoore/Linear-Assignment) Port (Munkres & Auction) (2019) (SuperCollider)
 * [TSNE](https://github.com/tedmoore/tSNE-SuperCollider) Port (2019) (SuperCollider, mostly superseded by [FluCoMa](https://www.flucoma.org/)'s [UMAP](https://learn.flucoma.org/reference/umap/) and other dimensionality reduction algorithms)
 * [Non-Real Time FFT & IFFT](https://github.com/tedmoore/FFTNRT) (client-side) (SuperCollider, superseded by [FluCoMa](https://www.flucoma.org/)'s [FluidBufSTFT](https://learn.flucoma.org/reference/stft/)) 
-* Live Video & Audio Sampler (2017) (C++, openFrameworks, see a [performance](/works/stillmotion) with this in use)
+* Live Video & Audio Sampler (2017) (C++, openFrameworks, see a [performance](/works/still-motion) with this in use)
 * ​[Voice Modulator](https://github.com/tedmoore/voice-modulator) for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
 * [LFO / Arpeggiator / Gate / Trigger](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) for Endorphin.es Shuttle Control (2016) (SuperCollider)
 * [Microtonal Keyboard](https://github.com/tedmoore/Microtonal-Keyboard) (2016) (SuperCollider)​
