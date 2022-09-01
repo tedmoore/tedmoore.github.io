@@ -159,6 +159,8 @@ paginate = 99
 [[params.works_order]]
   name = 'leviathan'
 [[params.works_order]]
+  name = 'gilgamesh-enkidu'
+[[params.works_order]]
   name = 'fiery-walls'
 
 # HOMEPAGE ORDER

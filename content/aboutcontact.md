@@ -21,7 +21,7 @@ layout: single
 {{% /column %}}
 {{% column 25 %}}
 {{% center %}}
-[hi-res photos](https://drive.google.com/drive/folders/1cJn0DmaVqoDwhxzdmvDsVPs7M8XEg4HD)
+{{< el "hi-res photos" "https://drive.google.com/drive/folders/1cJn0DmaVqoDwhxzdmvDsVPs7M8XEg4HD" >}}
 {{% /center %}}
 {{% /column %}}
 {{< /columnrow >}}

@@ -5,26 +5,26 @@ layout: single
 ---
 # Software
 {{% center 75 %}}  
-_Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my [github](https://github.com/tedmoore) for more._
+_Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
 {{% /center %}}  
-* [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist [Dana Jessen](https://www.danajessen.com/) (2022) (SuperCollider)
+* [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist {{< el "Dana Jessen" "https://www.danajessen.com/" >}} (2022) (SuperCollider)
 * [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
 * [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ openFrameworks)
 * [Aluminum Forest](/works/aluminum-forest) (2021) (Arduino & Supercollider)
-* [PlotXYColor](https://github.com/tedmoore/PlotXYColor) plotter for inspecting multi-dimensional data (2020) (SuperCollider)
-* [JSON Writer](https://github.com/tedmoore/JSON-Writer-Supercollider) (2020) (SuperCollider)
+* {{< el "PlotXYColor" "https://github.com/tedmoore/PlotXYColor" >}} plotter for inspecting multi-dimensional data (2020) (SuperCollider)
+* {{< el "JSON Writer" "https://github.com/tedmoore/JSON-Writer-Supercollider" >}} (2020) (SuperCollider)
 * Audio-Reactive Modular Video Design (2019) (C++, openFrameworks, Supercollider)
-* [Music Information Retrieval Tools](https://github.com/tedmoore/music-information-retrieval) (2019) (SuperCollider, superseded by [FluCoMa](https://www.flucoma.org/) tools)
-* [Neural Network](https://github.com/tedmoore/NeuralNetwork) (client side) (2019) (SuperCollider, superseded by [FluCoMa](https://www.flucoma.org/) tools) (see a [performance](/works/shadow) of this in use)
+* {{< el "Music Information Retrieval Tools" "https://github.com/tedmoore/music-information-retrieval" >}} (2019) (SuperCollider, superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}} tools)
+* {{< el "Neural Network" "https://github.com/tedmoore/NeuralNetwork" >}} (client side) (2019) (SuperCollider, superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}} tools) (see a [performance](/works/shadow) of this in use)
 * Module-Tensor: laptop improvisation software (2012-present) (SuperCollider) (see [performances](/improv) of this software in use)
-* [Poisson Disc Sampling](https://github.com/tedmoore/poisson_sampling_n_dims) in N-Dimensional Space (2019) (Python)
-* [Linear Assignment Algorithms](https://github.com/tedmoore/Linear-Assignment) Port (Munkres & Auction) (2019) (SuperCollider)
-* [TSNE](https://github.com/tedmoore/tSNE-SuperCollider) Port (2019) (SuperCollider, mostly superseded by [FluCoMa](https://www.flucoma.org/)'s [UMAP](https://learn.flucoma.org/reference/umap/) and other dimensionality reduction algorithms)
-* [Non-Real Time FFT & IFFT](https://github.com/tedmoore/FFTNRT) (client-side) (SuperCollider, superseded by [FluCoMa](https://www.flucoma.org/)'s [FluidBufSTFT](https://learn.flucoma.org/reference/stft/)) 
+* {{< el "Poisson Disc Sampling" "https://github.com/tedmoore/poisson_sampling_n_dims" >}} in N-Dimensional Space (2019) (Python)
+* {{< el "Linear Assignment Algorithms" "https://github.com/tedmoore/Linear-Assignment" >}} Port (Munkres & Auction) (2019) (SuperCollider)
+* {{< el "TSNE" "https://github.com/tedmoore/tSNE-SuperCollider" >}} Port (2019) (SuperCollider, mostly superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}}'s {{< el "UMAP" "https://learn.flucoma.org/reference/umap/" >}} and other dimensionality reduction algorithms)
+* [Non-Real Time FFT & IFFT](https://github.com/tedmoore/FFTNRT) (client-side) (SuperCollider, superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}}'s {{< el "FluidBufSTFT" "https://learn.flucoma.org/reference/stft/" >}}) 
 * Live Video & Audio Sampler (2017) (C++, openFrameworks, see a [performance](/works/still-motion) with this in use)
-* ​[Voice Modulator](https://github.com/tedmoore/voice-modulator) for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
+* ​{{< el "Voice Modulator" "https://github.com/tedmoore/voice-modulator" >}} for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
 * [LFO / Arpeggiator / Gate / Trigger](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) for Endorphin.es Shuttle Control (2016) (SuperCollider)
-* [Microtonal Keyboard](https://github.com/tedmoore/Microtonal-Keyboard) (2016) (SuperCollider)​
+* {{< el "Microtonal Keyboard" "https://github.com/tedmoore/Microtonal-Keyboard" >}} (2016) (SuperCollider)​
 
 # Writing
 {{< columnrow >}}

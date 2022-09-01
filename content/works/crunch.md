@@ -7,4 +7,5 @@ layout: single-works
 categories: ["composition"]
 ---
 
-Commissioned by Prairie Ghost (Erica Dicker, violin & Dana Jessen, bassoon)
+{{< soundcloud-float 1335924517 60 right>}}
+Commissioned by Prairie Ghost ({{< el "Erica Dicker" "http://www.ericadicker.com/" >}}, violin & {{< el "Dana Jessen" "https://www.danajessen.com/" >}}, bassoon).

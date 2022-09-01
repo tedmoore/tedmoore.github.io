@@ -7,5 +7,5 @@ layout: single-theater
 {{% center %}}
 _"A tip of the hat to Ted Moore’s sound design, wonderfully creepy."_  
 -Matthew Everett, TC Daily Planet  
-[full review](https://www.tcdailyplanet.net/review-body-house-strange-fun-site-specific-love-story/)
+{{< el "full review" "https://www.tcdailyplanet.net/review-body-house-strange-fun-site-specific-love-story/" >}}
 {{% /center %}}

@@ -13,7 +13,7 @@ featuredimage: /images/fabrizio.png
 _"alien soundscapes from some distant otherworld...enigmatic and well worth probing"_
 
 -Jazz Times  
-[full review](https://jazztimes.com/reviews/albums/binary-canary-iterative-systems-carrier/)
+{{< el "full review" "https://jazztimes.com/reviews/albums/binary-canary-iterative-systems-carrier/" >}}
 {{% /center %}}
 {{< /column >}}
 
@@ -22,7 +22,7 @@ _"alien soundscapes from some distant otherworld...enigmatic and well worth prob
 _"frankly unsafe"_
 
 -icareifyoulisten.com  
-[full review](https://icareifyoulisten.com/2017/08/binary-canary-guest-improvisers-bc1/)
+{{< el "full review" "https://icareifyoulisten.com/2017/08/binary-canary-guest-improvisers-bc1/" >}}
 {{% /center %}}
 {{< /column >}}
 
@@ -32,7 +32,7 @@ _"does indeed suggest the idea of algorithms gone haywire, of sounds and noise
 barely held in check"_
 
 -Downtown Music Gallery  
-[full review](https://www.downtownmusicgallery.com/newsletter_detail.php?newsID=1861)
+{{< el "full review" "https://www.downtownmusicgallery.com/newsletter_detail.php?newsID=1861" >}}
 {{% /center %}}
 {{< /column >}}
 {{< /columnrow >}}
@@ -46,11 +46,11 @@ barely held in check"_
 
 ### _bruit_ (2020)
 
-_bruit_ is a portrait album of improvisations in conversation with collaborators [Jenna Lyle](http://www.jennamarielyle.com/), [Ben Roidl-Ward](https://www.benroidlward.com/), [Yung-Tuan Ku](http://www.yungtuanku.com/), Emerson Hunton, Eric Krouse, [Anne La Berge](https://annelaberge.com/), and [Tom Weeks](http://tomweeksmusic.com/).
+_bruit_ is a portrait album of improvisations in conversation with collaborators {{< el "Jenna Lyle" "http://www.jennamarielyle.com/" >}}, {{< el "Ben Roidl-Ward" "https://www.benroidlward.com/" >}}, {{< el "Yung-Tuan Ku" "http://www.yungtuanku.com/" >}}, Emerson Hunton, Eric Krouse, {{< el "Anne La Berge" "https://annelaberge.com/" >}}, and {{< el "Tom Weeks" "http://tomweeksmusic.com/" >}}.
 All tracks feature Ted Moore improvising on electronics
 
 November 20, 2020  
-[Carrier Records](https://carrierrecords.com/) 056
+{{< el "Carrier Records" "https://carrierrecords.com/" >}} 056
 {{< /column >}}
 {{< column 50 >}}
 {{< bandcamp-album id="3748377265" title="bruit by Ted Moore" width="100%" >}}
@@ -69,7 +69,7 @@ November 20, 2020
 
 {{% center %}}
 
-## [Binary Canary](https://www.binarycanarymusic.com/)
+## {{< el "Binary Canary" "https://www.binarycanarymusic.com/" >}}
 laptop-woodwinds improvisation duo with saxophonist Kyle Hutchins
 
 ## Ars Electroacoustica

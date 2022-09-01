@@ -15,6 +15,5 @@ _“Everything is repeated, in a circle. History is a master because it teaches 
 -Umberto Eco from Foucault’s Pendulum 
 
 commissioned by percussionist Jeremy Johnston
-​ 
-
+​
 {{< el "full score" "/scores/it_teaches_us_that_it_doesnt_exist_by_ted_moore.pdf" >}}
