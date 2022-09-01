@@ -21,4 +21,4 @@ _"G"_ was designed by {{< el "Dana Jessen" "https://www.danajessen.com/" >}} and
   - allows a performer to work on multiple software configurations in parallel, possibly for different performances or contexts, and
   - allows a performer to rehearse with the same configuration of the software over time, developing an intuitive relationship with it and access to the musical expressivity that comes through practice.
 
-**DJII** is not currently publicly available.
+**DJII** is not currently publicly available, however you can view the [user manual](/documents/DJII_User_Manual.pdf).
