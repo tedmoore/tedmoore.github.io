@@ -217,3 +217,107 @@ paginate = 99
   name = 'spacer'
 [[params.homepage_order]]
   name = 'serge'
+
+# THEATER STUFF
+
+[[params.theater_list]]
+  Title = 'BODYTALK'
+  Year = '2019'
+  Description = 'Theater and Performing Arts Department, University of Chicago, Choreographed by Sophia Bell'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'The Broken Jug'
+  Year = '2018'
+  Description = 'Theater and Performing Arts Department, University of Chicago, Directed by Pirachula Chulanon'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'APPETITE'
+  Year = '2017'
+  Description = 'Ted Moore and Charles Campbell (Skewed Visions)'
+  role = 'Sound Design, Video Design, and Performance'
+  URL = '/works/appetite'
+[[params.theater_list]]
+  Title = 'These Are The Men'
+  Year = '2015'
+  Description = 'Umbrella Collective'
+  role = 'Sound Designer'
+  URL = 'https://www.umbrellaco.org/tatm-2015.html'
+[[params.theater_list]]
+  Title = 'PERSEPHONE'
+  Year = '2014'
+  Description = 'Choreography by Hannah Holman'
+  role = 'Composer and Sound Designer'
+  URL = '/works/persephone'
+[[params.theater_list]]
+  Title = 'Mineapolis Cubed'
+  Year = '2014'
+  Description = 'Directed by Eric F. Avery'
+  role = 'Composer, Sound Designer, Installation Artist, and Performer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'HWY 57'
+  Year = '2014'
+  Description = 'Choreography by Blake Nellis'
+  role = 'Composer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'Rapture'
+  Year = '2014'
+  Description = 'Umbrella Collective'
+  role = 'Composer and Sound Designer'
+  URL = 'https://www.umbrellaco.org/rapture-2014.html'
+[[params.theater_list]]
+  Title = 'Body House'
+  Year = '2014'
+  Description = 'Written by Megan Clark Directed by Gwethalyn Williams'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'These Are The Men (workshop)'
+  Year = '2014'
+  Description = 'Umbrella Collective'
+  role = 'Sound Designer'
+  URL = 'https://www.umbrellaco.org/tatm-workshop-2014.html'
+[[params.theater_list]]
+  Title = 'Leaves'
+  Year = '2013'
+  Description = 'Umbrella Collective'
+  role = 'Music Director and Guitarist'
+  URL = 'https://www.umbrellaco.org/leaves-2013.html'
+[[params.theater_list]]
+  Title = 'Rain Follows the Plow'
+  Year = '2013'
+  Description = 'Umbrella Collective'
+  role = 'Composer and Sound Designer'
+  URL = 'https://www.umbrellaco.org/rainfollows-2013.html'
+[[params.theater_list]]
+  Title = 'Emma Woodhouse is Not a Bitch'
+  Year = '2013'
+  Description = 'Umbrella Collective'
+  role = 'Sound Designer'
+  URL = 'https://www.umbrellaco.org/emma-2013.html'
+[[params.theater_list]]
+  Title = 'Care Enough'
+  Year = '2012'
+  Description = 'Umbrella Collective'
+  role = 'Composer and Sound Designer'
+  URL = 'none'
+
+[[params.theater_media]]
+  Title = "APPETITE"
+  info = "(excerpts)"
+  Year = "2017"
+  type = "vimeo"
+  id = "221813599"
+[[params.theater_media]]
+  Title = "PERSEPHONE"
+  Year = "2014"
+  type = "vimeo"
+  id = "115116613"
+[[params.theater_media]]
+  Title = "Body House"
+  Year = "2014"
+  type = "image"
+  path = "/images/body-house.jpg"
