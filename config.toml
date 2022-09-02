@@ -117,6 +117,8 @@ paginate = 99
 [[params.works_order]]
   name = 'still-motion'
 [[params.works_order]]
+  name = 'alloy'
+[[params.works_order]]
   name = 'hold'
 [[params.works_order]]
   name = 'feed'
@@ -208,15 +210,17 @@ paginate = 99
 [[params.homepage_order]]
   name = 'eclipse'
 [[params.homepage_order]]
+  name = 'alloy'
+[[params.homepage_order]]
   name = 'if-two-things'
+[[params.homepage_order]]
+  name = 'persephone'
+[[params.homepage_order]]
+  name = 'spacer'
 [[params.homepage_order]]
   name = 'solstice-orrery'
 [[params.homepage_order]]
   name = 'appetite'
-[[params.homepage_order]]
-  name = 'spacer'
-[[params.homepage_order]]
-  name = 'spacer'
 [[params.homepage_order]]
   name = 'serge'
 

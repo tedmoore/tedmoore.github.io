@@ -1,6 +1,7 @@
 ---
 title: Serge Modular Archive Instrument
 description: software for exploring vintage Serge sounds
+year: 2022
 draft: false
 featuredimage: /images/serge/serge-full.png
 ---
