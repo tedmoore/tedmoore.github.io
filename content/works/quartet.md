@@ -9,6 +9,8 @@ tags: ["multimedia"]
 featuredimage: images/quartet.png
 ---
 
+**_Musicologist {{< el "Jacob Hart" "https://jacob-hart.com/" >}} has written a nice article about this work. {{< el "Read it here" "https://learn.flucoma.org/explore/moore/" >}}._**
+
 {{< vimeo-float 540621361 65 right >}}
 _created with the [[Switch~ Ensemble]](http://www.switchensemble.com/):_  
 Zach Sheets, flute  

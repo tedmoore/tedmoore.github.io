@@ -10,8 +10,8 @@ featuredimage: /images/column-kyle.jpeg
 ---
 
 {{< vimeo-float 319280440 60 right >}}
-The spatialized sounds used were designed using custom spatialization algorithms (tuned to the space) and custom sound design software created in SuperCollider.
+The spatialized sounds used were designed using custom spatialization algorithms (tuned to the space) and custom sound design software created in {{< el "SuperCollider" "https://supercollider.github.io/" >}}.
 
-The DMX lights were composed and sequenced using a custom protocol between Reaper and SuperCollider.
+The DMX lights were composed and sequenced using a custom protocol between Reaper and {{< el "SuperCollider" "https://supercollider.github.io/" >}}.
 
 This is a stereo mixdown.

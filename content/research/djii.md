@@ -10,7 +10,7 @@ featuredimage: /images/djii-full.png
 {{< figure src="/images/djii-full.png#floatright" width="500px" >}}
 _Pronounced like the letter "G"_
 
-_"G"_ was designed by {{< el "Dana Jessen" "https://www.danajessen.com/" >}} and Ted Moore during 2021-2022 and coded by Ted Moore in SuperCollider. The software is designed to be used by an improvising solo musician as supporting electronics material.
+_"G"_ was designed by {{< el "Dana Jessen" "https://www.danajessen.com/" >}} and Ted Moore during 2021-2022 and coded by Ted Moore in {{< el "SuperCollider" "https://supercollider.github.io/" >}}. The software is designed to be used by an improvising solo musician as supporting electronics material.
 
 * The modular GUI design allows for intuitive exploration of sound possibilities including flexible matrix-based routing.
 * Software-wide state save and recall enables performer navigation through different preplanned sections of a performance. 

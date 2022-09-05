@@ -74,21 +74,21 @@ paginate = 99
   weight = 2
   url = '/installations/'
 [[menu.main]]
-  name = 'releases'
-  weight = 4
-  url = '/releases/'
-[[menu.main]]
   name = 'improv'
   weight = 3
   url = '/improv/'
 [[menu.main]]
-  name = 'research/software'
-  url = '/research/'
-  weight = 6
+  name = 'releases'
+  weight = 4
+  url = '/releases/'
 [[menu.main]]
   name = 'theater/dance'
   url = '/theaterdance/'
   weight = 5
+[[menu.main]]
+  name = 'research/software'
+  url = '/research/'
+  weight = 6
 [[menu.main]]
   name = 'about/contact'
   url = '/aboutcontact/'
@@ -111,53 +111,55 @@ paginate = 99
 [[params.works_order]]
   name = 'apsis-ii'
 [[params.works_order]]
-  name = 'for-line-upon-line'
-[[params.works_order]]
   name = 'circle'
 [[params.works_order]]
   name = 'still-motion'
-[[params.works_order]]
-  name = 'alloy'
-[[params.works_order]]
-  name = 'hold'
-[[params.works_order]]
-  name = 'feed'
-[[params.works_order]]
-  name = 'column'
 [[params.works_order]]
   name = 'patina'
 [[params.works_order]]
   name = 'it-teaches-us'
 [[params.works_order]]
-  name = 'hollow'
-[[params.works_order]]
-  name = 'crunch'
-[[params.works_order]]
   name = 'feathermucker'
 [[params.works_order]]
   name = 'solstice-orrery'
+[[params.works_order]]
+  name = 'apsis'
+[[params.works_order]]
+  name = 'hollow'
+[[params.works_order]]
+  name = 'if-two-things'
+[[params.works_order]]
+  name = 'eclipse'
+[[params.works_order]]
+  name = 'feed'
+[[params.works_order]]
+  name = 'alloy'
+[[params.works_order]]
+  name = 'for-line-upon-line'
+[[params.works_order]]
+  name = 'still-motion-b'
+[[params.works_order]]
+  name = 'hold'
+[[params.works_order]]
+  name = 'the-curve-is-exponential'
+[[params.works_order]]
+  name = 'transliteration'
+[[params.works_order]]
+  name = 'column'
+[[params.works_order]]
+  name = 'crunch'
 [[params.works_order]]
   name = 'shadow'
 [[params.works_order]]
   name = 'appetite'
 [[params.works_order]]
-  name = 'if-two-things'
-[[params.works_order]]
-  name = 'apsis'
-[[params.works_order]]
-  name = 'eclipse'
-[[params.works_order]]
   name = 'thread-fork-thread'
 [[params.works_order]]
-  name = 'the-curve-is-exponential'
+  name = 'persephone'
 [[params.works_order]]
   name = 'samara'
 [[params.works_order]]
   name = 'feedback-v'
-[[params.works_order]]
-  name = 'persephone'
-[[params.works_order]]
-  name = 'transliteration'
 [[params.works_order]]
   name = 'leviathan'
 [[params.works_order]]
@@ -216,11 +218,15 @@ paginate = 99
 [[params.homepage_order]]
   name = 'persephone'
 [[params.homepage_order]]
-  name = 'spacer'
+  name = 'still-motion-b'
 [[params.homepage_order]]
   name = 'solstice-orrery'
 [[params.homepage_order]]
   name = 'appetite'
+[[params.homepage_order]]
+  name = 'spacer'
+[[params.homepage_order]]
+  name = 'spacer'
 [[params.homepage_order]]
   name = 'serge'
 
