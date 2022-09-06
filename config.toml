@@ -198,6 +198,8 @@ paginate = 99
 [[params.homepage_order]]
   name = 'noise-gate'
 [[params.homepage_order]]
+  name = 'flucoma'
+[[params.homepage_order]]
   name = 'apsis'
 [[params.homepage_order]]
   name = 'transliteration'
