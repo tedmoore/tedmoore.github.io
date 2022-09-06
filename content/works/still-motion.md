@@ -6,7 +6,7 @@ description: percussionist and live video sampling
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: /images/still-motion.png
+featuredimage: /images/still-motion.jpg
 ---
 
 {{< youtube-float O0tJMihak4U 60 right>}} 

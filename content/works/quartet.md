@@ -6,7 +6,7 @@ description: quartet ensemble and video processing
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/quartet.png
+featuredimage: images/quartet.jpg
 ---
 
 **_Musicologist {{< el "Jacob Hart" "https://jacob-hart.com/" >}} has written a nice article about this work. {{< el "Read it here" "https://learn.flucoma.org/explore/moore/" >}}._**

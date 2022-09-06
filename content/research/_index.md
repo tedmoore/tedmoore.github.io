@@ -43,7 +43,7 @@ A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing t
 Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms and what I think it might all mean.
 {{% /column %}}
 {{< column >}}
-{{< figure src="/images/274.png" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
+{{< figure src="/images/274.jpg" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
@@ -53,7 +53,7 @@ Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelli
 The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
 {{% /column %}}
 {{< column >}}
-{{< figure src="/images/274.png" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
+{{< figure src="/images/274.jpg" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
@@ -63,7 +63,7 @@ The research I conducted for my PhD included a series of creative projects apply
 ### CCL
 
 
-{{< figure src="/images/00_resynth_buffer_with_activations.png#floatright" width="500px" link="https://learn.flucoma.org/learn/bufnmf/" >}}
+{{< figure src="/images/00_resynth_buffer_with_activations.jpg#floatright" width="500px" link="https://learn.flucoma.org/learn/bufnmf/" >}}
 ### Non-negative Matrix Factorization for Spatial Audio (2020)  
 Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was cancelled, but the organizers invited alumni to give talks about some aspect of their work with spatial audio. I presented my use of non-negative matrix factorization (NMF) for audio decomposition and spatialization. See the {{< el "NMF overview" "https://learn.flucoma.org/learn/bufnmf/" >}} I created for the FluCoMa project. 
 

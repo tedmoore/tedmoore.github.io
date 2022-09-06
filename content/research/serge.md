@@ -3,12 +3,12 @@ title: Serge Modular Archive Instrument
 description: software for exploring vintage Serge sounds
 year: 2022
 draft: false
-featuredimage: /images/serge/serge-full.png
+featuredimage: /images/serge/serge-full.jpg
 ---
 
 The _Serge Modular Archive Instrument_ (created in collaboration with {{< el "Jean Brazeau" "https://221a.ca/contributors/jean-brazeau/" >}}) is a sample-based computer emulation of selected patches on the vintage Serge Modular instrument that is housed at Simon Frasier University in Vancouver, Canada. The project is conceived of as both an instrument for sonic exploration and an archive of the sound worlds made by this 50+ year old instrument, including (or highlighting) all of the idiosyncrasies it has accumulated over the years.
 
-{{< figure src="/images/serge/serge-plot.png#floatright" width="500px" >}}
+{{< figure src="/images/serge/serge-plot.jpg#floatright" width="500px" >}}
 ### Recording & Analysis
 
 For each patch included (currently there are five) we recorded tens of thousands of one-second samples of different parameter settings by systematically stepping through parameter combinations (sent to the Serge using the {{< el "Expert Sleepers ES-3" "https://www.expert-sleepers.co.uk/es3.html" >}}). These samples were then analyzed using the {{< el "FluCoMa" "https://www.flucoma.org/" >}} Toolkit for analyses such as {{< el pitch "https://learn.flucoma.org/reference/pitch/" >}}, {{< el "spectral descriptors" "https://learn.flucoma.org/reference/spectralshape/" >}}, {{< el "timbral descriptors" "https://learn.flucoma.org/reference/mfcc/" >}}, {{< el loudness "https://learn.flucoma.org/reference/loudness/" >}}, and more. The data set created is then reduced to two dimensions using {{< el PCA "https://learn.flucoma.org/reference/pca/" >}} and then {{< el UMAP "https://learn.flucoma.org/reference/umap/" >}}.

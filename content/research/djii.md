@@ -4,10 +4,10 @@ year: 2021
 description: software to accompany improvisers
 draft: false
 layout: single
-featuredimage: /images/djii-full.png
+featuredimage: /images/djii-full.jpg
 ---
 
-{{< figure src="/images/djii-full.png#floatright" width="500px" >}}
+{{< figure src="/images/djii-full.jpg#floatright" width="500px" >}}
 _Pronounced like the letter "G"_
 
 _"G"_ was designed by {{< el "Dana Jessen" "https://www.danajessen.com/" >}} and Ted Moore during 2021-2022 and coded by Ted Moore in {{< el "SuperCollider" "https://supercollider.github.io/" >}}. The software is designed to be used by an improvising solo musician as supporting electronics material.

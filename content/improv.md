@@ -3,7 +3,7 @@ title: "improvisation"
 description: with live electronics
 draft: false
 layout: single
-featuredimage: /images/fabrizio.png
+featuredimage: /images/fabrizio.jpg
 ---
 <!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
 {{< columnrow items="items-center" >}}

@@ -5,7 +5,7 @@ year: 2014
 description: viola, tenor saxophone, percussion, piano, and live processing
 layout: single-works
 categories: ["composition","theater"]
-featuredimage: /images/persephone.png
+featuredimage: /images/persephone.jpg
 ---
 
 {{< vimeo-float 115116613 60 right >}}

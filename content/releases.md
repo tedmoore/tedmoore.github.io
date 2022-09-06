@@ -25,7 +25,7 @@ March 2020
 UChicago Arts
 {{% /column %}}
 {{< column 50 >}}
-{{< figure src="/images/ripple_effects.png" link="https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}}
+{{< figure src="/images/ripple_effects.jpg" link="https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}}
 {{< /column >}}
 {{< /columnrow >}}
 

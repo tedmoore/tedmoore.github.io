@@ -6,7 +6,7 @@ description: percussion trio and multimedia
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/tap.png
+featuredimage: images/tap.jpg
 ---
 
 {{< vimeo-float 339268455 65 right >}} 
@@ -21,4 +21,4 @@ By having everything controllable in one timeline, I was able to fluidly manipul
 
 [full score](/scores/tap_-_score_210611_01__with_tech_diagram_.pdf)
 
-{{< figure src="/images/tap/tap-api.png" caption="Custom API for controlling lights used in _tap_" >}} 
+{{< figure src="/images/tap/tap-api.jpg" caption="Custom API for controlling lights used in _tap_" >}} 
