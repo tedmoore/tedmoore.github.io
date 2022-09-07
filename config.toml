@@ -1,4 +1,4 @@
-baseURL = 'http://www.tedmooremusic.com/'
+baseURL = "https://tedmoore.github.io"
 languageCode = 'en-us'
 title = "Ted Moore | Composer, Improviser, Multimedia Artist"
 copyright = "Ted Moore. All Rights Reserved."
@@ -25,6 +25,10 @@ paginate = 99
   id = "_UV-tv2FAo8"
   type = "youtube"
 [[params.works_media]]
+  name = "quartet"
+  id = "C0FBNLy4NCM"
+  type = "youtube"
+[[params.works_media]]
   name = "apsis ii"
   id = "NNOv9wCXzMc"
   type = "youtube"
@@ -41,6 +45,11 @@ paginate = 99
   album = "3748377265"
   track = "1472216924"
   type = "bandcamp"
+[[params.works_media]]
+  name = "if two things..."
+  id = "8vEfSfQfbVg"
+  type = "youtube"
+
 [[params.ananke_socials]]
   name = "instagram"
   url = "https://instagram.com/_ted_moore_"

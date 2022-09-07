@@ -9,8 +9,9 @@ tags: ["multimedia"]
 featuredimage: /images/apsis-cubes.jpg
 ---
 
-{{< vimeo-float 187273227 60 right >}}
+{{< youtube-float D7gjS_hPveE 60 right >}}
 
-composed for and premiered by Strains New Music Ensemble
-
+composed for and premiered by Strains New Music Ensemble  
 {{< el "performance score" "/scores/apsis_by_ted_moore.pdf" >}}
+
+The video design was created mostly using {{< el Processing "https://processing.org/" >}}

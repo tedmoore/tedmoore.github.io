@@ -27,67 +27,99 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * {{< el "Microtonal Keyboard" "https://github.com/tedmoore/Microtonal-Keyboard" >}} (2016) (SuperCollider)​
 
 # Writing
+### "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
 {{< columnrow >}}
 {{% column 50 %}}
-### "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
 A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing that Žuraj composes using custom made computer-aided composition tools, this analysis reverse engineers some of the equations and algorithms that he may have used. A generative example using Žuraj's methods is included.
-{{% /column %}}
+
+{{% el "_read article_" "http://www.perspectivesofnewmusic.org/" %}}
+{{< /column >}}
 {{< column >}}
-{{< figure src="/images/zuraj_figure08.jpg" width="400px">}}
+{{< figure src="/images/zuraj_figure08.jpg" width="400px" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
-{{< columnrow >}}
-{{% column 60 %}}
 ### "Expression, Collaboration, and Intuition" _Wet Ink Archive_ (2022)
-Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms and what I think it might all mean.
-{{% /column %}}
-{{< column >}}
-{{< figure src="/images/274.jpg" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
-{{< /column >}}
-{{< /columnrow >}}
-
 {{< columnrow >}}
 {{% column 60 %}}
-### _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
-The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
-{{% /column %}}
+Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms.
+
+{{% el "_read article_" "https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" %}}
+{{< /column >}}
 {{< column >}}
-{{< figure src="/images/274.jpg" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
+{{< figure src="/images/274.jpg#floatright" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
+### _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
+{{< columnrow >}}
+{{% column 70 %}}
+The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
+
+{{% el "_read my PhD research_" "/documents/phd-research-ted-moore.pdf" %}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="/images/quartet-umap.jpg" width="400px" link="/documents/phd-research-ted-moore.pdf" >}}
+{{< /column >}}
+{{< /columnrow >}}
 
 # Presentations
 
-### CCL
-
-
-{{< figure src="/images/00_resynth_buffer_with_activations.jpg#floatright" width="500px" link="https://learn.flucoma.org/learn/bufnmf/" >}}
 ### Non-negative Matrix Factorization for Spatial Audio (2020)  
+{{< columnrow >}}
+{{% column 70 %}}
 Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was cancelled, but the organizers invited alumni to give talks about some aspect of their work with spatial audio. I presented my use of non-negative matrix factorization (NMF) for audio decomposition and spatialization. See the {{< el "NMF overview" "https://learn.flucoma.org/learn/bufnmf/" >}} I created for the FluCoMa project. 
+{{< /column >}}
+{{< column >}}
+{{< figure src="/images/00_resynth_buffer_with_activations.jpg" width="400px" link="https://learn.flucoma.org/learn/bufnmf/" >}}
+{{< /column >}}
+{{< /columnrow >}}
 
-### Interference Patterns: analysis of interacting feedbacks in _hollow_ (2020)
+### Interference Patterns: analysis of interacting feedbacks in _hollow_ (2020) {#interference-patterns}
+{{< columnrow >}}
+{{% column 70 %}}
+This presentation analyzes the feedback system of my piece, [_hollow_](/works/hollow), which uses three large PVC tubes to create feedback at the resonant frequencies of the tubes. Through filtering, delay line modulation, and serial feedback routing, various emergent sonic properties arise. Analysis of the resulting sounds provides some insight into the behaviors of the system.
 
-This presentation analyzes the feedback system of my piece, hollow, which uses three large PVC tubes to create feedback at the resonant frequencies of the tubes. Through filtering, delay line modulation and serial feedback routing, various emergent sonic properties arise. Analysis of the resulting sounds provides some insight into the behaviors of the system.
+{{< el slides "/documents/chimefest-2020.pdf" >}}
+{{< /column >}}
+{{< column >}}
+{{< figure src="/images/hollow.jpg" width="400px" link="/works/hollow" >}}
+{{< /column >}}
+{{< /columnrow >}}
 
-{{< el slides "" >}}
-
-{{< youtube-float jMZP_UF8gg0 80 right >}}
 ### Preserving User-Defined Expression through Dimensionality Reduction (2019)
+{{% columnrow %}}
+{{% column 50 %}}
 This is a talk a I gave at the FluCoMa Plenary Session at CeReNeM at the University of Huddersfield in the UK. It demonstrates various machine learning algorithms implemented in my improvisation software and how I use those algorithms to explore new modes of expressivity.  
 
-{{< el "video of talk" "" >}}  
-{{< el slides "" >}}  
+{{< el slides "/documents/huddersfield_2019.pdf" >}}
+{{% /column %}}
+{{% column 50 %}}
+{{% youtube jMZP_UF8gg0 %}}
+{{% /column %}}
+{{% /columnrow %}}
 
 ### ​Machine Learning Applications for Live Computer Music Performance (2019)
+{{% columnrow %}}
+{{% column 50 %}}
 
-Presentation at the University of Chicago Digital Media Workshop. This presentation demonstrates three uses of machine learning in live computer music performance: (1) using a neural network to classify no-input mixer timbres for light control, (2) a frequency modulation synthesizer that predictions synthesis parameters based on novel incoming spectra, and (3) a TSNE based dimensionality reduction system for low-dimensional control of synthesizers with high-dimensional parameters spaces.  
+Presentation at the University of Chicago Digital Media Workshop. This presentation demonstrates three uses of machine learning in live computer music performance: (1) using a {{< el "neural network" "https://github.com/tedmoore/NeuralNetwork" >}} to classify no-input mixer timbres for light control, (2) a frequency modulation synthesizer that predictions synthesis parameters based on novel incoming spectra, and (3) a {{< el "TSNE" "https://github.com/tedmoore/tSNE-SuperCollider" >}} based dimensionality reduction system for low-dimensional control of synthesizers with high-dimensional parameters spaces.
 
-{{< el slides "" >}}
+{{< el slides "/documents/dmw-slides.pdf" >}}
+{{% /column %}}
+{{% column 50 %}}
+{{< figure src="/images/tsne-mapper-02.jpg" width="400px" >}}
+{{% /column %}}
+{{% /columnrow %}}
 
 ### Approaches to Live Performance and Composition with Machine Learning and Music Information Retrieval Analysis (2019)
-
+{{% columnrow %}}
+{{% column 50 %}}
 This presentation offers three creative uses of machine learning: (1) using audio descriptor analysis and machine learning to organize grains of audio into a performable two dimensional space, (2) using a neural network to classify no-input mixer timbres for light control, and (3) using a traveling salesperson pathfinding algorithm to re-organize audio grains into a new sequence.  
 
-{{< el slides "" >}}
+{{< el slides "/documents/chimefest-2019.pdf" >}}
+{{% /column %}}
+{{% column 50 %}}
+{{< figure src="/images/chimefest-2019.jpg" width="400px" >}}
+{{% /column %}}
+{{% /columnrow %}}

@@ -57,13 +57,13 @@ November 20, 2020
 {{< /column >}}
 {{< /columnrow >}}
 
-{{< vimeo 565771489 >}} <!-- impro with fabrizio spera -->
+{{< youtube qTHJaryNgBo >}} <!-- impro with fabrizio spera -->
 
-{{< vimeo 702084783 >}} <!-- impro with ben opie -->
+{{< youtube 8SHOU9j_kfg >}} <!-- impro with ben opie -->
 
 {{< youtube 26jz6cdNhEQ >}} <!-- impro with rodrigo constanzo -->
 
-{{< vimeo 380576819 >}} <!-- impro with Kyle Bruckmann and Macie Stewart -->
+{{< youtube JuZkJLg2Vgo >}} <!-- impro with Kyle Bruckmann and Macie Stewart -->
 
 {{< youtube rqr8KXlAhi0 >}} <!-- talking free music -->
 
