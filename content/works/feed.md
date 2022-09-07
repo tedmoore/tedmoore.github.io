@@ -6,7 +6,7 @@ description: bassoon, live processing, no-input-mixer, tape, and DMX lights
 layout: single-works
 categories: ["composition"]
 tags: ["feedback","multimedia","dmx"]
-featuredimage: /images/feed-duo.jpeg
+featured_image: /images/feed-duo.jpg
 ---
 
 {{< youtube-float YR7me9SsLSE 60 right >}}

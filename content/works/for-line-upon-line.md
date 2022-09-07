@@ -6,7 +6,7 @@ description: video
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: /images/for-line-upon-line.jpg
+featured_image: /images/for-line-upon-line.jpg
 ---
 
 {{< youtube-float 0QikxPYPV58 60 right >}}

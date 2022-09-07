@@ -5,7 +5,7 @@ year: 2018
 description: orchestra
 layout: single-works
 categories: ["composition"]
-featuredimage: images/patina.jpg
+featured_image: images/patina.jpg
 ---
 
 {{< soundcloud-float 688612213 60 >}}

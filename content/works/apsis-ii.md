@@ -5,7 +5,7 @@ year: 2020
 description: piano four hands and tape
 layout: single-works
 categories: ["composition"]
-featuredimage: /images/apsis-ii.jpg
+featured_image: /images/apsis-ii.jpg
 ---
 
 {{< youtube-float NNOv9wCXzMc 60 right >}}

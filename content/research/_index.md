@@ -27,7 +27,7 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * {{< el "Microtonal Keyboard" "https://github.com/tedmoore/Microtonal-Keyboard" >}} (2016) (SuperCollider)​
 
 # Writing
-### "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
+## "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
 {{< columnrow >}}
 {{% column 50 %}}
 A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing that Žuraj composes using custom made computer-aided composition tools, this analysis reverse engineers some of the equations and algorithms that he may have used. A generative example using Žuraj's methods is included.
@@ -39,7 +39,7 @@ A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing t
 {{< /column >}}
 {{< /columnrow >}}
 
-### "Expression, Collaboration, and Intuition" _Wet Ink Archive_ (2022)
+## "Expression, Collaboration, and Intuition" _Wet Ink Archive_ (2022)
 {{< columnrow >}}
 {{% column 60 %}}
 Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms.
@@ -51,7 +51,7 @@ Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelli
 {{< /column >}}
 {{< /columnrow >}}
 
-### _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
+## _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
 {{< columnrow >}}
 {{% column 70 %}}
 The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
@@ -65,7 +65,7 @@ The research I conducted for my PhD included a series of creative projects apply
 
 # Presentations
 
-### Non-negative Matrix Factorization for Spatial Audio (2020)  
+## Non-negative Matrix Factorization for Spatial Audio (2020)  
 {{< columnrow >}}
 {{% column 70 %}}
 Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was cancelled, but the organizers invited alumni to give talks about some aspect of their work with spatial audio. I presented my use of non-negative matrix factorization (NMF) for audio decomposition and spatialization. See the {{< el "NMF overview" "https://learn.flucoma.org/learn/bufnmf/" >}} I created for the FluCoMa project. 
@@ -75,7 +75,7 @@ Due to COVID-19 the 2020 Spatial Music Workshop in the Cube at Virginia Tech was
 {{< /column >}}
 {{< /columnrow >}}
 
-### Interference Patterns: analysis of interacting feedbacks in _hollow_ (2020) {#interference-patterns}
+## Interference Patterns: analysis of interacting feedbacks in _hollow_ (2020) {#interference-patterns}
 {{< columnrow >}}
 {{% column 70 %}}
 This presentation analyzes the feedback system of my piece, [_hollow_](/works/hollow), which uses three large PVC tubes to create feedback at the resonant frequencies of the tubes. Through filtering, delay line modulation, and serial feedback routing, various emergent sonic properties arise. Analysis of the resulting sounds provides some insight into the behaviors of the system.
@@ -87,7 +87,7 @@ This presentation analyzes the feedback system of my piece, [_hollow_](/works/ho
 {{< /column >}}
 {{< /columnrow >}}
 
-### Preserving User-Defined Expression through Dimensionality Reduction (2019)
+## Preserving User-Defined Expression through Dimensionality Reduction (2019)
 {{% columnrow %}}
 {{% column 50 %}}
 This is a talk a I gave at the FluCoMa Plenary Session at CeReNeM at the University of Huddersfield in the UK. It demonstrates various machine learning algorithms implemented in my improvisation software and how I use those algorithms to explore new modes of expressivity.  
@@ -99,7 +99,7 @@ This is a talk a I gave at the FluCoMa Plenary Session at CeReNeM at the Univers
 {{% /column %}}
 {{% /columnrow %}}
 
-### ​Machine Learning Applications for Live Computer Music Performance (2019)
+## ​Machine Learning Applications for Live Computer Music Performance (2019)
 {{% columnrow %}}
 {{% column 50 %}}
 
@@ -112,7 +112,7 @@ Presentation at the University of Chicago Digital Media Workshop. This presentat
 {{% /column %}}
 {{% /columnrow %}}
 
-### Approaches to Live Performance and Composition with Machine Learning and Music Information Retrieval Analysis (2019)
+## Approaches to Live Performance and Composition with Machine Learning and Music Information Retrieval Analysis (2019)
 {{% columnrow %}}
 {{% column 50 %}}
 This presentation offers three creative uses of machine learning: (1) using audio descriptor analysis and machine learning to organize grains of audio into a performable two dimensional space, (2) using a neural network to classify no-input mixer timbres for light control, and (3) using a traveling salesperson pathfinding algorithm to re-organize audio grains into a new sequence.  

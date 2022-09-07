@@ -6,7 +6,7 @@ description: mouth performer and live video sampling
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: /images/still-motion-b-pc-Ben-Semisch.jpeg
+featured_image: /images/still-motion-b-pc-Ben-Semisch.jpeg
 ---
 
 {{< youtube-float O0tJMihak4U 60 right>}} 

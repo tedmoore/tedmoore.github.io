@@ -5,8 +5,8 @@ year: 2018
 description: feedback saxophone and feedback PVC tubes
 layout: single-works
 categories: ["composition"]
-tags: ["feedback"]
-featuredimage: /images/hollow.jpg
+tags: ["feedback","dmx"]
+featured_image: /images/hollow.jpg
 ---
 
 

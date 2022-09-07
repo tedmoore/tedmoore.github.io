@@ -5,7 +5,7 @@ year: 2020
 description: string quartet and tape
 layout: single-works
 categories: ["composition"]
-featuredimage: images/triangle.jpg
+featured_image: images/triangle.jpg
 ---
 
 {{< youtube-float Ol-9ReF3IVA 65 right >}}

@@ -5,7 +5,7 @@ draft: false
 year: 2018
 layout: single-works
 categories: ["feedback"]
-featuredimage: /images/alloy.jpg
+featured_image: /images/alloy.jpg
 ---
 
 {{< youtube-float VFkfebZ0ESc 60 right >}}

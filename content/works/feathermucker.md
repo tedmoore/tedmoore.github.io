@@ -6,7 +6,7 @@ description: mezzo soprano, guitar, live electronics
 layout: single-works
 categories: ["composition"]
 tags: ["feedback"]
-featuredimage: /images/feathermucker-painting.jpg
+featured_image: /images/feathermucker-painting.jpg
 ---
 
 <iframe style="border: 0; width: 350px; height: 470px;float:right" src="https://bandcamp.com/EmbeddedPlayer/album=3589582284/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://tedmoore.bandcamp.com/album/feathermucker">FEATHERMUCKER by Ted Moore featuring The Dream Songs Project with text by Timothy Otte</a></iframe>

@@ -6,7 +6,7 @@ description: feedback saxophone, saxohpone wtih embeded electronics, 142 speaker
 layout: single-works
 categories: ["composition"]
 tags: ["feedback","multimedia","dmx"]
-featuredimage: /images/column-kyle.jpeg
+featured_image: /images/column-kyle.jpeg
 ---
 
 {{< youtube-float pTDglas700s 60 right >}}

@@ -3,7 +3,8 @@ title: Serge Modular Archive Instrument
 description: software for exploring vintage Serge sounds
 year: 2022
 draft: false
-featuredimage: /images/serge/serge-full.jpg
+featured_image: /images/serge/serge-full.jpg
+tags: ["software"]
 ---
 
 The _Serge Modular Archive Instrument_ (created in collaboration with {{< el "Jean Brazeau" "https://221a.ca/contributors/jean-brazeau/" >}}) is a sample-based computer emulation of selected patches on the vintage Serge Modular instrument that is housed at Simon Frasier University in Vancouver, Canada. The project is conceived of as both an instrument for sonic exploration and an archive of the sound worlds made by this 50+ year old instrument, including (or highlighting) all of the idiosyncrasies it has accumulated over the years.

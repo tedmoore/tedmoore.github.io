@@ -4,7 +4,7 @@ year: 2012
 draft: false
 layout: single-works
 categories: ["installation","dmx"]
-featuredimage: /images/asr.jpg
+featured_image: /images/asr.jpg
 description: "speakers, water, light, and noise"
 ---
 

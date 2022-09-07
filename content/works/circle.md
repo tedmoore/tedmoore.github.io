@@ -5,8 +5,8 @@ year: 2018
 description: string quartet, six channel tape, feedback PVC tubes, and DMX lights
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia","dmx"]
-featuredimage: /images/circle-featured-image.jpg
+tags: ["multimedia","dmx","feedback"]
+featured_image: /images/circle-featured-image.jpg
 ---
 
 {{< soundcloud-float 462225324 60 right>}}

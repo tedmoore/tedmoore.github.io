@@ -4,7 +4,8 @@ year: 2021
 description: software to accompany improvisers
 draft: false
 layout: single
-featuredimage: /images/djii-full.jpg
+featured_image: /images/djii-full.jpg
+tags: ["software"]
 ---
 
 {{< figure src="/images/djii-full.jpg#floatright" width="500px" >}}

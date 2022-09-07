@@ -3,7 +3,7 @@ title: "improvisation"
 description: with live electronics
 draft: false
 layout: single
-featuredimage: /images/fabrizio.jpg
+featured_image: /images/fabrizio.jpg
 ---
 <!-- two spaces at the end of the line makes it a line return but without a paragraph space -->
 {{< columnrow items="items-center" >}}
@@ -75,25 +75,25 @@ laptop-woodwinds improvisation duo with saxophonist Kyle Hutchins
 ## Ars Electroacoustica
 avant garde improvisation using electronic and acoustic instruments  
 Fall 2015-Spring 2017  
-co-hosted with laptop improviser Scott Miller
+co-hosted with laptop improviser {{< el "Scott Miller" "https://scottlmiller.bandcamp.com/" >}}
 
 **_Ars Electroacoustica_ guest improvisers:**  
-Pat O'Keefe  
-Kyle Hutchins  
-Davu Seru  
-Elaine Evans  
-Dan Lippel  
-Jacqueline Ultan  
-Nathan Hanson  
-Jorrit Dijkstra  
-Adam Zahller  
+{{< el "Pat O'Keefe" "https://www.patokeefe.org/" >}}  
+{{< el "Kyle Hutchins" "http://www.jefferykylehutchins.com/" >}}  
+{{< el "Davu Seru" "https://davuseru.com/" >}}  
+{{< el "Elaine Evans" "https://myspace.com/elaineevans" >}}  
+{{< el "Dan Lippel" "https://danlippel.com/" >}}  
+{{< el "Jacqueline Ultan" "https://www.linkedin.com/in/jacqueline-ultan-86222923" >}}  
+{{< el "Nathan Hanson" "https://www.nathanhanson.com/" >}}  
+{{< el "Jorrit Dijkstra" "https://www.jorritdijkstra.com/compositions/" >}}  
+{{< el "Adam Zahller" "http://www.adamzahller.com/" >}}  
 Sarah Porwoll-Lee  
-Nick Zielinski  
-Carl Fisk  
+{{< el "Nick Zielinski" "https://vimeo.com/nickzielinski" >}}  
+{{< el "Carl Fisk" "https://www.facebook.com/carl.fisk.3" >}}  
 Noah Ophoven-Baldwin  
-Sam Pluta  
-Peter Evans  
-Alex Bissen (IOSIS)​  
-​Ben Roidl-Ward  
-Jen Hill  
+{{< el "Sam Pluta" "http://sampluta.com/" >}}  
+{{< el "Peter Evans" "https://www.peterevanstrumpet.com/" >}}  
+{{< el "Alex Bissen (IOSIS)" "https://www.facebook.com/IOSISDRONE/" >}}​  
+{{< el "​Ben Roidl-Ward" "https://www.benroidlward.com/" >}}  
+{{< el "Jen Hill" "http://www.jenhill.art/bio/" >}}  
 {{% /center %}}

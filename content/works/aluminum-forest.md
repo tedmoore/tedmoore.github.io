@@ -4,7 +4,7 @@ draft: false
 year: 2021
 layout: single-works
 categories: ["installation"]
-featuredimage: /images/aluminum-forest-pc-Giorgio-Benni-courtesy-of-AAR.jpeg
+featured_image: /images/aluminum-forest-pc-Giorgio-Benni-courtesy-of-AAR.jpeg
 photocredit: "Gorgio Benni"
 description: "Arduino controlled wind chimes"
 ---

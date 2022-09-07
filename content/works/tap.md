@@ -6,7 +6,7 @@ description: percussion trio and multimedia
 layout: single-works
 categories: ["composition"]
 tags: ["multimedia"]
-featuredimage: images/tap.jpg
+featured_image: images/tap.jpg
 ---
 
 {{< youtube-float DoVEwDdaLYQ 65 right >}} 

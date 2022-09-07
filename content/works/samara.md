@@ -5,7 +5,7 @@ year: 2014
 description: string quartet and alto flute
 layout: single-works
 categories: ["composition"]
-featuredimage: /images/samara.jpg
+featured_image: /images/samara.jpg
 ---
 
 {{< soundcloud-float 162296146 60 >}}
