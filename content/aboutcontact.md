@@ -11,7 +11,7 @@ layout: single
 {{% /column %}}
 {{% column 25 %}}
 {{% center %}}
-[CV](/documents/Ted_Moore_CV.pdf)
+[CV](/documents/Ted-Moore-CV.pdf)
 {{% /center %}}
 {{% /column %}}
 {{% column 25 %}}
