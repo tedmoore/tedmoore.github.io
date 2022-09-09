@@ -13,4 +13,4 @@ featured_image: /images/still-motion-b-pc-Ben-Semisch.jpeg
 
 _still motion b_ uses live audio and video sampling of the performer's mouth, the projection of which creates a counterpoint to the live performance. All of the sampling is done with an {{< el openFrameworks "https://openframeworks.cc/" >}} program coded in C++.
 
-[Contact me](/aboutcontact) for the software download.
+[Contact me](/about-contact) for the software download.

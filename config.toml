@@ -100,7 +100,7 @@ paginate = 99
   weight = 6
 [[menu.main]]
   name = 'about/contact'
-  url = '/aboutcontact/'
+  url = '/about-contact/'
   weight = 7
 [markup]
   [markup.goldmark]

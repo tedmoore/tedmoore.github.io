@@ -14,10 +14,16 @@ _FluCoMa_ enables techno-fluent musicians to integrate machine listening and mac
 
 My main focus on the project was developing pedagogical and learning materials, including lesson plans, teaching workshops, developing curricula, and creating content for FluCoMa learning website, {{< el "learn.flucoma.org" "learn.flucoma.org" >}}. I also lead the thinking on the SuperCollider interface, help files, SuperCollider-specific tools. 
 
-If you have questions about FluCoMa or are curious where to start, please [get in touch](/aboutcontact)!
+If you have questions about FluCoMa or are curious where to start, please [get in touch](/about-contact)!
 
 ### FluCoMa Tutorials
 
 {{< youtube XfNZzQPdPG0 >}} <!-- regressor max -->
 
+{{< youtube mxmMBvi3Cb0 >}} <!-- regressor sc -->
+
 {{< youtube cjk9oHw7PQg >}} <!-- classifier max -->
+
+{{< youtube Y1cHmtbQPSk >}} <!-- classifier sc -->
+
+{{< youtube 9yoAGbs2eJ8 >}} <!-- 2d corpus sc -->

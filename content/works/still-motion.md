@@ -16,4 +16,4 @@ _still motion_ uses live audio and video sampling of the performing percussionis
 
 {{< el "full score" "/scores/still_motion_by_ted_moore.pdf" >}}
 
-[Contact me](/aboutcontact) for the software download.
+[Contact me](/about-contact) for the software download.

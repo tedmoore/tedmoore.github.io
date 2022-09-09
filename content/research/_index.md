@@ -3,6 +3,9 @@ title: research & software
 draft: false
 layout: single
 ---
+
+Learn more [here](/research/flucoma) about my University of Huddersfield {{< el "CeReNeM" "https://research.hud.ac.uk/institutes-centres/cerenem/" >}} postdoc research on the [Fluid Corpus Manipulation](/research/flucoma) project.
+
 # Software
 {{% center 75 %}}  
 _Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
@@ -16,7 +19,7 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * Audio-Reactive Modular Video Design (2019) (C++, {{< el "openFrameworks" "https://openframeworks.cc/" >}}, {{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * {{< el "Music Information Retrieval Tools" "https://github.com/tedmoore/music-information-retrieval" >}} (2019) (SuperCollider, superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}} tools)
 * {{< el "Neural Network" "https://github.com/tedmoore/NeuralNetwork" >}} (client side) (2019) (SuperCollider, superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}} tools) (see a [performance](/works/shadow) of this in use)
-* Module-Tensor: laptop improvisation software (2012-present) (SuperCollider) (see [performances](/improv) of this software in use)
+* [Module-Tensor](/research/module-tensor): laptop improvisation software (2014-present) (SuperCollider) (see [performances](/improv) of this software in use)
 * {{< el "Poisson Disc Sampling" "https://github.com/tedmoore/poisson_sampling_n_dims" >}} in N-Dimensional Space (2019) (Python)
 * {{< el "Linear Assignment Algorithms" "https://github.com/tedmoore/Linear-Assignment" >}} Port (Munkres & Auction) (2019) (SuperCollider)
 * {{< el "TSNE" "https://github.com/tedmoore/tSNE-SuperCollider" >}} Port (2019) (SuperCollider, mostly superseded by {{< el "FluCoMa" "https://www.flucoma.org/" >}}'s {{< el "UMAP" "https://learn.flucoma.org/reference/umap/" >}} and other dimensionality reduction algorithms)
@@ -99,10 +102,9 @@ This is a talk a I gave at the FluCoMa Plenary Session at CeReNeM at the Univers
 {{% /column %}}
 {{% /columnrow %}}
 
-## ​Machine Learning Applications for Live Computer Music Performance (2019)
+## ​Machine Learning Applications for Live Computer Music Performance (2019) {#dmw-talk}
 {{% columnrow %}}
 {{% column 50 %}}
-
 Presentation at the University of Chicago Digital Media Workshop. This presentation demonstrates three uses of machine learning in live computer music performance: (1) using a {{< el "neural network" "https://github.com/tedmoore/NeuralNetwork" >}} to classify no-input mixer timbres for light control, (2) a frequency modulation synthesizer that predictions synthesis parameters based on novel incoming spectra, and (3) a {{< el "TSNE" "https://github.com/tedmoore/tSNE-SuperCollider" >}} based dimensionality reduction system for low-dimensional control of synthesizers with high-dimensional parameters spaces.
 
 {{< el slides "/documents/dmw-slides.pdf" >}}
