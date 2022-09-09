@@ -1,3 +1,6 @@
+cd public
+rm -rf *
+cd ..
 hugo --minify
 cd public
 git add .
