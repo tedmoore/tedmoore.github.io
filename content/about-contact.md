@@ -16,7 +16,7 @@ layout: single
 {{% /column %}}
 {{% column 25 %}}
 {{% center %}}
-[performance history]()
+[performance history](/performances-appearances)
 {{% /center %}}
 {{% /column %}}
 {{% column 25 %}}
