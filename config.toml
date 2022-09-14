@@ -93,7 +93,7 @@ paginate = 99
   url = '/releases/'
 [[menu.main]]
   name = 'theater/dance'
-  url = '/theaterdance/'
+  url = '/theater-dance/'
   weight = 5
 [[menu.main]]
   name = 'research/software'
