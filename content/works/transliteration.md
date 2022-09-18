@@ -4,7 +4,8 @@ draft: false
 year: 2022
 description: book
 layout: single-works
-categories: ["composition","multimedia"]
+categories: ["composition"]
+tags: ["multimedia"]
 featured_image: images/transliteration.jpg
 ---
 

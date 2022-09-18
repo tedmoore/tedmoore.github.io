@@ -4,7 +4,7 @@ description: feedback cymbal and multiphonics
 draft: false
 year: 2018
 layout: single-works
-categories: ["feedback"]
+tags: ["feedback","machine learning"]
 featured_image: /images/alloy.jpg
 ---
 

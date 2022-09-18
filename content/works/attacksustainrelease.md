@@ -3,7 +3,8 @@ title: "attackSUSTAINrelease"
 year: 2012
 draft: false
 layout: single-works
-categories: ["installation","lights"]
+categories: ["installation"]
+tags: ["lights"]
 featured_image: /images/asr.jpg
 description: "speakers, water, light, and noise"
 ---

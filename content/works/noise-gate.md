@@ -5,7 +5,7 @@ year: 2021
 description: double bass, tape, and video
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia","video"]
+tags: ["multimedia","video","machine learning"]
 featured_image: /images/noise-gate.jpeg
 ---
 
