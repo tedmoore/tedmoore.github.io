@@ -1,6 +1,6 @@
 baseURL = "https://tedmoore.github.io"
 languageCode = 'en-us'
-title = "Ted Moore | Composer, Improviser, Multimedia Artist"
+title = "Ted Moore | Composer, Improviser, Intermedia Artist"
 copyright = "Ted Moore. All Rights Reserved."
 theme = ["gohugo-theme-ananke"]
 paginate = 99

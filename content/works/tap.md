@@ -2,10 +2,10 @@
 title: "tap"
 draft: false
 year: 2019
-description: percussion trio and multimedia
+description: percussion trio and intermedia
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia","video","lights"]
+tags: ["intermedia","video","lights"]
 featured_image: images/tap.jpg
 ---
 

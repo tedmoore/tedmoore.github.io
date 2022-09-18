@@ -5,7 +5,7 @@ year: 2017
 description: video design
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia","video"]
+tags: ["intermedia","video"]
 featured_image: /images/solstice-orrery.jpg
 ---
 

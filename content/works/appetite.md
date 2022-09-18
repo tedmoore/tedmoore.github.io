@@ -5,7 +5,7 @@ year: 2017
 description: performer, video feedback, and audio feedback
 layout: single-works
 categories: ["theater","composition"]
-tags: ["multimedia","feedback","video"]
+tags: ["intermedia","feedback","video"]
 featured_image: /images/appetite/appetite-promo-05.jpg
 ---
 
