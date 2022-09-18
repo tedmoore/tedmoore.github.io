@@ -49,6 +49,14 @@ paginate = 99
   name = "if two things..."
   id = "8vEfSfQfbVg"
   type = "youtube"
+[[params.works_media]]
+  name = "circle"
+  id = "462225324"
+  type = "soundcloud"
+[[params.works_media]]
+  name = "it teaches us that it doesn't exist"
+  id = "_sXEiksYkco"
+  type = "youtube"
 
 [[params.ananke_socials]]
   name = "instagram"
