@@ -5,7 +5,7 @@ year: 2020
 description: video
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia"]
+tags: ["multimedia","video"]
 featured_image: /images/for-line-upon-line.jpg
 ---
 

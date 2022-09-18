@@ -5,7 +5,7 @@ year: 2021
 description: quartet ensemble and video processing
 layout: single-works
 categories: ["composition"]
-tags: ["multimedia"]
+tags: ["multimedia","video"]
 featured_image: images/quartet.jpg
 ---
 
