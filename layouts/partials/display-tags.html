@@ -1,0 +1,9 @@
+{{ if gt (len (.GetTerms "tags")) 0}}
+    <div class="tl">
+        <p>tags: 
+        {{ range $index, $element := (.GetTerms "tags") }}
+            {{ if gt $index 0}}{{- "" -}}, {{end}}<a href="{{- .Permalink -}}">{{- .LinkTitle -}}</a>
+        {{ end }}</p>
+        <p><a href="/tags/"><i>see all tags</i></a></p>
+    </div>
+{{end}}
