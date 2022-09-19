@@ -212,6 +212,8 @@ paginate = 99
 [[params.homepage_order]]
   name = 'patina'
 [[params.homepage_order]]
+  name = 'binary-canary'
+[[params.homepage_order]]
   name = 'shadow'
 [[params.homepage_order]]
   name = 'noise-gate'
@@ -243,10 +245,6 @@ paginate = 99
   name = 'solstice-orrery'
 [[params.homepage_order]]
   name = 'appetite'
-[[params.homepage_order]]
-  name = 'spacer'
-[[params.homepage_order]]
-  name = 'spacer'
 [[params.homepage_order]]
   name = 'serge'
 
@@ -336,6 +334,8 @@ paginate = 99
   Description = 'Umbrella Collective'
   role = 'Composer and Sound Designer'
   URL = 'none'
+
+# Theater page media order
 
 [[params.theater_media]]
   Title = "APPETITE"

@@ -31,7 +31,7 @@ UChicago Arts
 
 {{< columnrow >}}
 {{% column 50 pr1 %}}
-### _iterative systems_ (2019)  
+### _iterative systems_ (2019) {#iterative-systems}
 _iterative systems_ is {{< el "Binary Canary" "http://www.binarycanarymusic.com" >}}'s third studio album featuring feedback saxophone, no-input mixer, feedback PVC tubes, eurorack modular synthesizer, feedback cymbal, and of course, regular saxophone. 
 
 All tracks are structured improvisations.  
@@ -79,7 +79,7 @@ March 16, 2018
 
 {{< columnrow >}}
 {{% column 50 pr1 %}}
-### _BC+1_ (2017)
+### _BC+1_ (2017) {#bc-plus-one}
 _BC+1_ is {{< el "Binary Canary" "http://www.binarycanarymusic.com" >}}'s second studio album featuring Binary Canary improvisations in collaboration with {{< el "Scott Miller" "https://www.scottlmiller.net/" >}}, [Pat O'Keefe](https://www.patokeefe.org/), {{< el "Brittany Primavera" "http://www.brittanyprimavera.com/" >}}, and {{< el "Adam Zahller" "http://www.adamzahller.com/" >}}.
 
 All tracks are free improvisations.  
@@ -108,7 +108,7 @@ March 11, 2016
 
 {{< columnrow >}}
 {{% column 50 pr1 %}}
-### _click/blow_ (2015)
+### _click/blow_ (2015) {#click-blow}
 {{< el "Binary Canary" "http://www.binarycanarymusic.com" >}}'s debut album.
 
 All tracks are free improvisations.  
