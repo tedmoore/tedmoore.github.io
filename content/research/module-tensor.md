@@ -4,7 +4,7 @@ draft: false
 year: 2014-
 description: live electronics improvisation
 layout: single
-tags: ["software"]
+tags: ["software","machine learning"]
 featured_image: /images/module-tensor.jpg
 ---
 

@@ -4,6 +4,7 @@ description: postdoc research
 year: 2021-2022
 draft: false
 layout: single
+tags: ["machine learning"]
 featured_image: /images/flucoma.jpg
 ---
 
