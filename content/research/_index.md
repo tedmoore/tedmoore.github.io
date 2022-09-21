@@ -27,7 +27,7 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * Live Video & Audio Sampler (2017) (C++, {{< el "openFrameworks" "https://openframeworks.cc/" >}}, see a [performance](/works/still-motion) with this in use)
 * ​{{< el "Voice Modulator" "https://github.com/tedmoore/voice-modulator" >}} for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
 * [LFO / Arpeggiator / Gate / Trigger](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) for Endorphin.es Shuttle Control (2016) (SuperCollider)
-* {{< el "Microtonal Keyboard" "https://github.com/tedmoore/Microtonal-Keyboard" >}} (2016) (SuperCollider)​
+* [Microtonal Keyboard](/research/microtonal-keyboard) (2016) (SuperCollider)​
 
 # Writing
 ## "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
