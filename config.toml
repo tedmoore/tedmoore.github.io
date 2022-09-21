@@ -19,6 +19,7 @@ paginate = 99
   
   # post_content_classes = 'helvetica neue'
   post_content_classes = 'avenir next'
+  env = "production"
 
 [[params.works_media]]
   name = "triangle"
