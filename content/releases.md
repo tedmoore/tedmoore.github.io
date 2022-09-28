@@ -19,7 +19,7 @@ November 20, 2020
 {{< columnrow >}}
 {{% column 50 pr1 %}}
 ### _Ripple Effects_ (2020)
-{{< el "Ripple Effects" "https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}} from {{< el "Joey Brink" "https://www.joeybrink.com/" >}} is a collection of newly composed works for carillon, which includes my piece [_the curve is exponential_](/music/the-curve-is-exponential) for carillon and tape.
+{{< el "Ripple Effects" "https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}} from {{< el "Joey Brink" "https://www.joeybrink.com/" >}} is a collection of newly composed works for carillon, which includes my piece [_the curve is exponential_](/works/the-curve-is-exponential) for carillon and tape.
 
 March 2020  
 UChicago Arts
