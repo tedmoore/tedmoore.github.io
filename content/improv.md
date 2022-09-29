@@ -63,6 +63,8 @@ November 20, 2020
 
 {{< youtube 26jz6cdNhEQ >}} <!-- impro with rodrigo constanzo -->
 
+{{< youtube o90TKd-M3j0 >}} <!-- bc + alex christie -->
+
 {{< youtube JuZkJLg2Vgo >}} <!-- impro with Kyle Bruckmann and Macie Stewart -->
 
 {{< youtube rqr8KXlAhi0 >}} <!-- talking free music -->
