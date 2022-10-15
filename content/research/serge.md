@@ -7,7 +7,7 @@ featured_image: /images/serge/serge-full.jpg
 tags: ["software","machine learning"]
 ---
 
-_check out the_ {{< el "GitHub Repo" "https://github.com/tedmoore/serge-archive-oF" >}} _for this project._
+_check out the_ {{< el "GitHub Repo" "https://github.com/tedmoore/Serge-Modular-Archive-Instrument" >}} _for this project._
 
 The _Serge Modular Archive Instrument_ (created in collaboration with {{< el "Jean Brazeau" "https://221a.ca/contributors/jean-brazeau/" >}}) is a sample-based computer emulation of selected patches on the vintage Serge Modular instrument that is housed at Simon Frasier University in Vancouver, Canada. The project is conceived of as both an instrument for sonic exploration and an archive of the sound worlds made by this 50+ year old instrument, including (or highlighting) all of the idiosyncrasies it has accumulated over the years.
 
