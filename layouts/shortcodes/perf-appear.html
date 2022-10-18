@@ -1,0 +1,28 @@
+<table style="border-spacing: 15px 15px;">
+  <!-- <colgroup>
+    <col span="2" style="background-color:red">
+    <col style="background-color:yellow">
+  </colgroup> -->
+  <tr>
+    <th style="width:200px"></th>
+    <th></th>
+    <th style="width:400px"></th>
+    <th style="width:150px"></th>
+  </tr>
+{{ range $.Site.Data.perfappear.entries }}
+    <tr>
+      <td style="vertical-align:top">
+        {{.date}}{{if not (eq .enddate "")}} - {{.enddate}}{{end}}
+      </td>
+      <td style="vertical-align:top">
+        <i>{{.piece}}</i> {{.role}}
+      </td>
+      <td style="vertical-align:top">
+        {{.presenter}}{{if and (not (eq .presenter "")) (not (eq .location ""))}}, {{end}}{{.location}}{{if not (eq .notes "")}}, {{.notes | markdownify}}{{end}}
+      </td>
+      <td style="text-align:right; vertical-align:top">
+        {{.city}}, {{.state}}
+      </td>
+    </tr>
+{{ end }}
+</table>

@@ -1,6 +1,7 @@
 cd public
 rm -rf *
 cd ..
+python3 python/render-appearances-spreadsheet.py
 hugo --minify
 cp CNAME public
 cd public
