@@ -1,0 +1,6 @@
+{{ range $.Site.Data.perfappear.entries }}
+      <p>
+        {{.date}}-{{.enddate}} {{.role}} {{.piece}} {{.presenter}} {{.location}} {{.city}}, {{.state}}
+        {{.notes}}
+      </p>
+{{ end }}
