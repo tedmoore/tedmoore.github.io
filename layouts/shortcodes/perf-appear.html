@@ -7,6 +7,7 @@
     <th style="width:200px"></th>
     <th></th>
     <th style="width:400px"></th>
+    <th style="width:150px"></th>
   </tr>
 {{ range $.Site.Data.perfappear.entries }}
     <tr>
@@ -17,7 +18,7 @@
         <i>{{.piece}}</i> {{.role}}
       </td>
       <td style="vertical-align:top">
-        {{if not (eq .presenter "")}}{{.presenter}}, {{end}}{{.location}}{{if not (eq .notes "")}}, {{.notes}}{{end}}
+        {{.presenter}}{{if and (not (eq .presenter "")) (not (eq .location ""))}}, {{end}}{{.location}}{{if not (eq .notes "")}}, {{.notes | markdownify}}{{end}}
       </td>
       <td style="text-align:right; vertical-align:top">
         {{.city}}, {{.state}}

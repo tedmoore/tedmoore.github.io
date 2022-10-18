@@ -1,33 +1,33 @@
 date,enddate,piece,role,presenter,location,city,state,notes
 10/10/2022,,,Presentation,Freshman Composition Class,Virginia Tech University,Blacksburg,VA,
-10/8/2022,,,improv,Art Rat Studios,Art Rat Studios,Roanoke,VA,with Kyle Hutchins
+10/8/2022,,,improv,,Art Rat Studios,Roanoke,VA,with Kyle Hutchins
 10/6/2022,,,Presentation,Composition Seminar,Virginia Tech University,Blacksburg,VA,
 9/30/2022,,quartet,,IRCAM Forum,NYU / Columbia University,New York,NY,
-7/10/2022,,,improv,Kühlspot Social Club,Kühlspot Social Club,Berlin,DE,with Nina Guo
-7/9/2022,,,improv,K77 Studio,K77 Studio,Berlin,DE,with Nina Guo
-7/9/2022,,,FluCoMa Workshop,Catalyst & Technical University,Catalyst & Technical University,Berlin,DE,
-7/3/2022,,,FluCoMa Workshop,ICMC,Limerick University,Limerick,Ireland,
+7/10/2022,,,improv,,Kühlspot Social Club,Berlin,DE,with Nina Guo
+7/9/2022,,,improv,,K77 Studio,Berlin,DE,with Nina Guo
+7/9/2022,,,FluCoMa Workshop,Catalyst & Technical University,,Berlin,DE,
+7/3/2022,,,FluCoMa Workshop,International Computer Music Conference (ICMC),Limerick University,Limerick,IRL,
 7/1/2022,,,improv,SKRONK,New River Studios,London,UK,with Kyle Hutchins & Seth Davis
-6/18/2022,,,improv,AME,AME,Huddersfield,UK,with PA Tremblay and Emil Karlsen
+6/18/2022,,,improv,,AME,Huddersfield,UK,with PA Tremblay and Emil Karlsen
 6/3/2022,6/4/2022,,FluCoMa Workshop,,University of Sussex,Brighton,UK,
 6/2/2022,,,improv,University of Sussex,The Rose Hill,Brighton,UK,with Paul Keene
-5/19/2022,,,improv,Soda Acústic,Soda Acústic,Barcelona,ES,"with Ángel Faraldo, Clara Lai, & Ferran Fages"
+5/19/2022,,,improv,,Soda Acústic,Barcelona,ES,"with Ángel Faraldo, Clara Lai, & Ferran Fages"
 5/13/2022,5/20/2022,,Residency,Phonos Foundation,Universitat Pompeu Fabra,Barcelona,ES,
-5/12/2022,,,improv,Soda Acústic,Soda Acústic,Barcelona,ES,with El Pricto and Luis Erades
-5/5/2022,,still motion,,Mise-en ensemble,Mise-en Space,New York,NY,Josh Perry
+5/12/2022,,,improv,,Soda Acústic,Barcelona,ES,with El Pricto and Luis Erades
+5/5/2022,,still motion,,Mise-en Ensemble,Mise-en Place,New York,NY,Josh Perry
 4/14/2022,4/15/2022,,FluCoMa Workshop,Computer Music Center,Columbia University,New York,NY,
 4/11/2022,4/13/2022,,FluCoMa Workshop,Music Department,University of Pennsylvania,Philadelphia,PA,
-4/9/2022,4/10/2022,,FluCoMa Workshop,Harvestworks,Harvestworks,New York,NY,
+4/9/2022,4/10/2022,,FluCoMa Workshop,Harvestworks,,New York,NY,
 4/6/2022,4/7/2022,,FluCoMa Workshop,Computer Music Department,Peabody Conservatory,Baltimore,MD,
-4/5/2022,,,FluCoMa Workshop,Red Room,Red Room,Baltimore,MD,
+4/5/2022,,,FluCoMa Workshop,Red Room,,Baltimore,MD,
 4/3/2022,,,improv,IDeATe Lab,Carnegie Mellon University,Pittsburgh,PA,with Ben Opie
 4/2/2022,4/3/2022,,FluCoMa Workshop,IDeATe Lab,Carnegie Mellon University,Pittsburgh,PA,
 4/1/2022,,,FluCoMa Presentation,SEAMUS,Western Michigan University,Kalamazoo,MI,
-3/17/2022,,,improv,NOTAM,MIR,Oslo,Norway,with Inga Margrete Aas
-3/14/2022,3/18/2022,,FluCoMa Workshop,NOTAM,NOTAM,Oslo,Norway,
+3/17/2022,,,improv,,MIR,Oslo,NO,with Inga Margrete Aas
+3/14/2022,3/18/2022,,FluCoMa Workshop,NOTAM,,Oslo,NO,
 2/26/2022,,,Presentation,Creative Coding Lab,University of Huddersfield,Huddersfield,UK,
 2/25/2022,,,improv,Electric Spring Festival,University of Huddersfield,Huddersfield,UK,with Mark Hanslip
-1/20/2022,,,FluCoMa Workshop,,University of Victoria (remote),Victoria,Canada,
+1/20/2022,,,FluCoMa Workshop,,University of Victoria (remote),Victoria,BC,
 1/18/2022,,,Presentation,Composition Seminar,UC San Diego (remote),San Deigo,CA,
 1/17/2022,1/18/2021,,FluCoMa Workshop,,UC San Diego (remote),San Deigo,CA,
 1/15/2022,1/16/2021,,FluCoMa Workshop,,University of Washington (DXARTS) (remote),Seattle,WA,
@@ -41,7 +41,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 11/30/2021,,,Presentation,Composition Seminar,New York University,New York,NY,
 11/29/2021,,,FluCoMa Workshop,,Princeton University,Princeton,NJ,
 11/24/2021,11/26/2021,,FluCoMa Workshop,,McGill (CIRMMT),Montreal,QC,
-11/17/2021,,,Presentation,Brad Spiers Music and AI,University of Chicago (remote),Chicago ,IL,
+11/17/2021,,,Presentation,Brad Spiers Music and AI Course,University of Chicago (remote),Chicago ,IL,
 11/8/2021,11/12/2021,,FluCoMa Workshop,,Hogeschool voor de Kunsten,Utrecht,NL,
 10/16/2021,,,improv,Southwest Electronic Music Festival,Arizona State University,Phoenix,AZ,with Kyle Hutchins
 10/16/2021,,,FluCoMa Workshop,,Arizona State University,Phoenix,AZ,
@@ -52,33 +52,33 @@ date,enddate,piece,role,presenter,location,city,state,notes
 10/3/2021,,FEATHERMUCKER,,Ear Taxi Festival,,Chicago,IL,The Dream Songs Project
 10/3/2021,,feed,,Ear Taxi Festival,Constellation,Chicago,IL,with Ben Roidl-Ward
 10/2/2021,,lacunae,,Ear Taxi Festival,University of Chicago,Chicago,IL,Wet Ink
-7/27/2021,,hollow,,International Computer Music Conference,Internet,Santiago,Chile,with Kyle Hutchins
+7/27/2021,,hollow,,International Computer Music Conference (ICMC),,Santiago,Chile,with Kyle Hutchins
 7/23/2021,,noise/gate,,ilSUONO,,Città di Castello,Italy,Giacomo Piermatti
 6/21/2021,,,Artist Presentation,SICPP,New England Conservatory (remote),Boston,MA,
 5/20/2021,,Aluminum Forest,,American Academy in Rome,Villa Aurelia,Rome,Italy,
 5/20/2021,,,improv,American Academy in Rome,Villa Aurelia,Rome,Italy,with Fabrizio Spera
-12/11/2020,,triangle,,National Sawdust,National Sawdust,New York,NY,JACK Quartet
-11/20/2020,,squal,,Charlotte New Music,Internet,Charlotte,NC,Erin Rogers
-8/18/2020,,still motion,,mise-en ensemble,mise-en place,New York,NY,Josh Perry
+12/11/2020,,triangle,,National Sawdust,,New York,NY,JACK Quartet
+11/20/2020,,squal,,Charlotte New Music,,Charlotte,NC,Erin Rogers
+8/18/2020,,still motion,,Mise-en Ensemble,Mise-en Place,New York,NY,Josh Perry
 6/9/2020,,for line upon line,,Victoria Bach Festival,Victoria Bach Festival,Victoria,TX,Line Upon Line Percussion
 3/29/2020,,hold,,Civic Orchestra of Chicago,,Chicago,IL,
 2/28/2020,2/29/2020,,Director,CHIMEFest 2020: CIRCULATIONS,University of Chicago,Chicago,IL,
-2/28/2020,,,Presentation,CHIMEFest 2020: CIRCULATIONS,University of Chicago,Chicago,IL,Interference Patters: analysis of interacting feedbacks in hollow
-1/19/2020,1/25/2020,,Technician,Gray Center,"Gray Center, University of Chicago",Chicago,IL,"MUSIC'S OVER: Listening with Peter Ablinger, technical support for Wet Ink, Aperiodic Ensemble"
-1/18/2020,,,improv,Ted Moore,Slate Arts,Chicago,IL,with Weston Olencki
+2/28/2020,,,Presentation,CHIMEFest 2020: CIRCULATIONS,University of Chicago,Chicago,IL,"_Interference Patters: analysis of interacting feedbacks in ""hollow""_"
+1/19/2020,1/25/2020,,Technician,Gray Center,University of Chicago,Chicago,IL,"_MUSIC'S OVER: Listening with Peter Ablinger_ (festival), technical support for Wet Ink, Aperiodic Ensemble"
+1/18/2020,,,improv,,Slate Arts,Chicago,IL,with Weston Olencki
 12/12/2019,,,Artist Presentation,"Arts, Sciences, and Culture Initiative",University of Chicago,Chicago,IL,
-12/1/2019,,fiery walls,,Chris Goodchild,BEAST,Birmingham,UK,Chris Goodchild
-11/22/2019,,,Presentation,FluCoMa Plenary,University of Huddersfield,Huddersfield,England,Preserving User-Defined Expression through Dimensionality Reduction
-11/18/2019,,,improv,Hundred Years Gallery,Hundred Years Gallery,London,England,"with Benedict Taylor, Tonia Ko, Olivier Stankeweicz"
-11/15/2019,,,improv,de Roze Tanker,de Roze Tanker,Amsterdam,Netherlands,with Anne La Berge
-11/14/2019,,,improv,de Ruimte,de Ruimte,Amsterdam,Netherlands,"with Anne La Berge, Yung-Tuan Ku"
-11/8/2019,,tap,,Line Upon Line Percussion,Hochschule für Musik,Freiburg,Germany,Line Upon Line Percussion
-11/5/2019,,tap,,Line Upon Line Percussion,City University,London,England,Line Upon Line Percussion
+12/1/2019,,fiery walls,,,BEAST,Birmingham,UK,Chris Goodchild
+11/22/2019,,,Presentation,FluCoMa Plenary,University of Huddersfield,Huddersfield,UK,_Preserving User-Defined Expression through Dimensionality Reduction_
+11/18/2019,,,improv,,Hundred Years Gallery,London,UK,"with Benedict Taylor, Tonia Ko, Olivier Stankeweicz"
+11/15/2019,,,improv,,de Roze Tanker,Amsterdam,NL,with Anne La Berge
+11/14/2019,,,improv,,de Ruimte,Amsterdam,NL,"with Anne La Berge, Yung-Tuan Ku"
+11/8/2019,,tap,,,Hochschule für Musik,Freiburg,DE,Line Upon Line Percussion
+11/5/2019,,tap,,,City University,London,UK,Line Upon Line Percussion
 11/3/2019,,iterative systems,,Frequency Series,Constellation,Chicago,IL,with Kyle Hutchins
 10/25/2019,,,improv,Sean Hamilton,Elastic Arts,Chicago,IL,Sean Hamilton
 10/21/2019,,,improv,Option Series,Experimental Sound Studio,Chicago,IL,with Kyle Bruckmann and Macie Stewart
 10/10/2019,,,Presenation,Digital Media Workshop,"MADD Center, University of Chicago",Chicago,IL,Machine Learning Applications for Live Computer Music Performance
-10/9/2019,,,improv,Que4 Radio,Que4 Radio,Chicago,IL,with Emerson Hunton
+10/9/2019,,,improv,,Que4 Radio,Chicago,IL,with Emerson Hunton
 10/4/2019,,,improv,Lauren Hayes,Slate Arts,Chicago,IL,"with Lauren Hayes, Sarah Plum, and Daniel Wyche"
 9/25/2019,,it teaches us that it doesn't exist,,Fulcrum Point New Music,Elastic Arts,Chicago,IL,
 9/23/2019,,,improv,Weston Olencki,Arete,Brooklyn,NY,with Weston Olencki
@@ -89,13 +89,13 @@ date,enddate,piece,role,presenter,location,city,state,notes
 5/15/2019,,BODYTALK,,Sophia Bell,Logan Center for the Arts,Chicago,IL,Sound Design
 5/11/2019,,,improv,VAMP,VAMP,Oakland,CA,with Tom Weeks
 5/2/2019,,,improv,CHIMEFEST,Logan Center for the Arts,Chicago,IL,"with Weston Olenki, Matt Barbier, and Katie Young"
-5/1/2019,,,Presentation,CHIMEFEST,Logan Center for the Arts,Chicago,IL,Approaches to Live Performance and Composition with Machine Learning and Music Information Retrieval Analysis
-4/14/2019,,,improv,Elastic Arts,Elastic Arts,Chicago,IL,with Hannah Judd
+5/1/2019,,,Presentation,CHIMEFEST,Logan Center for the Arts,Chicago,IL,_Approaches to Live Performance and Composition with Machine Learning and Music Information Retrieval Analysis_
+4/14/2019,,,improv,,Elastic Arts,Chicago,IL,with Hannah Judd
 4/12/2019,,where is where we are,,~Nois Saxophone Quartet,Hairpin Arts Center,Chicago,IL,
 4/9/2019,,feed,,Ars Electroacoustica,Elastic Arts,Chicago,IL,with Ben Roidl-Ward
 3/31/2019,,crunch,,Deathstare Duo,Constellation,Chicago,IL,with Dana Jessen and Erica Dicker
-3/29/2019,,,improv,Elastic Arts,Elastic Arts,Chicago,IL,"with Dana Jessen, Erica Dicker, and Katie Young"
-3/28/2019,,,improv,Elastic Arts,Elastic Arts,Chicago,IL,with Emerson Hunton and Eric Krouse
+3/29/2019,,,improv,,Elastic Arts,Chicago,IL,"with Dana Jessen, Erica Dicker, and Katie Young"
+3/28/2019,,,improv,,Elastic Arts,Chicago,IL,with Emerson Hunton and Eric Krouse
 3/22/2019,,it teaches us that it doesn't exist,"composer, performer",New Music Chicago - Impromptu Fest,Guarneri Hall,Chicago,IL,
 3/22/2019,,,improv,New Music Chicago - Impromptu Fest,Guarneri Hall,Chicago,IL,with Tonia Ko
 3/14/2019,,tap,,SXSW,Parker Jazz Club,Austin,TX,Line Upon Line Percussion
@@ -118,22 +118,22 @@ date,enddate,piece,role,presenter,location,city,state,notes
 7/27/2018,,it teaches us that it doesn't exist,,Omaha Under the Radar,OUTr Spaces,Omaha,NE,
 7/27/2018,,still motion b,,Omaha Under the Radar,OUTr Spaces,Omaha,NE,
 7/18/2018,,still motion,,New York City Electroacoustic Music Festival,Abrons Art Center,New York,NY,Patti Cudd
-7/16/2018,,hollow,,Internationales Musikinstitut Darmstadt,Internationales Musikinstitut Darmstadt,Darmstadt,Germany,with Kyle Hutchins
-7/16/2018,,,improv,Internationales Musikinstitut Darmstadt,Internationales Musikinstitut Darmstadt,Darmstadt,Germany,with Yung-Tuan Ku
-7/12/2018,,hollow,"Composer, performer",World Saxophone Congress,Zagreb Academy of Music,Zagreb,Croatia,with Kyle Hutchins
-7/5/2018,,,improv,STEIM,STEIM,Amsterdam,Netherlands,with Yung-Tuan Ku
-6/16/2018,,still motion,,The Walden School,The Walden School,Dublin,NH,Matt Gold
-6/9/2018,,still motion,,Mass MoCA,Mass MoCA,North Adams,MA,Matt Gold
+7/16/2018,,hollow,,,Internationales Musikinstitut Darmstadt,Darmstadt,DE,with Kyle Hutchins
+7/16/2018,,,improv,,Internationales Musikinstitut Darmstadt,Darmstadt,DE,with Yung-Tuan Ku
+7/12/2018,,hollow,"Composer, performer",World Saxophone Congress,Zagreb Academy of Music,Zagreb,HR,with Kyle Hutchins
+7/5/2018,,,improv,,STEIM,Amsterdam,NL,with Yung-Tuan Ku
+6/16/2018,,still motion,,,The Walden School,Dublin,NH,Matt Gold
+6/9/2018,,still motion,,,Mass MoCA,North Adams,MA,Matt Gold
 5/26/2018,,the curve is exponential,,Carillon Festival,University of Chicago,Chicago,IL,Joey Brink
-5/16/2018,,,improv,Cafe Mustache,Cafe Mustache,Chicago,IL,with Emerson Hunton
+5/16/2018,,,improv,,Cafe Mustache,Chicago,IL,with Emerson Hunton
 5/12/2018,,"feedback vii: speak, contain",,UChicago Presents,University of Chicago,Chicago,IL,Imani Winds
 4/21/2018,,feedback viii: hollow,,NUNC3,Northwestern University,Evanston,IL,
 4/12/2018,4/14/2018,Broken Jug,,UChicago Presents,University of Chicago,Chicago,IL,Sound Design
-4/7/2018,,,improv,Emerson Hunton,Slate Arts,Chicago,IL,with Emerson Hunton
+4/7/2018,,,improv,,Slate Arts,Chicago,IL,with Emerson Hunton
 4/5/2018,,circle,,CHIMEFEST,University of Chicago,Chicago,IL,Spektral Quartet
 3/30/2018,,Feedback X,,,Narloch Piano Studio,Chicago,IL,"eurorack modular synth, lighting design, laptop, no-input mixer, tubes, feedback cymbal"
 3/16/2018,,it teaches us that it doesn't exist,,BEAMS Marathon Festival,Brandeis University,Waltham,MA,
-3/13/2018,,improv,,Ted Moore,Elastic Arts,Chicago,IL,with Ben Roidl-Ward
+3/13/2018,,improv,,,Elastic Arts,Chicago,IL,with Ben Roidl-Ward
 3/10/2018,,still motion b,,MOXsonic,Central Missouri University,Warrensburg,MO,
 3/10/2018,,Solstice Orrery,,Scott Miller,Studio Z,St. Paul,MN,Video Design
 3/7/2018,,,improv,,Narloch Piano Studio,Chicago,IL,with Kyle Hutchins
@@ -154,7 +154,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 7/14/2017,,"feedback vii: speak, contain",,Splinter Reeds,The Walden School,Dublin,NH,Splinter Reeds
 5/31/2017,,,improv,Ars Electroacoustica,Black Dog Cafe & Bar,St. Paul,MN,"with Scott Miller, Kyle Hutchins, and Nathan Hanson"
 5/26/2017,,APPETITE,,Skewed Visions,Fresh Oysters Performance Research,Minneapolis,MN,with Charles Campbell
-4/22/2017,,Gymnopedies,,MacPhail Center for Music,Macphail Center for Music,Minneapolis,MN,Andy Myers and Carlynn Savot
+4/22/2017,,Gymnopedies,,,Macphail Center for Music,Minneapolis,MN,Andy Myers and Carlynn Savot
 4/21/2017,,APSIS,,SEAMUS,St. Cloud State University,St. Cloud,MN,Strains New Music Ensemble
 4/20/2017,,,improv,SEAMUS,The Nest at The Pickled Loon,St. Cloud,MN,"Scott Miller, Adam Zahller, and Kyle Hutchins"
 4/8/2017,,it teaches us that it doesn't exist,"Composer, Performer",Reembodied Sound: Transducer Conference,Spectrum,New York,NY,
@@ -162,27 +162,27 @@ date,enddate,piece,role,presenter,location,city,state,notes
 2/28/2017,3/3/2017,Bluets,,Catherine Dalton,A-Mill Artist Lofts,Minneapolis,MN,Sound Design
 2/25/2017,,it teaches us that it doesn't exist,,Iowa Composers Forum,Luther College,Decorah,IA,
 2/10/2017,,feedback IV,,Root Signals Electronic Music Festival,Georgia Southern University,Statesboro,GA,
-1/19/2017,,FEATHERMUCKER,,Kevin Cosgrove,Khyber Pass Cafe,St. Paul,MN,The Dream Songs Project
+1/19/2017,,FEATHERMUCKER,,curated by Kevin Cosgrove,Khyber Pass Cafe,St. Paul,MN,The Dream Songs Project
 11/29/2016,,,improv,Ars Electroacoustica,Reverie Cafe and Bar,Minneapolis,MN,with Pat O'Keefe and Scott Miller
-11/10/2016,,feedback iii: air,,University of Wisconson La Crosse New Music Festival,University of Wisconson La Crosse,La Crosse,WI,Carlynn Savott
-11/10/2016,,it teaches us that it doesn't exist,,University of Wisconson La Crosse New Music Festival,University of Wisconson La Crosse,La Crosse,WI,
-11/10/2016,,"no-input mixer, eurorack synthesizer, and live video improvisation",,University of Wisconson La Crosse New Music Festival,University of Wisconson La Crosse,La Crosse,WI,
-11/6/2016,,it teaches us that it doesn't exist,,Jeremy Johnston,First Lutheran Church,White Bear Lake,MN,Jeremy Johnston
+11/10/2016,,feedback iii: air,,New Music Festival,University of Wisconson La Crosse,La Crosse,WI,Carlynn Savott
+11/10/2016,,it teaches us that it doesn't exist,,New Music Festival,University of Wisconson La Crosse,La Crosse,WI,
+11/10/2016,,,improv,New Music Festival,University of Wisconson La Crosse,La Crosse,WI,"no-input mixer, eurorack synthesizer, and live video improvisation"
+11/6/2016,,it teaches us that it doesn't exist,,,First Lutheran Church,White Bear Lake,MN,Jeremy Johnston
 11/4/2016,,,improv,Ars Electroacoustica,Reverie,Minneapolis,MN,with Adam Zahller
 10/29/2016,,,improv,Pink Noise Project,CMS Conference,Santa Fe,NM,with Kyle Hutchins
 10/27/2016,,,improv,Pink Noise Project,University of New Mexico,Albuquerque,NM,with Kyle Hutchins
 10/26/2016,,,improv,Pink Noise Project,Fort Lewis College,Durango,CO,with Kyle Hutchins
 10/24/2016,,,improv,Pink Noise Project,Metropolitan State University,Denver,CO,with Kyle Hutchins
-10/20/2016,,it teaches us that it doesn't exist,,Jeremy Johnston,Pearson Lakes Art Center,Okoboji,IA,Jeremy Johnston
-10/16/2016,,it teaches us that it doesn't exist,,Jeremy Johnston,Bethlehem Lutheran Church,Two Harbors,MN,Jeremy Johnston
+10/20/2016,,it teaches us that it doesn't exist,,,Pearson Lakes Art Center,Okoboji,IA,Jeremy Johnston
+10/16/2016,,it teaches us that it doesn't exist,,,Bethlehem Lutheran Church,Two Harbors,MN,Jeremy Johnston
 10/7/2016,10/22/2016,The Ballad of Curtis King,(recorded improv),Skewed Visions,Fresh Oysters Performance Research,Minneapolis,MN,with Kyle Hutchins
-9/16/2016,,APSIS,,Ted Moore,Macphail Center for Music,Minneapolis,MN,Strains New Music Ensemble
-9/16/2016,,if two things don't fit...,,Ted Moore,Macphail Center for Music,Minneapolis,MN,Alyssa Anderson and Benjamin Cold
-9/16/2016,,,improv,Ted Moore,Macphail Center for Music,Minneapolis,MN,"(including video design) with Sarah Porwoll-Lee, clarinets"
+9/16/2016,,APSIS,,,Macphail Center for Music,Minneapolis,MN,Strains New Music Ensemble
+9/16/2016,,if two things don't fit...,,,Macphail Center for Music,Minneapolis,MN,Alyssa Anderson and Benjamin Cold
+9/16/2016,,,improv,,Macphail Center for Music,Minneapolis,MN,"(including video design) with Sarah Porwoll-Lee, clarinets"
 9/13/2016,,,improv,Ars Electroacoustica,Reverie,Minneapolis,MN,with Scott Miller and Noah Ophoven-Baldwin
 6/22/2016,,only that there's a secret,,Quince Contemporary Vocal Ensemble,Walden School,Dublin,NH,Quince Contemporary Vocal Ensemble
 6/7/2016,,,improv,NYC Electoacoustic Music Festival,National Sawdust,Brooklyn,NY,with Kyle Hutchins
-5/28/2016,,FEATHERMUCKER,,Ted Moore,Fallout Arts,Minneapolis,MN,The Dream Songs Project
+5/28/2016,,FEATHERMUCKER,,,Fallout Arts,Minneapolis,MN,The Dream Songs Project
 5/27/2016,,FEATHERMUCKER,,Punk Ass Classical,The Riverboat,Minneapolis,MN,The Dream Songs Project
 5/22/2016,,Live Film Score of Berlin: A City Symphony,,,MacPhail Center for Music,Minneapolis,MN,with Katie Condon
 4/24/2016,,,improv,Ars Electroacoustica,Reverie,Minneapolis,MN,"Scott Miller, Sarah Porwoll-Lee, and Nick Zielinski"
@@ -192,12 +192,12 @@ date,enddate,piece,role,presenter,location,city,state,notes
 3/20/2016,,,improv,Ars Electroacoustica,Honey,Minneapolis,MN,with Scott Miller and Adam Zahller
 3/15/2016,,,improv,Ars Electroacoustica,Reverie,Minneapolis,MN,"Ted Moore, laptop; Scott Miller, laptop; Jorrit Dijkstra, saxophone; Nathan Hanson, saxophone"
 3/11/2016,,,improv,North American Saxophone Alliance,Texas Tech University,Lubbock,TX,"Binary Canary (Ted Moore, laptop; Kyle Hutchins, woodwinds)"
-3/9/2016,,,improv,University of North Texas,University of North Texas,Denton,TX,"Binary Canary (Ted Moore, laptop; Kyle Hutchins, woodwinds)"
+3/9/2016,,,improv,,University of North Texas,Denton,TX,"Binary Canary (Ted Moore, laptop; Kyle Hutchins, woodwinds)"
 3/5/2016,,APSIS,,LoSo,SPACE,St. Paul,MN,"Kyle Hutchins, tenor saxophone; James DeVoll, alto flute; Carlynn Savot, cello; Jeremy Johnston, perc.; Ted Moore, laptop"
 2/21/2016,,,improv,Ars Electroacoustica,Honey,Minneapolis,MN,"Ted Moore, laptop; Scott Miller, laptop; Jacqueline Ultan, cello"
 2/20/2016,,The Eye of Horus,,,University of Iowa,Iowa City,IA,"Craig Hultgren, cello"
 2/12/2016,2/26/2016,June,(original songs),Savage Umbrella,The Southern Theater,Minneapolis,MN,
-2/12/2016,,,improv,Punk Ass Classical,Punk Ass Classical,Minneapolis,MN,with Kyle Hutchins
+2/12/2016,,,improv,,Punk Ass Classical,Minneapolis,MN,with Kyle Hutchins
 2/9/2016,,The Eye of Horus,,,Luther College,Decorah,IA,"Craig Hultgren, cello"
 2/8/2016,,The Eye of Horus,,,University of Northern Iowa,Cedar Falls,IA,"Craig Hultgren, cello"
 1/29/2016,,The Eye of Horus,,,St. Ambrose University,Davenport,IA,"Craig Hultgren, cello"
@@ -216,7 +216,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 11/15/2015,,,improv,MacPhail Center for Music,Minneapolis Institute of Arts,Minneapolis,MN,"Ted Moore, laptop"
 11/13/2015,,if two things don't fit…,,Zeitgeist New Music Cabaret,Studio Z,St. Paul,MN,"Kyle Hutchins,saxophones; Alyssa Anderson, mezzo soprano; Ted Moore, laptop"
 11/7/2015,,leviathan,,Sarah Porwoll-Lee,Honey,Minneapolis,MN,"Sarah Porwoll-Lee, bass clarinet; Ted Moore, laptop"
-10/31/2015,,leviathan,,Slam Academy,Slam Academy,Minneapolis,MN,"Sarah Porwoll-Lee, bass clarinet; Ted Moore, laptop"
+10/31/2015,,leviathan,,,Slam Academy,Minneapolis,MN,"Sarah Porwoll-Lee, bass clarinet; Ted Moore, laptop"
 10/24/2015,,Binary Canary Performance,,New Horizons Music Festival,Truman State University,Kirksville,MO,"Kyle Hutchins, woodwinds; Ted Moore, laptop"
 10/18/2015,,improvisation,,Ars Electroacoustica,Honey,Minneapolis,MN,"Ted Moore, laptop; Scott Miller, laptop; Davu Seru, drums"
 8/30/2015,,Binary Canary Performance,,Ars Electroacoustica,Honey,Minneapolis,MN,"Kyle Hutchins, woodwinds; Ted Moore, laptop; Scott Miller, laptop; Pat O'Keefe, clarinet"
@@ -224,43 +224,43 @@ date,enddate,piece,role,presenter,location,city,state,notes
 6/16/2015,,Binary Canary Performance,,The New Ruckus Composer Night,Studio Z,St. Paul,MN,"Kyle Hutchins, woodwinds; Ted Moore, laptop"
 6/11/2015,,The Lotus Flower,,Spitting Image,Dreamland Arts,St. Paul,MN,"Kyle Hutchins, alto saxophone; Erika Blanco, violin; Carlynn Savot, cello; Jeremy Johnston, percussion; Ted Moore, laptop"
 5/31/2015,,Binary Canary Performance,,Binary Canary,Honey,Minneapolis,MN,"Kyle Hutchins, woodwinds; Ted Moore, laptop"
-5/11/2015,5/22/2015,Residency,,Kimmel Harding Nelson Center for the Arts,Kimmel Harding Nelson Center for the Arts,Nebraska City,NE,
+5/11/2015,5/22/2015,Residency,,,Kimmel Harding Nelson Center for the Arts,Nebraska City,NE,
 5/3/2015,,The Lotus Flower,,Spitting Image,Honey,Minneapolis,MN,"Kyle Hutchins, alto saxophone; Erika Blanco, violin; Carlynn Savot, cello; Jeremy Johnston, percussion; Ted Moore, laptop"
 5/2/2015,,The Lotus Flower,,Spitting Image,Studio Z,St. Paul,MN,"Kyle Hutchins, alto saxophone; Erika Blanco, violin; Carlynn Savot, cello; Jeremy Johnston, percussion; Ted Moore, laptop"
 4/24/2015,,if two things don't fit…,,RenegadeEnsemble,Baroque Room,St. Paul,MN,"Kyle Hutchins,saxophones; Alyssa Anderson, mezzo soprano; Ted Moore, laptop"
 4/11/2015,,discreet and discrete,,AVIDduo,Dreamland Arts,St. Paul,MN,"Kyle Hutchins, tenor sax.; Brittany Primavera, flute; Ted Moore, laptop"
 4/10/2015,,discreet and discrete,,AVIDduo,Studio Z,St. Paul,MN,"Kyle Hutchins, tenor sax.; Brittany Primavera, flute; Ted Moore, laptop"
 3/14/2015,4/18/2015,These Are The Men,,Savage Umbrella,The Southern Theater,Minneapolis,MN,Sound Design
-2/4/2015,,fiery walls,,Diana Sherry,Antonello Hall MacPhail Center for Music,Minneapolis,MN,"Jim Sherry, tpt.; Ted Moore, laptop"
-12/4/2014,12/6/2014,Persephone,,Ted Moore & Hannah Holman,JSB Tek Box at Cowles Center,Minneapolis,MN,"Composer & Sound Designer, with Kyle Hutchins, tenor sax.; Maria Ritzenthaler, vla.; Jeremy Johnston, perc.; Gabriel Quenneville-Bélair"
+2/4/2015,,fiery walls,,,Antonello Hall MacPhail Center for Music,Minneapolis,MN,Jim Sherry
+12/4/2014,12/6/2014,Persephone,,,JSB Tek Box at Cowles Center,Minneapolis,MN,"Composer & Sound Designer, with Kyle Hutchins, tenor sax.; Maria Ritzenthaler, vla.; Jeremy Johnston, perc.; Gabriel Quenneville-Bélair"
 11/14/2014,,eclipse,,Electroacoustic Barn Dance,Electroacoustic Barn Dance,Fredericksburg,VA,"Kyle Hutchins, tenor sax."
 11/6/2014,,Gilgamesh & Enkidu,,Zeitgeist New Music Cabaret,Studio Z,Saint Paul,MN,"Hillary Kingsley, violin; Meredith Vaughan, violin; Benjamin Davis, viola; Lars Krogstad-Ortiz, cello"
 11/2/2014,,do you?,,Leif Larson,Luther College,Decorah,IA,"Leif Larson, percussion"
 11/1/2014,,if two things don't fit…,,Kyle Hutchins & Alyssa Anderson,Gamut Gallery,Minneapolis,MN,"Kyle Hutchins,saxophones; Alyssa Anderson, mezzo soprano; Ted Moore, laptop"
 10/25/2014,,eclipse,,New Horizons Music Festival,Truman State University,Kirksville,MO,"Kyle Hutchins, tenor sax."
 10/9/2014,,eyes may be impaired,,Luther College Composition Alumni Festival,Luther College,Decorah,IA,"Du Huang, Xiao Hu, Leif Larson"
-7/11/2014,,samara,,"Spektral Quartet & Tim Munro, Walden School",Walden School,Dublin,NH,"Spektral Quartet & Tim Munro, flutes"
+7/11/2014,,samara,,,Walden School,Dublin,NH,"Spektral Quartet & Tim Munro, flutes"
 6/14/2014,6/15/2014,Minneapolis3,,Northern Spark,Minneapolis,Minneapolis,MN,
 6/8/2014,,leviathan,,Spitting Image,Honey,Minneapolis,MN,"Sarah Porwoll-Lee, bass clarinet"
 6/6/2014,,leviathan,,Spitting Image,Studio Z,Saint Paul,MN,"Sarah Porwoll-Lee, bass clarinet"
-6/5/2014,,Gilgamesh & Enkidu,,Robert Martin,Studio Z,Saint Paul,MN,"Erik Rohde, vln. I; Sam Rudy, vln. II; Benjamin Davis, vla.; Lars Krogstad, cello"
+6/5/2014,,Gilgamesh & Enkidu,,,Studio Z,Saint Paul,MN,"Erik Rohde, vln. I; Sam Rudy, vln. II; Benjamin Davis, vla.; Lars Krogstad, cello"
 5/4/2014,,"ice, water",,RenegadeEnsemble,Studio Z,Saint Paul,MN,"Christopher Raddatz, clarinet"
-5/2/2014,5/10/2014,HWY 57,,Blake Nellis,Luther College,Decorah,IA,
+5/2/2014,5/10/2014,HWY 57,,,Luther College,Decorah,IA,with choreographer Blake Nellis
 5/2/2014,5/4/2014,These Are The Men,,Savage Umbrella,Casket Arts Building,Minneapolis,MN,Sound Designer
 4/27/2014,,eclipse,,Kyle Hutchins DMA Recital,University of Minnesota,Minneapolis,MN,"Kyle Hutchins, tenor sax."
 4/19/2014,5/15/2014,eclipse (excerpts),,Art Institute International Minnesota,Art Institute International Minnesota,Minneapolis,MN,"Kyle Hutchins, tenor sax."
 3/18/2014,,deepities,,AvidDUO,Coe College,Cedar Rapids,IA,"Kyle Hutchins, tenor sax.; Brittany Primavera, flute"
 3/18/2014,,is himself no more,,AvidDUO,Coe College,Cedar Rapids,IA,"Kyle Hutchins, tenor sax."
 3/18/2014,,of circumstance,,AvidDUO,Coe College,Cedar Rapids,IA,"Brittany Primavera, flute"
-3/18/2014,,,Presentation,Coe College,Coe College,Cedar Rapids,IA,Intro to SuperCollider
+3/18/2014,,,Presentation,,Coe College,Cedar Rapids,IA,Intro to SuperCollider
 3/17/2014,,deepities,,AvidDUO,Luther College,Decorah,IA,"Kyle Hutchins, tenor sax.; Brittany Primavera, flute"
 3/17/2014,,is himself no more,,AvidDUO,Luther College,Decorah,IA,"Kyle Hutchins, tenor sax."
 3/17/2014,,of circumstance,,AvidDUO,Luther College,Decorah,IA,"Brittany Primavera, flute"
 3/7/2014,,Rapture,,Savage Umbrella,Nimbus Theater,Minneapolis,MN,Composer & Sound Designer
 2/11/2014,,,Presentation,Composition Seminar,McNally Smith College of Music,Saint Paul,MN,
 2/7/2014,,deepities,,AVIDduo,Denton Women's Club,Denton,TX,"Kyle Hutchins, tenor sax.; Brittany Primavera, flute"
-1/19/2014,,eclipse,,Skewed Visions,Skewed Visions Studio,Minneapolis,MN,"Kyle Hutchins, tenor sax."
-1/10/2014,,Body House,,Megan Clark,"Seward, Minneapolis",Minneapolis,MN,Sound Designer
+1/19/2014,,eclipse,,Skewed Visions,,Minneapolis,MN,"Kyle Hutchins, tenor sax."
+1/10/2014,,Body House,,Megan Clark,private residence,Minneapolis,MN,Sound Designer
 11/25/2013,,"Lament, mvt. III of Gilgamesh & Enkidu",,Springboard for the Arts,St. Paul Central Library,Saint Paul,MN,"Erik Rohde, vln. I; Sam Rudy, vln. II; Benjamin Davis, vla.; Lars Krogstad, cello"
 11/8/2013,,Leaves,,Savage Umbrella,Playwrights' Center,Minneapolis,MN,Music Director
 11/2/2013,,Gilgamesh & Enkidu,,New Horizons Music Festival,Truman State University,Kirksville,MO,"Erik Rohde, vln. I; Sam Rudy, vln. II; Benjamin Davis, vla.; Lars Krogstad, cello"
@@ -274,7 +274,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 4/28/2013,,is himself no more,,RenegadeEnsemble,Studio Z,Saint Paul,MN,"Kyle Hutchins, tenor sax."
 4/19/2013,,,Presenation,Composition Seminar,Truman State University,Kirksville,MO,on SuperCollider
 4/16/2013,,is himself no more,,American Composers Forum Tuesday Salon,Studio Z,Saint Paul,MN,"Kyle Hutchins, tenor sax."
-4/13/2013,,fiery walls,,Art Institute International Minnesota,Art Institute International Minnesota,Minneapolis,MN,"Recording of Erik Mahon, tpt."
+4/13/2013,,fiery walls,,Art Institute International Minnesota,,Minneapolis,MN,"Recording of Erik Mahon, tpt."
 4/13/2013,,attackSUSTAINrelease,,TC Make's Maker Faire,Hack Factory,Minneapolis,MN,
 4/12/2013,,fiery walls,,SCI Region V Conference,Clarke University,Dubuque,IA,"Jim Sherry, tpt."
 2/18/2013,2/19/2013,Thick as a Brick,,Nautilus Music Theater,University of Minnesota,Minneapolis,MN,played percussion in the pit orchestra
@@ -282,7 +282,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 1/6/2013,,Gilgamesh & Enkidu,,Cedar Cultural Center 416 Club,Cedar Cultural Center,Minneapolis,MN,"Erik Rohde, vln. I; Sam Rudy, vln. II; Benjamin Davis, vla.; Lars Krogstad, cello"
 10/15/2012,,The Eye of Horus,,Access Contemporary Music,Access Contemporary Music,Chicago,IL,
 9/7/2012,,Since the Kids are Gone…,,Freshwater Theater Company,Nimbus Theater,Minneapolis,MN,Sound Designer
-7/1/2012,,eyes may be impaired,,"Yarn/Wire, The Walden School",Dublin School,Dublin,NH,
+7/1/2012,,eyes may be impaired,,The Walden School,,Dublin,NH,Yarn/Wire
 6/23/2012,,do you?,,New Music Forum,Trinity Chapel,Berkeley,CA,
 6/1/2012,,Care Enough,,Savage Umbrella,Nimbus Theater,Minneapolis,MN,Composer & Sound Designer
 5/17/2012,5/27/2012,The View From Here,,Nautilus Music Theater,Nautilus Studio,St. Paul,MN,Sound Designer
@@ -291,7 +291,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 1/13/2012,1/15/2012,Joan of Arc,,Nautilus Music Theater,Winona State University,Winona,MN,Sound Designer
 1/5/2012,1/8/2012,Joan of Arc,,Nautilus Music Theater,Nautilus Studio,St. Paul,MN,Sound Designer
 10/27/2011,11/6/2011,Joan of Arc,,Nautilus Music Theater,Nautilus Studio,St. Paul,MN,Sound Designer
-4/12/2011,,drawing secrets,,Truman State University,Truman State University,Kirksville,MO,
+4/12/2011,,drawing secrets,,Truman State University,,Kirksville,MO,
 10/30/2010,,The Passion of the Infinite,,Truman State New Music Festival,Truman State University,Kirksville,MO,
 10/16/2010,,of circumstance,,Iowa Composers Forum Fall Festival,Iowa State University,Ames,IA,"Chelsea Lundberg, flute"
 2/16/2010,,emergence,,Mostly Live Composers Society,Truman State University,Kirksville,MO,"Ben Tate, alto sax."
