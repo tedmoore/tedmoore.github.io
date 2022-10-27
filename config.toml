@@ -120,8 +120,6 @@ paginate = 99
 # WORKS PAGE LIST ORDER
 
 [[params.works_order]]
-  name = 'noise-gate'
-[[params.works_order]]
   name = 'quartet'
 [[params.works_order]]
   name = 'triangle'
@@ -141,6 +139,8 @@ paginate = 99
   name = 'feathermucker'
 [[params.works_order]]
   name = 'solstice-orrery'
+[[params.works_order]]
+  name = 'noise-gate'
 [[params.works_order]]
   name = 'apsis'
 [[params.works_order]]

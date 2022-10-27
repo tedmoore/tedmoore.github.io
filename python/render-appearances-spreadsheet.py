@@ -20,5 +20,6 @@ with open('perf-appear.csv') as f:
                 entry[header] = row[j]
             entries["entries"].append(entry)
 
-with open('../data/perfappear.json', 'w') as f:
-    json.dump(entries, f)
+if len(entries["entries"]) > 0:
+    with open('../data/perfappear.json', 'w') as f:
+        json.dump(entries, f)
