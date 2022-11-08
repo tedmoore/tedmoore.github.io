@@ -2,6 +2,7 @@
 title: album releases
 draft: false
 ---
+<!-- bruit -->
 {{< columnrow >}}
 {{% column 50 pr1 %}}
 ### _bruit_ (2020)  
@@ -15,7 +16,20 @@ November 20, 2020
 {{< bandcamp-album id="3748377265" width="100%" >}}
 {{< /column >}}
 {{< /columnrow >}}
+<!-- live in london -->
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Live In London_ (2022)  
+Recorded live on the SKRONK series at New River Studios in London. Ted Moore on feedback-cymbal and laptop; {{< el "Kyle Hutchins" "http://www.jefferykylehutchins.com/" >}} on alto saxophone; and {{< el "Seth Andrew Davis" "http://www.sethandrewdavis.com/" >}} on electric guitar, laptop, and electronics.
 
+December 2, 2022  
+{{< el "Mother Brain Records" "https://motherbrainrecordskc.bandcamp.com/" >}}
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="968466731" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+<!-- ripple effects -->
 {{< columnrow >}}
 {{% column 50 pr1 %}}
 ### _Ripple Effects_ (2020)
