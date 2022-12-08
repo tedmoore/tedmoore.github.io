@@ -16,6 +16,19 @@ November 20, 2020
 {{< bandcamp-album id="3748377265" width="100%" >}}
 {{< /column >}}
 {{< /columnrow >}}
+<!--  banana split  -->
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Banana Split_ (2021)  
+An EP featuring [Binary Canary](/binary-canary) with {{< el "Sean Hamilton" "http://www.seanhamiltonmusic.com/" >}} plus tracks featuring {{< el "Nathan Corder" "https://nathancorder.com/" >}}, {{< el "Sean Hamilton" "http://www.seanhamiltonmusic.com/" >}}, and {{< el "Tom Weeks" "http://tomweeksmusic.com/" >}}.
+
+January 26, 2021  
+{{< el "Noise Pelican Records" "http://www.noisepelican.com/" >}}
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="2717514753" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
 <!-- live in london -->
 {{< columnrow >}}
 {{% column 50 pr1 %}}
