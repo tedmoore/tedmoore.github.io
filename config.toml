@@ -189,6 +189,8 @@ paginate = 99
 # HOMEPAGE ORDER
 
 [[params.homepage_order]]
+  name = 'moore-sellwood-tour'
+[[params.homepage_order]]
   name = 'tap'
 [[params.homepage_order]]
   name = 'improv'
