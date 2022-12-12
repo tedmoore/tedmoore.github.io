@@ -6,8 +6,6 @@ layout: single
 featured_image: /images/saccades-01.jpg
 ---
 
-<!-- {{< figure src="/images/saccades-01.jpg#floatright" width=60% >}} -->
-
 {{% columnrow %}}
 {{% column %}}
 # New York City
