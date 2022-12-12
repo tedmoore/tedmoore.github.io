@@ -28,14 +28,14 @@ The sonic source material of _quartet_ is about two minutes of eurorack synthesi
 
 {{< youtube-float qTHJaryNgBo 60 right >}}
 # [improvisation](/improv)  
-with percussionist Fabrizio Spera
+with percussionist Fabrizio Spera  
 recorded May 20, 2021
 
 I am performing on my [custom improvisation software designed in SuperCollider](/research/module-tensor) which is also drawing sounds in real-time from my eurorack modular synthesizer.
 
 {{< youtube-float DoVEwDdaLYQ 60 right >}}
 # [_tap_](/works/tap) (2019)  
-for percussion trio and multimedia
+for percussion trio and multimedia  
 performed by Line Upon Line Percussion
 
 **[full score](/scores/tap_-_score_210611_01__with_tech_diagram_.pdf)**
