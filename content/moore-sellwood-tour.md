@@ -31,8 +31,10 @@ Austin, TX 78721
 **7pm**  
 [**El Sótano de Vacas Verdes**](https://www.facebook.com/elsotanodevacas)  
 Eje Central 29, Mexico City, Mexico  
-[**Facebook Event**]() (coming soon...)
+[**Facebook Event**](https://fb.me/e/5rnbqbomN)
 {{% /column %}}
 {{% /columnrow %}}
 
 {{< youtube xk6sd6X5SZ4 >}}
+
+{{< youtube zoKLTauI-pU >}}
