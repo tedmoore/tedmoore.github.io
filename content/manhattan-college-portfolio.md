@@ -6,7 +6,7 @@ layout: single
 featured_image:
 ---
 
-In application for the Faculty Vacancy in Technology in Music and Related Arts at Oberlin Conservatory.
+In application for the position of Assistant Professor of Sound Studies/Music at Manhattan College.
 
 {{< youtube-float Ol-9ReF3IVA 60 right >}}
 # [_triangle_](/works/triangle) (2020)  
