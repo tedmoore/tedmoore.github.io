@@ -120,6 +120,8 @@ paginate = 99
 # WORKS PAGE LIST ORDER
 
 [[params.works_order]]
+  name = 'saccades'
+[[params.works_order]]
   name = 'quartet'
 [[params.works_order]]
   name = 'triangle'
@@ -189,7 +191,7 @@ paginate = 99
 # HOMEPAGE ORDER
 
 [[params.homepage_order]]
-  name = 'moore-sellwood-tour'
+  name = 'saccades'
 [[params.homepage_order]]
   name = 'tap'
 [[params.homepage_order]]
@@ -250,6 +252,8 @@ paginate = 99
   name = 'appetite'
 [[params.homepage_order]]
   name = 'serge'
+[[params.homepage_order]]
+  name = 'moore-sellwood-tour'
 
 # THEATER STUFF
 

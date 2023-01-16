@@ -3,7 +3,7 @@ title: "Moore/Sellwood Tour"
 description: January 2023
 draft: false
 layout: single
-featured_image: /images/saccades-01.jpg
+featured_image: /images/saccades/saccades-04.jpg
 ---
 
 {{% columnrow %}}
