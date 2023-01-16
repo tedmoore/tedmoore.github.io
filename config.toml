@@ -266,11 +266,23 @@ paginate = 99
   role = 'Sound Designer'
   URL = 'none'
 [[params.theater_list]]
+  Title = 'Bluets'
+  Year = '2017'
+  Description = 'Music by Catherine Dalton'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
   Title = 'APPETITE'
   Year = '2017'
   Description = 'Ted Moore and Charles Campbell (Skewed Visions)'
   role = 'Sound Design, Video Design, and Performance'
   URL = '/works/appetite'
+[[params.theater_list]]
+  Title = 'June'
+  Year = '2016'
+  Description = 'Umbrella Collective'
+  role = 'Composer'
+  URL = 'https://www.umbrellaco.org/june-2016.html'
 [[params.theater_list]]
   Title = 'These Are The Men'
   Year = '2015'
@@ -314,6 +326,18 @@ paginate = 99
   role = 'Sound Designer'
   URL = 'https://www.umbrellaco.org/tatm-workshop-2014.html'
 [[params.theater_list]]
+  Title = 'Minneapolis Cubed'
+  Year = '2014'
+  Description = 'with Eric F. Avery at the Northern Spark Festival'
+  role = 'Sound Designer, Composer, Installation Artist, & Performer'
+  URL = 'https://www.umbrellaco.org/tatm-workshop-2014.html'
+[[params.theater_list]]
+  Title = 'Junk Song'
+  Year = '2013'
+  Description = 'Nimbus Theater'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
   Title = 'Leaves'
   Year = '2013'
   Description = 'Umbrella Collective'
@@ -326,6 +350,12 @@ paginate = 99
   role = 'Composer and Sound Designer'
   URL = 'https://www.umbrellaco.org/rainfollows-2013.html'
 [[params.theater_list]]
+  Title = 'Rules of Love'
+  Year = '2013'
+  Description = 'Minnesota Fringe Festival'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
   Title = 'Emma Woodhouse is Not a Bitch'
   Year = '2013'
   Description = 'Umbrella Collective'
@@ -336,6 +366,30 @@ paginate = 99
   Year = '2012'
   Description = 'Umbrella Collective'
   role = 'Composer and Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'The View From here'
+  Year = '2012'
+  Description = 'Nautilus Music-Theater'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'Europera 5'
+  Year = '2012'
+  Description = 'by John Cage, with Nautilus Music-Theater'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'Since the Kids are Gone'
+  Year = '2012'
+  Description = 'Freshwater Theater'
+  role = 'Sound Designer'
+  URL = 'none'
+[[params.theater_list]]
+  Title = 'Joan of Arc'
+  Year = '2011'
+  Description = 'Nautilus Music-Theater'
+  role = 'Sound Designer'
   URL = 'none'
 
 # Theater page media order
