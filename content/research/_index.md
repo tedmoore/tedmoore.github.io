@@ -10,6 +10,7 @@ Learn more [here](/research/flucoma) about my University of Huddersfield {{< el 
 {{% center 75 %}}  
 _Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
 {{% /center %}}  
+* [Spreadsheet-based Spatial Audio Player](https://github.com/tedmoore/File-to-Output-Player) for easily organizing and triggering soundfiles in real-time spatial audio performance (2022) ({{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist {{< el "Dana Jessen" "https://www.danajessen.com/" >}} (2022) ({{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
 * [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ {{< el openFrameworks "https://openframeworks.cc/" >}})
