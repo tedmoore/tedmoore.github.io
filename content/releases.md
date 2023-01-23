@@ -2,6 +2,25 @@
 title: album releases
 draft: false
 ---
+<!-- nuclear sonic fusion -->
+{{< columnrow >}}
+{{% column 50 pr1 %}}
+### _Nuclear Sonic Fusion_ (2023)  
+Improvised music featuring:  
+{{< el "Ermanno Baron" "https://www.instagram.com/ermanno.baron/" >}} on percussion  
+Ted Moore on electronics  
+{{< el "Alípio C. Neto" "http://www.alipiocneto.com" >}} on saxophones & electronics  
+
+cover art by {{< el "Rachele Gigli" "https://www.rachelegigli.com" >}}
+
+January 24, 2023  
+{{< el "Mother Brain Records" "https://motherbrainrecordskc.bandcamp.com/" >}}  
+
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="562395306" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
 <!-- bruit -->
 {{< columnrow >}}
 {{% column 50 pr1 %}}
