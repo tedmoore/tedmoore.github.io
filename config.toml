@@ -407,8 +407,8 @@ paginate = 99
 [[params.theater_media]]
   Title = "PERSEPHONE"
   Year = "2014"
-  type = "vimeo"
-  id = "115116613"
+  type = "youtube"
+  id = "UPwYeKGpeEI"
 [[params.theater_media]]
   Title = "Body House"
   Year = "2014"
