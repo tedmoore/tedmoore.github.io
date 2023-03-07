@@ -35,7 +35,7 @@ Computational thinking and digital tools enrich all aspects of Ted’s work, whi
 
 Ranging from concert stages to dirty basements, Ted is a frequent improviser on electronics and has appeared with dozens of instrumental collaborators including on releases for Carrier Records, Mother Brain Records, Noise Pelican Records, and Avid Sound Records. Described as “frankly unsafe” by icareifyoulisten.com, performances on his custom, large-scale software instrument for live sound processing and synthesis, enables an improvisational voice rooted in free jazz, noise music, and musique concrète.
 
-Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Savage Umbrella in Minneapolis, creating original music, sound design, and video art. 
+Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art. 
 
 Ted currently lives in New Haven, Connecticut, but might also be found hiking in West Rock State Park or on the side of a mountain in Summit County Colorado.
 
