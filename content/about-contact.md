@@ -27,7 +27,7 @@ layout: single
 
 Ted Moore (he / him) is a composer, improviser, and intermedia artist whose work fuses sonic, visual, physical, and acoustic elements, often incorporating technology to create immersive, multidimensional experiences. 
 
-After completing a PhD in Music Composition at the University of Chicago, Ted served as a postdoctoral Research Fellow in Creative Coding at the University of Huddersfield as part of the FluComa project, where he investigated the creative potential of machine learning algorithms and taught workshops on how artists can use machine learning in their creative music practice. Ted has continued offering workshops around the world on machine learning and creativity including at the University of Pennsylvania, Center for Computer Research in Music and Acoustics (CCRMA) at Stanford University, and Music Hackspace in London.
+After completing a PhD in Music Composition at the University of Chicago, Ted served as a postdoctoral Research Fellow in Creative Coding at the University of Huddersfield as part of the ERC-funded FluCoMa project, where he investigated the creative potential of machine learning algorithms and taught workshops on how artists can use machine learning in their creative music practice. Ted has continued offering workshops around the world on machine learning and creativity including at the University of Pennsylvania, Center for Computer Research in Music and Acoustics (CCRMA) at Stanford University, and Music Hackspace in London.
 
 Ted’s music has been presented by leading cultural institutions such as MassMoCA, South by Southwest, The Walker Art Center, and National Sawdust and presented by ensembles such as Talea Ensemble, International Contemporary Ensemble, the [Switch~ Ensemble], and the JACK Quartet. Ted has held artist residences with the Phonos Foundation in Barcelona, the Arts, Sciences, & Culture Initiative at the University of Chicago, and the Studio for Electro-Instrumental Music (STEIM) in Amsterdam. His sound art installations combine DIY electronics, embedded technologies, and spatial sound have been featured around the world including at the American Academy in Rome and New York University.
 
@@ -37,7 +37,7 @@ Ranging from concert stages to dirty basements, Ted is a frequent improviser on 
 
 Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art. 
 
-Ted currently lives in New Haven, Connecticut, but might also be found hiking in West Rock State Park or on the side of a mountain in Summit County Colorado.
+Ted currently lives in New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
 
 _I have signed the New Music Equity Action Pledge in commitment to undertake the actions and goals it states._
 

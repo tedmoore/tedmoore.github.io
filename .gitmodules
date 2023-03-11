@@ -8,3 +8,6 @@
 	path = public
 	url = https://github.com/tedmoore/tedmoore.github.io.git
 	branch = main
+[submodule "themes/gohugo-theme-ananke"]
+	path = themes/gohugo-theme-ananke
+	url = https://github.com/tedmoore/gohugo-theme-ananke.git
