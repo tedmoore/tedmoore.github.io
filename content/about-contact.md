@@ -41,4 +41,6 @@ As dedicated teacher, Ted has taught music and creative technologies for well ov
 
 Ted currently lives in New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
 
+_I have signed the New Music Equity Action Pledge in commitment to undertake the actions and goals it states._
+
 photo credit: Brian Fancher
