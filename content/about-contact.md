@@ -35,10 +35,10 @@ Computational thinking and digital tools enrich all aspects of Ted’s work, whi
 
 Ranging from concert stages to dirty basements, Ted is a frequent improviser on electronics and has appeared with dozens of instrumental collaborators including on releases for Carrier Records, Mother Brain Records, Noise Pelican Records, and Avid Sound Records. Described as “frankly unsafe” by icareifyoulisten.com, performances on his custom, large-scale software instrument for live sound processing and synthesis, enables an improvisational voice rooted in free jazz, noise music, and musique concrète.
 
-Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art. 
+Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art.
+
+As dedicated teacher, Ted has taught music and creative technologies for well over a decade in a variety of settings, including at the University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Always striving to create inclusive learning environments, Ted's teaching aims to develop individuals' creative voices while fostering creative, supportive communities.
 
 Ted currently lives in New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
-
-_I have signed the New Music Equity Action Pledge in commitment to undertake the actions and goals it states._
 
 photo credit: Brian Fancher
