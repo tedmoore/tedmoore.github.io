@@ -1,5 +1,5 @@
 ---
-title: about Ted moore
+title: about Ted Moore
 draft: false
 layout: single
 ---
@@ -37,7 +37,7 @@ Ranging from concert stages to dirty basements, Ted is a frequent improviser on 
 
 Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art.
 
-As dedicated teacher, Ted has taught music and creative technologies for well over a decade in a variety of settings, including at the University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Always striving to create inclusive learning environments, Ted's teaching aims to develop individuals' creative voices while fostering creative, supportive communities.
+As dedicated teacher, Ted has taught music and creative technologies in a variety of settings, including at the University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Always striving to create inclusive learning environments, Ted's teaching aims to develop individuals' creative voices while also fostering creative, supportive communities.
 
 Ted currently lives in New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
 
