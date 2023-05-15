@@ -14,7 +14,7 @@ layout: single
             <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="/documents/Ted-Moore-CV.pdf" target="_blank">CV</a>
           </li>
           <li class="list f5-ns fw5 dib tc ph5"> <!-- dib = "display inline block"-->
-            <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="/performances-appearances/">performance history</a>
+            <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="/performances-appearances/">appearance history</a>
           </li>
            <li class="list f5-ns fw5 dib tc ph5"> <!-- dib = "display inline block"-->
             <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="https://drive.google.com/drive/folders/1cJn0DmaVqoDwhxzdmvDsVPs7M8XEg4HD" target="_blank">hi-res photos</a>
