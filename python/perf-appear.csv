@@ -1,4 +1,7 @@
 date,enddate,piece,role,presenter,location,city,state,notes
+7/21/2023,,fold,,Browser Sound Festival,Kultur Kiosk,Stuttgart,DE,supported by the DigiScore Research Project
+7/10/2023,7/14/2023,,FluCoMa Workshop,Center for Computer Research in Music and Acoustics (CCRMA),Stanford University,Palo Alto,CA,(online)
+6/28/2023,,saccades,,Jorge Sousa,Universidade de Aveiro,Aveiro,Portugal,
 6/21/2023,,saccades,,New York City Electroacoustic Music Festival,Sheen Center,New York,NY,Kyle Hutchins
 6/20/2023,,Serge Modular Archive Instrument: Archiving and Performing Vintage Sound Space,,New York City Electroacoustic Music Festival,New York University,New York,NY,
 6/10/2023,6/18/2023,,Techical Director,The Walden School Creative Musicians Retreat,Brewster Academy,Wolfeboro,NH,
@@ -17,8 +20,8 @@ date,enddate,piece,role,presenter,location,city,state,notes
 3/6/2023,3/10/2023,,FluCoMa Workshop,,University of Pennsylvania,Philadelphia,PA,
 3/3/2023,,Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa,,Music Technology Pedagogy Summit,Westminster College,Salt Lake City,UT,
 2/26/2023,,still motion,,,Boston Conservatory,Boston,MA,Josh Perry
-2/22/2023,,,"Guest Lecture, on AI & Music",,University of the Highlands & Islands,Perth,UK,(remote)
-1/29/2023,,,Unsupervised Machine Learning in FluCoMa Workshop,Music Hackspace,,London,UK,(remote)
+2/22/2023,,,"Guest Lecture, on AI & Music",,University of the Highlands & Islands,Perth,UK,(online)
+1/29/2023,,,Unsupervised Machine Learning in FluCoMa Workshop,Music Hackspace,,London,UK,(online)
 1/19/2023,,,improv,FIM,Never Ending Books,New Haven,CT,with Luke Rovinsky
 1/14/2023,,,improv,,Jazzorca,Mexico City,MX,"with German Bringas, Don Malfon, Carlos Alegre, Alex Motta, Pablo Rubio Vargas, & Baal Inthy"
 1/12/2023,,saccades,,,El Sótano de Vacas Verdes,Mexico City,MX,with Olly Sellwood
@@ -59,11 +62,11 @@ date,enddate,piece,role,presenter,location,city,state,notes
 3/14/2022,3/18/2022,,FluCoMa Workshop,NOTAM,,Oslo,NO,
 2/26/2022,,,Presentation,Creative Coding Lab,University of Huddersfield,Huddersfield,UK,
 2/25/2022,,,improv,Electric Spring Festival,University of Huddersfield,Huddersfield,UK,with Mark Hanslip
-1/20/2022,,,FluCoMa Workshop,,University of Victoria (remote),Victoria,BC,
-1/18/2022,,,Presentation,Composition Seminar,UC San Diego (remote),San Deigo,CA,
-1/17/2022,1/18/2021,,FluCoMa Workshop,,UC San Diego (remote),San Deigo,CA,
-1/15/2022,1/16/2021,,FluCoMa Workshop,,University of Washington (DXARTS) (remote),Seattle,WA,
-1/12/2022,,,Presentation,Composition Seminar,University of Victoria (remote),Victoria,Canada,
+1/20/2022,,,FluCoMa Workshop,,University of Victoria (online),Victoria,BC,
+1/18/2022,,,Presentation,Composition Seminar,UC San Diego (online),San Deigo,CA,
+1/17/2022,1/18/2021,,FluCoMa Workshop,,UC San Diego (online),San Deigo,CA,
+1/15/2022,1/16/2021,,FluCoMa Workshop,,University of Washington (DXARTS) (online),Seattle,WA,
+1/12/2022,,,Presentation,Composition Seminar,University of Victoria (online),Victoria,Canada,
 12/3/2021,,,FluCoMa Workshop,,Massechusettes Institute of Technology,Cambridge,MA,
 12/3/2021,12/4/2021,,FluCoMa Workshop,,New England Conservatory,Boston,MA,
 12/2/2021,,,FluCoMa Workshop,,Berklee School of Music,Boston,MA,
@@ -73,7 +76,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 11/30/2021,,,Presentation,Composition Seminar,New York University,New York,NY,
 11/29/2021,,,FluCoMa Workshop,,Princeton University,Princeton,NJ,
 11/24/2021,11/26/2021,,FluCoMa Workshop,,McGill (CIRMMT),Montreal,QC,
-11/17/2021,,,Presentation,Brad Spiers Music and AI Course,University of Chicago (remote),Chicago ,IL,
+11/17/2021,,,Presentation,Brad Spiers Music and AI Course,University of Chicago (online),Chicago ,IL,
 11/8/2021,11/12/2021,,FluCoMa Workshop,,Hogeschool voor de Kunsten,Utrecht,NL,
 10/16/2021,,,improv,Southwest Electronic Music Festival,Arizona State University,Phoenix,AZ,with Kyle Hutchins
 10/16/2021,,,FluCoMa Workshop,,Arizona State University,Phoenix,AZ,
@@ -86,7 +89,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 10/2/2021,,lacunae,,Ear Taxi Festival,University of Chicago,Chicago,IL,Wet Ink
 7/27/2021,,hollow,,International Computer Music Conference (ICMC),,Santiago,Chile,with Kyle Hutchins
 7/23/2021,,noise/gate,,ilSUONO,,Città di Castello,Italy,Giacomo Piermatti
-6/21/2021,,,Artist Presentation,SICPP,New England Conservatory (remote),Boston,MA,
+6/21/2021,,,Artist Presentation,SICPP,New England Conservatory (online),Boston,MA,
 5/20/2021,,Aluminum Forest,,American Academy in Rome,Villa Aurelia,Rome,Italy,
 5/20/2021,,,improv,American Academy in Rome,Villa Aurelia,Rome,Italy,with Fabrizio Spera
 12/11/2020,,triangle,,National Sawdust,,New York,NY,JACK Quartet
