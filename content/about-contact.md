@@ -37,9 +37,9 @@ Ranging from concert stages to dirty basements, Ted is a frequent improviser on 
 
 Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing him into collaboration with creative thinkers of differing backgrounds, such as theater-makers, choreographers, dancers, and software engineers. Ted has worked with independent theater companies, creating collaboratively devised intermedia works notably with Skewed Visions and Umbrella Collective in Minneapolis, creating original music, sound design, and video art.
 
-As dedicated teacher, Ted has taught music and creative technologies in a variety of settings, including at the University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Always striving to create inclusive learning environments, Ted's teaching aims to develop individuals' creative voices while also fostering creative, supportive communities.
+As a dedicated teacher, Ted has taught music and creative technologies in a variety of settings, including at the Peabody Institute, Yale School of Music, Connecticut College, University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Ted's teaching creates inclusive learning environments that develop individuals' creative voices while also fostering creative, supportive communities.
 
-Ted currently lives in New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
+Ted currently lives near New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
 
 _I have signed the New Music Equity Action Pledge in commitment to undertake the actions and goals it states._
 
