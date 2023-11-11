@@ -15,7 +15,7 @@ This phenomenon is imitated by the sound and video presented in the piece. It al
 
 The processes used to create _saccades_ embody this density of information. Large datasets of audio analyses derived from the tape part are sent to neural networks and dimensionality reduction algorithms to find patterns and then visualize and sonify what is found. A plethora of variations on visual themes are created by the combinatorics of stochastically triggered visual synthesis modules and processing effects. Computer vision analysis adds layers to our visual and aural perception–tightly binding together the visual and auditory elements. In the final movement, source video of an eyeball is morphed via a convolutional neural network creating eyeballs that feel both simple and obvious, but also slightly make my stomach squirm.
 
-Special thanks to composer & saxophonist [Olly Sellwood](https://www.ollysellwood.info/).
+{{< el "full score" "/scores/saccades-by-Ted-Moore.pdf" >}}
 
 ### Documentation of Performance:
 
