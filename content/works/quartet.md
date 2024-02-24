@@ -9,7 +9,7 @@ tags: ["intermedia","video","machine learning"]
 featured_image: images/quartet.jpg
 ---
 
-**_Musicologist {{< el "Jacob Hart" "https://jacob-hart.com/" >}} has written a nice article about this work. {{< el "Read it here" "https://learn.flucoma.org/explore/moore/" >}}._**
+<!-- **_Musicologist {{< el "Jacob Hart" "https://jacob-hart.com/" >}} has written a nice article about this work. {{< el "Read it here" "https://learn.flucoma.org/explore/moore/" >}}._** -->
 
 {{< youtube-float C0FBNLy4NCM 65 right >}}
 _created with the [[Switch~ Ensemble]](http://www.switchensemble.com/):_  
