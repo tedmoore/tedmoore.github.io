@@ -8,6 +8,8 @@ tags: ["machine learning"]
 featured_image: /images/flucoma.jpg
 ---
 
+Registration open for the **[FluCoMa Workshop Summer 2024](/flucoma-workshop-summer-2024)**
+
 {{< figure src="/images/flucoma-full.jpg#floatright" width="200px" >}} 
 During the 2021-2022 academic year I served as a postdoctoral Research Fellow in Creative Coding at the University of Huddersfield {{< el "CeReNeM" "https://research.hud.ac.uk/institutes-centres/cerenem/" >}} working on the project {{< el "Fluid Corpus Manipulation" "https://www.flucoma.org/" >}} ("FluCoMa").
 
