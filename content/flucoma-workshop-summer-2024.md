@@ -8,7 +8,7 @@ featured_image: /images/flucoma.jpg
 
 {{< figure src="/images/flucoma-full.jpg#floatright" width="50%" >}}
 **Dates:** Monday-Friday, July 22-26, 2024  
-**Time:** 12pm-4pm (with breaks) & 5pm-6pm USA East Coast Time  
+**Time:** 12pm-3:30pm (with breaks) & 4:30pm-5:30pm USA East Coast Time  
 (asynchronous participation is allowed)  
 **Location:** Classes Held on Zoom    
 **Instructor:** [Ted Moore](/about-contact/)  
@@ -28,7 +28,7 @@ This workshop will introduce and go in-depth on the Fluid Corpus Manipulation pr
 
 FluCoMa (https://www.flucoma.org/) is a toolkit for making music with machine listening and machine learning within Max, SuperCollider, & Pure Data. The toolkit offers audio decomposition tools to separate real-time and recorded audio into component elements, audio analysis tools to describe audio components as analytical and statistical representations, data analysis and machine learning algorithms for pattern detection and expressive corpus browsing, and audio morphing and hybridization algorithms for audio remixing, interpolating, and variation-making.
 
-Participants will learn to use most aspects of the FluCoMa toolkit--with an emphasis on creative musical applications and outcomes. The math and theory behind these tools and algorithms will discussed when appropriate for building fluency and intuition towards artistic uses of FluCoMa. 12-4pm will be spent on lectures and code dissection while 5-6pm will be an opportunity for ideation, discussion, and instructor support on individuals' projects.
+Participants will learn to use most aspects of the FluCoMa toolkit--with an emphasis on creative musical applications and outcomes. The math and theory behind these tools and algorithms will discussed when appropriate for building fluency and intuition towards artistic uses of FluCoMa. 12-3:30pm will be spent on lectures and code dissection while 4:30-5:30pm will be an opportunity for ideation, discussion, and instructor support on individuals' projects.
 
 Participants may use either Max or SuperCollider. Pure Data users are welcome knowing that Pure Data won't be represented in the course materials.
 
