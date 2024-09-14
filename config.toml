@@ -116,6 +116,8 @@ paginate = 99
 [[params.works_order]]
   name = 'saccades'
 [[params.works_order]]
+  name = 'arco'
+[[params.works_order]]
   name = 'quartet'
 [[params.works_order]]
   name = 'triangle'
@@ -194,6 +196,8 @@ paginate = 99
   name = 'tap'
 [[params.homepage_order]]
   name = 'improv'
+[[params.homepage_order]]
+  name = 'arco'
 [[params.homepage_order]]
   name = 'aluminum-forest'
 [[params.homepage_order]]
