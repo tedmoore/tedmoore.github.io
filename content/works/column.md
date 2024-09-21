@@ -1,7 +1,7 @@
 ---
 title: column
 draft: false
-year: 2019
+year: 2018
 description: feedback saxophone, saxohpone wtih embeded electronics, 142 speakers, and DMX lights
 layout: single-works
 categories: ["composition"]
