@@ -1,7 +1,7 @@
 ---
 title: "Aluminum Forest"
 draft: false
-year: 2021
+year: 2021, rev. 2024
 layout: single-works
 categories: ["installation"]
 tags: ["intermedia"]

@@ -13,7 +13,7 @@ _Much of my creative work involves creative coding, so here is just a selection 
 * [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist {{< el "Dana Jessen" "https://www.danajessen.com/" >}} (2022-) ({{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
 * [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ {{< el openFrameworks "https://openframeworks.cc/" >}})
-* [Aluminum Forest](/works/aluminum-forest) (2021) (Arduino & {{< el "SuperCollider" "https://supercollider.github.io/" >}})
+* [Aluminum Forest](/works/aluminum-forest) (2021, rev. 2024) (Arduino & {{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * {{< el "PlotXYColor" "https://github.com/tedmoore/PlotXYColor" >}} plotter for inspecting multi-dimensional data (2020) (SuperCollider)
 * {{< el "JSON Writer" "https://github.com/tedmoore/JSON-Writer-Supercollider" >}} (2020) (SuperCollider)
 * Audio-Reactive Modular Video Design (2019-) (C++, {{< el "openFrameworks" "https://openframeworks.cc/" >}}, {{< el "SuperCollider" "https://supercollider.github.io/" >}})
