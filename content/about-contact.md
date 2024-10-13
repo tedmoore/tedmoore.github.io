@@ -37,8 +37,6 @@ Interdisciplinarity catalyzes the diversity of Ted’s own practice by bringing 
 
 After completing a PhD in Music Composition at the University of Chicago, Ted served as a postdoctoral Research Fellow in Creative Coding at the University of Huddersfield as part of the ERC-funded FluCoMa project, where he investigated the creative potential of machine learning algorithms and taught workshops on how artists can use machine learning in their creative music practice. Ted has continued offering workshops around the world on machine learning and creativity including at the University of Pennsylvania, Center for Computer Research in Music and Acoustics (CCRMA) at Stanford University, and Music Hackspace in London.
 
-As a dedicated teacher, Ted has taught music and creative technologies in a variety of settings, including at the Peabody Institute, Yale School of Music, Yale College, Connecticut College, University of Chicago, Virginia Tech University, The Walden School, Slam Academy, MacPhail Center for Music, and McNally Smith College of Music. Ted's teaching creates inclusive learning environments that develop individuals' creative voices while also fostering creative, supportive communities.
-
 Ted currently lives near New Haven, Connecticut, but might also be found hiking in nearby West Rock State Park or on the side of a mountain in Summit County, Colorado.
 
 photo credit: Brian Fancher
