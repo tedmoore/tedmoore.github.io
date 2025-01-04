@@ -1,11 +1,14 @@
 date,enddate,piece,role,presenter,location,city,state,notes
+12/10/2024,,,improv,High Zero,Red Room,Baltimore,MD,with Rachel Beetz
+12/1/2024,,,improv,,Metro Core,Rome,Italy,with Ermanno Baron and Dan Kinzelman
+11/29/2024,,,Keynote Speaker,Dictionary for Multidisciplinary Music Integration,University of Trento,Trento,Italy,
 11/15/2024,,it teaches us that it doesn't exist,,Lucerne Forward Festival,Peterskapelle,Lucerne,Switzerland,performed by Ted Moore
 11/15/2024,11/17/2024,Aluminum Forest,,Lucerne Forward Festival,Peterskapelle,Lucerne,Switzerland,in collaboration with Katie Balch
 11/8/2024,,still motion,,Ensemble Mise-En,MISE_EN PLACE,Brooklyn,NY,performed by Josh Perry
 10/18/2024,,saccades,,Jorge Sousa,Conservatório de Música,Vila de Conde,Portugal,
 9/25/2024,,,Presentation,SuperCollider Meetup,NOTAM,Oslo,Norway,(online)
 9/19/2024,,,Presentation,Composition Music Seminar,Peabody Institute at the Johns Hopkins University,Baltimore,MD,
-9/9/2024,,saccades,,Artificial Intelligence and Musical Creativity Conference,Oxford University,Oxford,UK,performed by David Zucchi
+9/9/2024,,saccades,,Artificial Intelligence and Musical Creativity Conference,Oxford University,Oxford,United Kingdom,performed by David Zucchi
 7/22/2024,7/26/2024,,FluCoMa Workshop,Independently Organized,held on Zoom,,,
 7/13/2024,,saccades,,International Computer Music Conference (ICMC),Hanyang University,Seoul,South Korea,performed by Kyle Hutchins
 7/11/2024,,,improv,,Strange Fruit,Seoul,South Korea,performed with Sato Yukie
@@ -13,7 +16,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 7/6/2024,,nan,,Sound and Music Computing (SMC),Escola Superior de Música e Artes do Espetáculo,Porto,Portugal,
 7/6/2024,,saccades,,Sound and Music Computing (SMC),Escola Superior de Música e Artes do Espetáculo,Porto,Portugal,performed by Jorge Sousa
 6/16/2024,6/23/2024,,Techical Director,The Walden School Creative Musicians Retreat,Dublin School,Dublin,NH,
-6/8/2024,,arco,,CeReNeM,University of Huddersfield,Huddersfield,UK,performed by Marco Fusi
+6/8/2024,,arco,,CeReNeM,University of Huddersfield,Huddersfield,United Kingdom,performed by Marco Fusi
 4/27/2024,,saccades,,Allosphere,University of California Santa Barbara,Santa Barbara,CA,"performed by Kyle Hutchins, video redesigned for 360 degree video sphere & audio redesigned for 54.1 HDLA"
 4/16/2024,,,FluCoMa Workshop,,University of Pennsylvania,Philadelphia,PA,
 4/6/2024,,alloy,,Cleveland Uncommon Sound Project,Convivium 33 Gallery,Cleveland,OH,with Kyle Hutchins
@@ -26,7 +29,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 2/26/2024,,,Technical Support,Schwarzman Center,Yale University,New Haven,CT,_Lyra_ by Samuel Adams
 12/12/2023,,deepities,,Kyle Hutchins & Kendra Wheeler,Campus de Benfica do IPL,Lisbon,Portugal,
 12/11/2023,,,improv,,Yale School of Music,New Haven,CT,with Ben Verdery's Guitar Studio
-12/10/2023,,saccades,,World Saxophone Congress,,Canary Islands,ES,performed by Jorge Sousa
+12/10/2023,,saccades,,World Saxophone Congress,,Canary Islands,Spain,performed by Jorge Sousa
 11/6/2023,,saccades,,,SUNY Buffalo,Buffalo,NY,performed by Kyle Hutchins
 11/5/2023,,,improv,FIM,Never Ending Books,New Haven,CT,with Dana Jessen & Will Yeager
 11/4/2023,,nand,,Splice Festival,Berklee School of Music,Boston,MA,Splice Ensemble
@@ -38,7 +41,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 9/8/2023,,,Technical Director of Spatial Audio,SUNY Buffalo,,Buffalo,NY,"Tiffany Skidmore's composition, _The William Blake Cycle_"
 9/6/2023,,,Presentation,Composition Seminar,SUNY Buffalo,Buffalo,NY,
 8/4/2023,8/5/2023,,Intro to Modular Synthesis with VCV Rack,The Walden School 50th Anniversary Reunion,Dublin School,Dublin,NH,
-7/21/2023,,fold,,Browser Sound Festival,Kultur Kiosk,Stuttgart,DE,supported by the DigiScore Research Project
+7/21/2023,,fold,,Browser Sound Festival,Kultur Kiosk,Stuttgart,Germany,supported by the DigiScore Research Project
 7/10/2023,7/14/2023,,FluCoMa Workshop,Center for Computer Research in Music and Acoustics (CCRMA),Stanford University,Palo Alto,CA,(online)
 6/28/2023,,saccades,,Jorge Sousa,Universidade de Aveiro,Aveiro,Portugal,performed by Jorge Sousa
 6/21/2023,,saccades,,New York City Electroacoustic Music Festival,Sheen Center,New York,NY,Kyle Hutchins
@@ -59,36 +62,36 @@ date,enddate,piece,role,presenter,location,city,state,notes
 3/6/2023,3/10/2023,,FluCoMa Workshop,,University of Pennsylvania,Philadelphia,PA,
 3/3/2023,,Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa,,Music Technology Pedagogy Summit,Westminster College,Salt Lake City,UT,
 2/26/2023,,still motion,,,Boston Conservatory,Boston,MA,Josh Perry
-2/22/2023,,,"Guest Lecture, on AI & Music",,University of the Highlands & Islands,Perth,UK,(online)
-1/29/2023,,,Unsupervised Machine Learning in FluCoMa Workshop,Music Hackspace,,London,UK,(online)
+2/22/2023,,,"Guest Lecture, on AI & Music",,University of the Highlands & Islands,Perth,United Kingdom,(online)
+1/29/2023,,,Unsupervised Machine Learning in FluCoMa Workshop,Music Hackspace,,London,United Kingdom,(online)
 1/19/2023,,,improv,FIM,Never Ending Books,New Haven,CT,with Luke Rovinsky
-1/14/2023,,,improv,,Jazzorca,Mexico City,MX,"with German Bringas, Don Malfon, Carlos Alegre, Alex Motta, Pablo Rubio Vargas, & Baal Inthy"
-1/12/2023,,saccades,,,El Sótano de Vacas Verdes,Mexico City,MX,with Olly Sellwood
+1/14/2023,,,improv,,Jazzorca,Mexico City,Mexico,"with German Bringas, Don Malfon, Carlos Alegre, Alex Motta, Pablo Rubio Vargas, & Baal Inthy"
+1/12/2023,,saccades,,,El Sótano de Vacas Verdes,Mexico City,Mexico,with Olly Sellwood
 1/6/2023,,saccades,,Line Upon Line Percussion Winter Festival,CRASHBOX,Austin,TX,with Olly Sellwood
 1/6/2023,,,improv,Line Upon Line Percussion Winter Festival,CRASHBOX,Austin,TX,"with Olly Sellwood, Cullyn Murphy, Inga Chinilina, José Hernandez, Brandon Lincoln Snyder, and Jeremy Rapaport-Stein"
 1/4/2023,,saccades,,,MISE-EN_PLACE,Brooklyn,NY,with Olly Sellwood
-12/11/2022,,,Neural Networks in FluCoMa Workshop,Music Hackspace,,London,UK,
+12/11/2022,,,Neural Networks in FluCoMa Workshop,Music Hackspace,,London,United Kingdom,
 12/6/2022,,still motion b,,New Music + Technology Concert in The Cube,Virginia Tech University,Blacksburg,VA,Ted Moore
 12/5/2022,,,Technical Director of Spatial Audio,New Music + Technology Concert in The Cube,Virginia Tech University,Blacksburg,VA,"Tiffany Skidmore's composition, _The William Blake Cycle_"
 11/9/2022,,,FluCoMa Presentation,Scott Peterson's SuperCollider Class,Yale University,New Haven,CT,
-10/22/2022,,,Intro to FluCoMa Workshop,Music Hackspace,,London,UK,
+10/22/2022,,,Intro to FluCoMa Workshop,Music Hackspace,,London,United Kingdom,
 10/19/2022,,still motion,,,Emory University,Atlanta,GA,Josh Perry
 10/10/2022,,,Presentation,Composition Class,Virginia Tech University,Blacksburg,VA,
 10/8/2022,,,improv,,Art Rat Studios,Roanoke,VA,with Kyle Hutchins
 10/6/2022,,,Presentation,Composition Seminar,Virginia Tech University,Blacksburg,VA,
 9/30/2022,,quartet,,IRCAM Forum,NYU / Columbia University,New York,NY,
-7/10/2022,,,improv,,Kühlspot Social Club,Berlin,DE,with Nina Guo
-7/9/2022,,,improv,,K77 Studio,Berlin,DE,with Nina Guo
-7/9/2022,,,FluCoMa Workshop,Catalyst & Technical University,,Berlin,DE,
-7/3/2022,,,FluCoMa Workshop,International Computer Music Conference (ICMC),Limerick University,Limerick,IRL,
-7/1/2022,,alloy,,SKRONK,New River Studios,London,UK,with Kyle Hutchins
-7/1/2022,,,improv,SKRONK,New River Studios,London,UK,with Kyle Hutchins & Seth Davis
-6/18/2022,,,improv,,AME,Huddersfield,UK,with PA Tremblay and Emil Karlsen
-6/3/2022,6/4/2022,,FluCoMa Workshop,,University of Sussex,Brighton,UK,
-6/2/2022,,,improv,University of Sussex,The Rose Hill,Brighton,UK,with Paul Keene
-5/19/2022,,,improv,,Soda Acústic,Barcelona,ES,"with Ángel Faraldo, Clara Lai, & Ferran Fages"
-5/13/2022,5/20/2022,,Residency,Phonos Foundation,Universitat Pompeu Fabra,Barcelona,ES,
-5/12/2022,,,improv,,Soda Acústic,Barcelona,ES,with El Pricto and Luis Erades
+7/10/2022,,,improv,,Kühlspot Social Club,Berlin,Germany,with Nina Guo
+7/9/2022,,,improv,,K77 Studio,Berlin,Germany,with Nina Guo
+7/9/2022,,,FluCoMa Workshop,Catalyst & Technical University,,Berlin,Germany,
+7/3/2022,,,FluCoMa Workshop,International Computer Music Conference (ICMC),Limerick University,Limerick,Ireland,
+7/1/2022,,alloy,,SKRONK,New River Studios,London,United Kingdom,with Kyle Hutchins
+7/1/2022,,,improv,SKRONK,New River Studios,London,United Kingdom,with Kyle Hutchins & Seth Davis
+6/18/2022,,,improv,,AME,Huddersfield,United Kingdom,with PA Tremblay and Emil Karlsen
+6/3/2022,6/4/2022,,FluCoMa Workshop,,University of Sussex,Brighton,United Kingdom,
+6/2/2022,,,improv,University of Sussex,The Rose Hill,Brighton,United Kingdom,with Paul Keene
+5/19/2022,,,improv,,Soda Acústic,Barcelona,Spain,"with Ángel Faraldo, Clara Lai, & Ferran Fages"
+5/13/2022,5/20/2022,,Residency,Phonos Foundation,Universitat Pompeu Fabra,Barcelona,Spain,
+5/12/2022,,,improv,,Soda Acústic,Barcelona,Spain,with El Pricto and Luis Erades
 5/5/2022,,still motion,,Mise-en Ensemble,Mise-en Place,New York,NY,Josh Perry
 4/14/2022,4/15/2022,,FluCoMa Workshop,Computer Music Center,Columbia University,New York,NY,
 4/11/2022,4/13/2022,,FluCoMa Workshop,Music Department,University of Pennsylvania,Philadelphia,PA,
@@ -98,11 +101,11 @@ date,enddate,piece,role,presenter,location,city,state,notes
 4/3/2022,,,improv,IDeATe Lab,Carnegie Mellon University,Pittsburgh,PA,with Ben Opie
 4/2/2022,4/3/2022,,FluCoMa Workshop,IDeATe Lab,Carnegie Mellon University,Pittsburgh,PA,
 4/1/2022,,,FluCoMa Presentation,SEAMUS,Western Michigan University,Kalamazoo,MI,
-3/17/2022,,,improv,,MIR,Oslo,NO,with Inga Margrete Aas
-3/14/2022,3/18/2022,,FluCoMa Workshop,NOTAM,,Oslo,NO,
-2/26/2022,,,Presentation,Creative Coding Lab,University of Huddersfield,Huddersfield,UK,
-2/25/2022,,,improv,Electric Spring Festival,University of Huddersfield,Huddersfield,UK,with Mark Hanslip
-1/20/2022,,,FluCoMa Workshop,,University of Victoria (online),Victoria,BC,
+3/17/2022,,,improv,,MIR,Oslo,Norway,with Inga Margrete Aas
+3/14/2022,3/18/2022,,FluCoMa Workshop,NOTAM,,Oslo,Norway,
+2/26/2022,,,Presentation,Creative Coding Lab,University of Huddersfield,Huddersfield,United Kingdom,
+2/25/2022,,,improv,Electric Spring Festival,University of Huddersfield,Huddersfield,United Kingdom,with Mark Hanslip
+1/20/2022,,,FluCoMa Workshop,,University of Victoria (online),Victoria,Canada,
 1/18/2022,,,Presentation,Composition Seminar,UC San Diego (online),San Deigo,CA,
 1/17/2022,1/18/2021,,FluCoMa Workshop,,UC San Diego (online),San Deigo,CA,
 1/15/2022,1/16/2021,,FluCoMa Workshop,,University of Washington (DXARTS) (online),Seattle,WA,
@@ -115,9 +118,9 @@ date,enddate,piece,role,presenter,location,city,state,notes
 12/1/2021,,,FluCoMa Presentation,,Columbia & Bell Labs,New York,NY,
 11/30/2021,,,Presentation,Composition Seminar,New York University,New York,NY,
 11/29/2021,,,FluCoMa Workshop,,Princeton University,Princeton,NJ,
-11/24/2021,11/26/2021,,FluCoMa Workshop,,McGill (CIRMMT),Montreal,QC,
+11/24/2021,11/26/2021,,FluCoMa Workshop,,McGill (CIRMMT),Montreal,Canada,
 11/17/2021,,,Presentation,Brad Spiers Music and AI Course,University of Chicago (online),Chicago ,IL,
-11/8/2021,11/12/2021,,FluCoMa Workshop,,Hogeschool voor de Kunsten,Utrecht,NL,
+11/8/2021,11/12/2021,,FluCoMa Workshop,,Hogeschool voor de Kunsten,Utrecht,Netherlands,
 10/16/2021,,alloy,,Southwest Electronic Music Festival,Arizona State University,Phoenix,AZ,with Kyle Hutchins
 10/16/2021,,,improv,Southwest Electronic Music Festival,Arizona State University,Phoenix,AZ,with Kyle Hutchins
 10/16/2021,,,FluCoMa Workshop,,Arizona State University,Phoenix,AZ,
@@ -139,19 +142,19 @@ date,enddate,piece,role,presenter,location,city,state,notes
 6/9/2020,,for line upon line,,Victoria Bach Festival,Victoria Bach Festival,Victoria,TX,Line Upon Line Percussion
 3/29/2020,,hold,,Civic Orchestra of Chicago,,Chicago,IL,
 3/7/2020,,APSIS,,Seensound: Visual/Music Series,Loop Project Bar,Melbourne,Australia,
-3/7/2020,,APSIS,,Seensound: Visual/Music Series,Loop Project Bar,Melbourne,AUS,
+3/7/2020,,APSIS,,Seensound: Visual/Music Series,Loop Project Bar,Melbourne,Australia,
 2/28/2020,2/29/2020,,Director,CHIMEFest 2020: CIRCULATIONS,University of Chicago,Chicago,IL,
 2/28/2020,,,Presentation,CHIMEFest 2020: CIRCULATIONS,University of Chicago,Chicago,IL,"_Interference Patters: analysis of interacting feedbacks in ""hollow""_"
 1/19/2020,1/25/2020,,Technician,Gray Center,University of Chicago,Chicago,IL,"_MUSIC'S OVER: Listening with Peter Ablinger_ (festival), technical support for Wet Ink, Aperiodic Ensemble"
 1/18/2020,,,improv,,Slate Arts,Chicago,IL,with Weston Olencki
 12/12/2019,,,Artist Presentation,"Arts, Sciences, and Culture Initiative",University of Chicago,Chicago,IL,
-12/1/2019,,fiery walls,,,BEAST,Birmingham,UK,Chris Goodchild
-11/22/2019,,,Presentation,FluCoMa Plenary,University of Huddersfield,Huddersfield,UK,_Preserving User-Defined Expression through Dimensionality Reduction_
-11/18/2019,,,improv,,Hundred Years Gallery,London,UK,"with Benedict Taylor, Tonia Ko, Olivier Stankeweicz"
-11/15/2019,,,improv,,de Roze Tanker,Amsterdam,NL,with Anne La Berge
-11/14/2019,,,improv,,de Ruimte,Amsterdam,NL,"with Anne La Berge, Yung-Tuan Ku"
-11/8/2019,,tap,,,Hochschule für Musik,Freiburg,DE,Line Upon Line Percussion
-11/5/2019,,tap,,,City University,London,UK,Line Upon Line Percussion
+12/1/2019,,fiery walls,,,BEAST,Birmingham,United Kingdom,Chris Goodchild
+11/22/2019,,,Presentation,FluCoMa Plenary,University of Huddersfield,Huddersfield,United Kingdom,_Preserving User-Defined Expression through Dimensionality Reduction_
+11/18/2019,,,improv,,Hundred Years Gallery,London,United Kingdom,"with Benedict Taylor, Tonia Ko, Olivier Stankeweicz"
+11/15/2019,,,improv,,de Roze Tanker,Amsterdam,Netherlands,with Anne La Berge
+11/14/2019,,,improv,,de Ruimte,Amsterdam,Netherlands,"with Anne La Berge, Yung-Tuan Ku"
+11/8/2019,,tap,,,Hochschule für Musik,Freiburg,Germany,Line Upon Line Percussion
+11/5/2019,,tap,,,City University,London,United Kingdom,Line Upon Line Percussion
 11/3/2019,,alloy,,Frequency Series,Constellation,Chicago,IL,with Kyle Hutchins
 11/3/2019,,hollow,,Frequency Series,Constellation,Chicago,IL,with Kyle Hutchins
 11/3/2019,,iterative systems,(album release),Frequency Series,Constellation,Chicago,IL,with Kyle Hutchins
@@ -199,10 +202,10 @@ date,enddate,piece,role,presenter,location,city,state,notes
 7/27/2018,,it teaches us that it doesn't exist,,Omaha Under the Radar,OUTr Spaces,Omaha,NE,
 7/27/2018,,still motion b,,Omaha Under the Radar,OUTr Spaces,Omaha,NE,
 7/18/2018,,still motion,,New York City Electroacoustic Music Festival,Abrons Art Center,New York,NY,Patti Cudd
-7/16/2018,,hollow,,,Internationales Musikinstitut Darmstadt,Darmstadt,DE,with Kyle Hutchins
-7/16/2018,,,improv,,Internationales Musikinstitut Darmstadt,Darmstadt,DE,with Yung-Tuan Ku
-7/12/2018,,hollow,,World Saxophone Congress,Zagreb Academy of Music,Zagreb,HR,with Kyle Hutchins
-7/5/2018,,,improv,,STEIM,Amsterdam,NL,with Yung-Tuan Ku
+7/16/2018,,hollow,,,Internationales Musikinstitut Darmstadt,Darmstadt,Germany,with Kyle Hutchins
+7/16/2018,,,improv,,Internationales Musikinstitut Darmstadt,Darmstadt,Germany,with Yung-Tuan Ku
+7/12/2018,,hollow,,World Saxophone Congress,Zagreb Academy of Music,Zagreb,Croatia,with Kyle Hutchins
+7/5/2018,,,improv,,STEIM,Amsterdam,Netherlands,with Yung-Tuan Ku
 6/16/2018,,still motion,,,The Walden School,Dublin,NH,Matt Gold
 6/9/2018,,still motion,,,Mass MoCA,North Adams,MA,Matt Gold
 5/26/2018,,the curve is exponential,,Carillon Festival,University of Chicago,Chicago,IL,Joey Brink
