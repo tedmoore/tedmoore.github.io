@@ -3,7 +3,9 @@ languageCode = 'en-us'
 title = "Ted Moore | Composer, Improviser, Intermedia Artist"
 copyright = "Ted Moore. All Rights Reserved."
 theme = ["gohugo-theme-ananke"]
-paginate = 99
+
+[pagination]
+  pagerSize = 10
 
 [params]
   menu_classes = 'system sans-serif'
