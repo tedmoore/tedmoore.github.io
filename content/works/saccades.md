@@ -1,6 +1,6 @@
 ---
 title: saccades
-description: saxophone, electronics, tape, & video
+description: saxophone, tape, & video
 draft: false
 year: 2022
 layout: single-works
