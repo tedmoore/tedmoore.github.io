@@ -14,6 +14,10 @@ theme = ["gohugo-theme-ananke"]
   env = "production"
 
 [[params.works_media]]
+  name = "arco"
+  id = "pPizSxri1kU"
+  type = "youtube"
+[[params.works_media]]
   name = "saccades"
   id = "FN71qPEhnyo"
   type = "youtube"

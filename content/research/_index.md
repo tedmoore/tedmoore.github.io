@@ -6,62 +6,33 @@ layout: single
 
 Learn more [here](/research/flucoma) about my University of Huddersfield {{< el "CeReNeM" "https://research.hud.ac.uk/institutes-centres/cerenem/" >}} postdoc research on the [Fluid Corpus Manipulation](/research/flucoma) project.
 
-# Software
-{{% center 75 %}}  
-_Much of my creative work involves creative coding, so here is just a selection of some tools that are bigger projects and/or may be useful and interesting to others. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
-{{% /center %}}  
+# Selected Software
+
+_Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
+
 * [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist {{< el "Dana Jessen" "https://www.danajessen.com/" >}} (2022-) ({{< el "SuperCollider" "https://supercollider.github.io/" >}})
 * [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
 * [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ {{< el openFrameworks "https://openframeworks.cc/" >}})
-* [Aluminum Forest](/works/aluminum-forest) (2021, rev. 2024) (Arduino & {{< el "SuperCollider" "https://supercollider.github.io/" >}})
-* {{< el "PlotXYColor" "https://github.com/tedmoore/PlotXYColor" >}} plotter for inspecting multi-dimensional data (2020) (SuperCollider)
-* {{< el "JSON Writer" "https://github.com/tedmoore/JSON-Writer-Supercollider" >}} (2020) (SuperCollider)
-* Audio-Reactive Modular Video Design (2019-) (C++, {{< el "openFrameworks" "https://openframeworks.cc/" >}}, {{< el "SuperCollider" "https://supercollider.github.io/" >}})
-* {{< el "Neural Network" "https://github.com/tedmoore/NeuralNetwork" >}} (SuperCollider client side implementation) (2019) (see a [performance](/works/shadow) of this in use)
 * [Module-Tensor](/research/module-tensor): laptop improvisation software (2014-) (SuperCollider) (see [performances](/improv) of this software in use)
-* Live Video & Audio Sampler (2017) (C++, {{< el "openFrameworks" "https://openframeworks.cc/" >}}, see a [performance](/works/still-motion) with this in use)
-* ​{{< el "Voice Modulator" "https://github.com/tedmoore/voice-modulator" >}} for theater artist Eric F. Avery's production of _The Life and Death of Eric F. Avery_ (2016) (Supercollider)
-* [LFO / Arpeggiator / Gate / Trigger](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) for Endorphin.es Shuttle Control (2016) (SuperCollider)
 * [Microtonal Keyboard](/research/microtonal-keyboard) (2016) (SuperCollider)​
 
-# Writing
-## "Polynomial Functions in Žuraj's Changeover" _Perspectives of New Music_ (2022)
-{{< columnrow >}}
-{{% column 50 %}}
-A mathematical analysis of Vito Žuraj's orchestral work _Changeover_. Knowing that Žuraj composes using custom made computer-aided composition tools, this analysis reverse engineers some of the equations and algorithms that he may have used. A generative example using Žuraj's methods is included.
+# Writing & Peer-Reviewed Research Publications
 
-{{% el "_read article_" "http://www.perspectivesofnewmusic.org/" %}}
-{{< /column >}}
-{{< column >}}
-{{< figure src="/images/zuraj_figure08.jpg" width="400px" >}}
-{{< /column >}}
-{{< /columnrow >}}
+Moore, Ted, James Bradbury, PA Tremblay, and Owen Green. 2025. “Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa.” [*Journal SEAMUS 32*](https://seamusonline.org/wp-content/uploads/2025/01/Journal_SEAMUS_vol_32_rev_1.pdf), (1-2): 24-38.
 
-## "Expression, Collaboration, and Intuition" _Wet Ink Archive_ (2022)
-{{< columnrow >}}
-{{% column 60 %}}
-Wet Ink Ensemble asked me to share some thoughts on my use of artificial intelligence in my compositional and improvisational practice. The article describes some of my implementations of machine learning for music making, along with some broader thoughts about why I use these algorithms.
+Moore, Ted. 2024. ["Musical Agents, Agency, & AI: Towards a Phenomenological Understanding."](/documents/agency.pdf) In *Proceedings of the International Computer Music Conference (ICMC)*, Seoul, South Korea.
 
-{{% el "_read article_" "https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" %}}
-{{< /column >}}
-{{< column >}}
-{{< figure src="/images/274.jpg#floatright" width="300px" link="https://archive.wetink.org/archive-06/expression-collaboration-and-intuition" >}}
-{{< /column >}}
-{{< /columnrow >}}
+Moore, Ted and Jean Brazeau. 2023. "[Serge Modular Archive Instrument (SMAI): Bridging Skeuomorphic & Machine Learning Enabled Interfaces.](https://drive.google.com/file/d/1xwTn4mj6m55rGwtBfZMel1qxXs4GTbf0/view)" In *Proceedings of the New Interfaces for Musical Expression (NIME) Conference*, Mexico City, Mexico.
 
-## _Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator_ (2021)
-{{< columnrow >}}
-{{% column 70 %}}
-The research I conducted for my PhD included a series of creative projects applying cybernetic systems that use machine learning to my creative practice. I share four of these experiments here including many of the technical details of the implementation. I also share analyses of how I experience using AI for music making, offering a phenomenological understanding of artificial intelligence in the context of creative applications. The concluding section conveys why I choose to use machine learning in my practice, by comparing its use and effects to using randomness and complex systems.
+Moore, Ted. 2022. "[Expression, Collaboration, and Intuition.](https://archive.wetink.org/archive-06/expression-collaboration-and-intuition)" *Wet Ink Archive* 6.
 
-{{% el "_read my PhD research_" "/documents/phd-research-ted-moore.pdf" %}}
-{{< /column >}}
-{{< column >}}
-{{< figure src="/images/quartet-umap.jpg" width="400px" link="/documents/phd-research-ted-moore.pdf" >}}
-{{< /column >}}
-{{< /columnrow >}}
+Green, Owen, Pierre Alexandre Tremblay, Ted Moore, James Bradbury, Jacob Hart, Alex Harker, and Gerard Roma. 2022. "Architecture about Dancing: Creating a Cross Environment, Cross Domain Framework for Creative Coding Musicians." In [*Proceedings of the Psychology of Programming Interest Group (PPIG) Conference*](https://www.ppig.org/files/2022-PPIG-33rd--proceedings.pdf), 12-24. The Open University, Milton Keynes, UK.
 
-# Presentations
+Moore, Ted. 2021. "Polynomial Functions in Zuraj’s 'Changeover.'" [*Perspectives of New Music* 59 (1)](https://www.perspectivesofnewmusic.org/TOC/TOC591.pdf).
+
+Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator."](/documents/phd-research-ted-moore.pdf) My PhD research (I'm calling ith this because technically my dissertation was a [composition](/works/tap).)
+
+# Research Presentations
 
 ## Non-negative Matrix Factorization for Spatial Audio (2020)  
 {{< columnrow >}}

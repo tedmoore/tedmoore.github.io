@@ -15,7 +15,7 @@
         {{.date}}{{if not (eq .enddate "")}} - {{.enddate}}{{end}}
       </td>
       <td style="vertical-align:top">
-        <i>{{.piece}}</i> {{.role}}
+        <i>{{.piece}}</i> {{.role | markdownify}}
       </td>
       <td style="vertical-align:top">
         {{.presenter}}{{if and (not (eq .presenter "")) (not (eq .location ""))}}, {{end}}{{.location}}{{if not (eq .notes "")}}, {{.notes | markdownify}}{{end}}
