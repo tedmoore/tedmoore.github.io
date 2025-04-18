@@ -17,7 +17,15 @@ The processes used to create _saccades_ embody this density of information. Larg
 
 {{< el "full score" "/scores/saccades-by-Ted-Moore.pdf" >}}
 
-### Documentation of Performance:
+### Documentation of Performance at the Allosphere
+
+More about the [Allosphere](https://allosphere.ucsb.edu/) at UC Santa Barbara.
+
+{{< youtube lnAZAnqrwRo >}}
+{{< youtube fu5Iwsd3HTo >}}
+{{< youtube raVQD4PGeyQ >}}
+
+### Video Design:
 
 {{< youtube FN71qPEhnyo >}}
 
