@@ -22,7 +22,13 @@ The processes used to create _saccades_ embody this density of information. Larg
 More about the [Allosphere](https://allosphere.ucsb.edu/) at UC Santa Barbara.
 
 {{< youtube lnAZAnqrwRo >}}
+
+---
+
 {{< youtube fu5Iwsd3HTo >}}
+
+---
+
 {{< youtube raVQD4PGeyQ >}}
 
 ### Video Design:
