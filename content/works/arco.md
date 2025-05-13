@@ -5,7 +5,7 @@ draft: false
 year: 2024
 layout: single-works
 tags: ["video","machine learning","intermedia"]
-featured_image: /images/arco-01.jpg
+featured_image: /images/arco-05.jpg
 ---
 
 {{< youtube-float pPizSxri1kU 65 right >}}

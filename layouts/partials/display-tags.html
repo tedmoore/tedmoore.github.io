@@ -1,9 +1,24 @@
-{{ if gt (len (.GetTerms "tags")) 0}}
-    <div class="tl">
-        <p>tags: 
-        {{ range $index, $element := (.GetTerms "tags") }}
-            {{ if gt $index 0}}{{- "" -}}, {{end}}<a href="{{- .Permalink -}}">{{- .LinkTitle -}}</a>
-        {{ end }}</p>
-        <p><a href="/tags/"><i>see all tags</i></a></p>
-    </div>
-{{end}}
+<div class="metadata-container">
+  {{ if .Params.related_pages }}
+      <div class="tl related-items">
+          <p>related: 
+          {{ $len := len .Params.related_pages }}
+          {{ range $index, $relatedPath := .Params.related_pages }}
+              {{ $relatedPage := site.GetPage $relatedPath }}
+              {{ if $relatedPage }}
+                  {{ if gt $index 0 }}, {{ end }}
+                  <a href="{{ $relatedPage.RelPermalink }}" class="blue no-underline">{{ $relatedPage.Title | markdownify }}</a>
+              {{ end }}
+          {{ end }}</p>
+      </div>
+  {{ end }}
+  {{ if gt (len (.GetTerms "tags")) 0}}
+      <div class="tl tag-items">
+          <p>tags: 
+          {{ range $index, $element := (.GetTerms "tags") }}
+              {{ if gt $index 0}}{{- "" -}}, {{end}}<a href="{{- .Permalink -}}" class="blue no-underline">{{- .LinkTitle -}}</a>
+          {{ end }}</p>
+          <p><a href="/tags/" class="blue no-underline"><i>see all tags</i></a></p>
+      </div>
+  {{end}}
+</div>
