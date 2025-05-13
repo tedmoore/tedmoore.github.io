@@ -6,6 +6,7 @@ year: 2022
 layout: single-works
 tags: ["feedback","machine learning","intermedia","video"]
 featured_image: /images/saccades/saccades-02.jpg
+related_pages: ["allosphere"]
 ---
 
 {{< youtube-float qUv5gQdTVOg 65 right >}}
@@ -22,13 +23,9 @@ The processes used to create _saccades_ embody this density of information. Larg
 More about the [Allosphere](https://allosphere.ucsb.edu/) at UC Santa Barbara.
 
 {{< youtube lnAZAnqrwRo >}}
-
 ---
-
 {{< youtube fu5Iwsd3HTo >}}
-
 ---
-
 {{< youtube raVQD4PGeyQ >}}
 
 ### Video Design:

@@ -30,7 +30,7 @@ Green, Owen, Pierre Alexandre Tremblay, Ted Moore, James Bradbury, Jacob Hart, A
 
 Moore, Ted. 2021. "Polynomial Functions in Zuraj’s 'Changeover.'" [*Perspectives of New Music* 59 (1)](https://www.perspectivesofnewmusic.org/TOC/TOC591.pdf).
 
-Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator."](/documents/phd-research-ted-moore.pdf) My PhD research (I'm calling ith this because technically my dissertation was a [composition](/works/tap).)
+Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical Assistant and Collaborator."](/documents/phd-research-ted-moore.pdf) My PhD research.
 
 # Research Presentations
 

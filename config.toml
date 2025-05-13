@@ -112,6 +112,10 @@ theme = ["gohugo-theme-ananke"]
   name = 'about/contact'
   url = '/about-contact/'
   weight = 7
+[[menu.main]]
+  name = 'blog'
+  url = '/blog/'
+  weight = 8
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
