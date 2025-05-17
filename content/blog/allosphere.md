@@ -5,10 +5,11 @@ draft: false
 layout: single
 featured_image: /images/allosphere.jpg
 date: 2024-04-27
+year: 2024
 tags: ["feedback","machine learning","intermedia","video"]
 ---
 
-*written/published May 15, 2025*
+*published May 15, 2025*
 
 {{< youtube-float raVQD4PGeyQ 65 right >}}
 In spring of 2024 I was asked to present [_saccades_](/works/saccades) in the [Allosphere](https://allosphere.ucsb.edu/): a three-story, 360 degree video sphere with 54 channel surround sound at UC Santa Barbara. The audience watches from a bridge that goes directly through the middle of the sphere. My saxophone-playing collaborator [Kyle Hutchins](http://www.jefferykylehutchins.com/) was doing a west coast tour and though it would be cool to bring _saccades_ to this very tech-forward space. I thought it would be a fun challenge to see how to adapt the piece to take advantage of what they have.

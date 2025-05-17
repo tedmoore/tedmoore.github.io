@@ -6,6 +6,7 @@ year: 2024
 layout: single-works
 tags: ["video","machine learning","intermedia"]
 featured_image: /images/arco-05.jpg
+related_pages: ["harmonic-series-strikes-again"]
 ---
 
 {{< youtube-float pPizSxri1kU 65 right >}}

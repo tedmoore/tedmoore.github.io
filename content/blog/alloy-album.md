@@ -5,7 +5,8 @@ draft: false
 layout: single
 featured_image: /images/multiphonic-81.jpg
 date: 2025-05-09
-tags: ["machine learning","feedback"]
+year: 2025
+tags: ["machine-learning","feedback"]
 ---
 
 After having performed [*alloy*](/works/alloy/) many times with [Kyle](http://www.jefferykylehutchins.com/), we decided to record a whole album of just feedback cymbal + saxophone multiphonics. 

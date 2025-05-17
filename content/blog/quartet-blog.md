@@ -5,10 +5,11 @@ draft: false
 layout: single 
 featured_image: /images/quartet-umap.jpg 
 date: 2021-04-24 
-tags: ["machine learning","intermedia","video"]
+year: 2021
+tags: ["machine-learning","intermedia","video"]
 ---
 
-*written/published May 14, 2025*
+*published May 15, 2025*
 
 {{< youtube-float C0FBNLy4NCM 65 right >}}
 I created [*quartet*](/works/quartet) in collaboration with the {{< el "[Switch Ensemble~]" "https://www.switchensemble.com/" >}} for the 2021 SEAMUS Conference which was held online because of the pandemic. Because I knew that the work's "premiere" would be held as a prerecorded video concert on YouTube, I decided to approach the work not as a live, electro-acoustic composition, but as a fixed-media, video-art piece that made use of the of the necessary technological mediation at play.

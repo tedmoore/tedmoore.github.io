@@ -7,6 +7,7 @@ layout: single-works
 categories: ["composition"]
 tags: ["feedback","lights","machine learning"]
 featured_image: /images/hollow.jpg
+related_pages: ["harmonic-series-strikes-again"]
 ---
 
 

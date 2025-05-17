@@ -5,6 +5,8 @@ draft: false
 layout: single
 featured_image: /images/agency.jpg
 date: 2024-07-10
+year: 2024
+tags: ["machine-learning"]
 ---
 
 Here's the paper I presented at ICMC 2024 titled, *Musical Agents, Agency, & AI: Towards a Phenomenological Understanding*.

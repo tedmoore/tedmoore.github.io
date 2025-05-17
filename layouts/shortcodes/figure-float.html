@@ -1,0 +1,4 @@
+<figure style="float: right; width: {{ .Get 2 }}%; margin-left: 20px;">
+  <img src="{{ .Get 0 }}" alt="{{ .Get 1 | markdownify}}">
+  <figcaption style="text-align: center; font-size: 0.9em;">{{ .Get 1 | markdownify }}</figcaption>
+</figure>
