@@ -217,6 +217,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'nand'
 [[params.homepage_order]]
+  name = 'allosphere'
+[[params.homepage_order]]
   name = 'it-teaches-us'
 [[params.homepage_order]]
   name = 'still-motion'
@@ -235,11 +237,17 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'shadow'
 [[params.homepage_order]]
+  name = 'harmonic-series-strikes-again'
+[[params.homepage_order]]
+  name = 'alloy-album'
+[[params.homepage_order]]
   name = 'noise-gate'
 [[params.homepage_order]]
   name = 'flucoma'
 [[params.homepage_order]]
   name = 'apsis'
+[[params.homepage_order]]
+  name = 'creating-quartet'
 [[params.homepage_order]]
   name = 'transliteration'
 [[params.homepage_order]]
