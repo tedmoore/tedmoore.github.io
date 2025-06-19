@@ -23,8 +23,9 @@ layout: single
     </div>
 </div>
 
-{{< figure src="/images/Ted Moore pc Brian Fancher.jpg#floatright" width="50%" >}}
-
+<figure style="float: right; width: 500px; margin-left: 20px;">
+  <img src="/images/Ted Moore pc Brian Fancher.jpg" alt="Ted Moore headshot" style="width: 100%;">
+</figure>
 Ted Moore (he / him) is a composer, improviser, and intermedia artist whose work fuses sonic, visual, physical, and acoustic elements, often incorporating technology to create immersive, multidimensional experiences. 
 
 Ted’s music has been presented by leading cultural institutions such as MassMoCA, South by Southwest, Lucerne Forward Festival, The Walker Art Center, and National Sawdust and presented by ensembles such as Talea Ensemble, International Contemporary Ensemble, the [Switch~ Ensemble], and the JACK Quartet. Ted has held artist residences with the Phonos Foundation in Barcelona, the Arts, Sciences, & Culture Initiative at the University of Chicago, and the Studio for Electro-Instrumental Music (STEIM) in Amsterdam. His sound art installations combine DIY electronics, embedded technologies, and spatial sound have been featured around the world including at the American Academy in Rome and New York University.
