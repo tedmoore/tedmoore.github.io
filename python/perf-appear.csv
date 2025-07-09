@@ -1,10 +1,18 @@
 date,enddate,piece,role,presenter,location,city,state,notes
-6/12/2025,,,VCV Rack Workshop,New Music On the Point,,,VT,
-6/11/2025,,,Presentation,New Music On the Point,,,VT,
-6/11/2025,,,improv,New Music On the Point,,,VT,with NMOP participants
-6/11/2025,,bezier,,New Music On the Point,,,VT,performed by Justine Leichtling
-6/11/2025,,apsis ii,,New Music On the Point,,,VT,performed by Tönky Hönk
-6/9/2025,6/13/2025,,Faculty,New Music On the Point,,,VT,
+6/25/2025,,,improv,SPLICE Institute,Western Michigan University,Kalamazoo,MI,with Anne La Berge
+6/25/2025,,apsis ii,,SPLICE Institute,Western Michigan University,Kalamazoo,MI,performed by Keith Kirchoff
+6/25/2025,,still motion b,,SPLICE Institute,Western Michigan University,Kalamazoo,MI,performed by Ted Moore
+6/25/2025,,it teaches us that it doesn't exist,,SPLICE Institute,Western Michigan University,Kalamazoo,MI,performed by Ted Moore
+6/25/2025,,nand,,SPLICE Institute,Western Michigan University,Kalamazoo,MI,performed by SPLICE Ensemble
+6/24/2025,,,Presentation,SPLICE Institute,Western Michigan University,Kalamazoo,MI,
+6/22/2025,6/28/2025,,Featured Guest,SPLICE Institute,Western Michigan University,Kalamazoo,MI,taught SuperCollider & FluCoMa Workshops
+6/22/2025,,cylinder lullaby I,,New York City Electroacoustic Music Festival,Sheen Center,New York,NY,performed by Maja Cerar
+6/12/2025,,,VCV Rack Workshop,New Music On the Point,,Point Counter Point,VT,
+6/11/2025,,,Presentation,New Music On the Point,,Point Counter Point,VT,
+6/11/2025,,,improv,New Music On the Point,,Point Counter Point,VT,with NMOP participants
+6/11/2025,,bezier,,New Music On the Point,,Point Counter Point,VT,performed by Justine Leichtling
+6/11/2025,,apsis ii,,New Music On the Point,,Point Counter Point,VT,performed by Tönky Hönk
+6/9/2025,6/13/2025,,Faculty,New Music On the Point,,Point Counter Point,VT,
 6/9/2025,,cylinder lullaby I,,International Computer Music Conference (ICMC),New England Conservatory,Boston,MA,performed by Lilit Hartunian
 6/7/2025,,still motion b,,Line Upon Line,,Austin,TX,
 6/5/2025,6/8/2025,,Artist Residency,Line Upon Line,,Austin,TX,
@@ -36,7 +44,7 @@ date,enddate,piece,role,presenter,location,city,state,notes
 7/10/2024,,"Musical Agents, Agency, & AI: Towards a Phenomenological Understanding",,International Computer Music Conference (ICMC),Hanyang University,Seoul,South Korea,
 7/6/2024,,nan,,Sound and Music Computing (SMC),Escola Superior de Música e Artes do Espetáculo,Porto,Portugal,
 7/6/2024,,saccades,,Sound and Music Computing (SMC),Escola Superior de Música e Artes do Espetáculo,Porto,Portugal,performed by Jorge Sousa
-6/16/2024,,nan,,New York City Electroacoustic Music Festival,New York,New York,NY,
+6/16/2024,,nan,,New York City Electroacoustic Music Festival,Sheen Center,New York,NY,
 6/16/2024,6/23/2024,,Techical Director,The Walden School Creative Musicians Retreat,Dublin School,Dublin,NH,
 6/8/2024,,arco,,CeReNeM,University of Huddersfield,Huddersfield,United Kingdom,performed by Marco Fusi
 4/27/2024,,saccades,,Allosphere,University of California Santa Barbara,Santa Barbara,CA,"performed by Kyle Hutchins, video redesigned for 360 degree video sphere & audio redesigned for 54.1 HDLA"
