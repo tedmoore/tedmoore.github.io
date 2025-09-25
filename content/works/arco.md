@@ -6,7 +6,7 @@ year: 2024
 layout: single-works
 tags: ["video","machine learning","intermedia"]
 featured_image: /images/arco-05.jpg
-related_pages: ["harmonic-series-strikes-again","score-rendering"]
+related_pages: ["harmonic-series-strikes-again","score-rendering","learned-navigation-stylegan3"]
 ---
 
 {{< youtube-float pPizSxri1kU 65 right >}}

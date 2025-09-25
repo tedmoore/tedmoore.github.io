@@ -19,6 +19,6 @@ To ensure the synchronization of all four mediums (performers, tape, video, & li
 
 By having everything controllable in one timeline, I was able to fluidly manipulate the various aspects of the composition. While focusing one media component (the lights perhaps), any adjustments or creative ideas relating to other media could easily be perused and tested. The DMX lights used in the performance could be set up and watched in real-time while making adjustments to color, timing, even positioning. A light-control mock-up system was created in SuperCollider that allowed me to make adjustments if the lights were not available during a working session. 
 
-[full score](/scores/tap_-_score_210611_01__with_tech_diagram_.pdf)
+<!-- [full score](/scores/tap_-_score_210611_01__with_tech_diagram_.pdf) -->
 
 {{< figure src="/images/tap/tap-api.jpg" caption="Custom API for controlling lights used in _tap_" >}} 
