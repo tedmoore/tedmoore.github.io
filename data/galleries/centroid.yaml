@@ -1,0 +1,12 @@
+title: "Finding a Polygon Centroid"
+images:
+  - src: "/images/morph-polygons/01-centroid.jpg"
+    caption: "The polygon to find the centroid of."
+  - src: "/images/morph-polygons/02-centroid.jpg"
+    caption: "Take each vertex..."
+  - src: "/images/morph-polygons/03-centroid.jpg"
+    caption: "...get the x positions and average them to get the centroid's x position."
+  - src: "/images/morph-polygons/05-centroid.jpg"
+    caption: "Do the same with the y positions to get the centroid's y position."
+  - src: "/images/morph-polygons/06-centroid.jpg"
+    caption: "Use that x, y coordinate for the polygon's centroid."
