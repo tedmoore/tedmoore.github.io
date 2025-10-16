@@ -1,7 +1,7 @@
 ---
 title: Making Polygons Morph and Float
 description: video design in *still life*
-draft: false
+draft: true
 layout: blog-entry
 featured_image: /images/morph-polygons/43-sort-vertices.jpg
 date: 2025-10-01
