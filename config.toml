@@ -225,6 +225,11 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'circle'
 [[params.homepage_order]]
+  title = 'What are MFCCs?'
+  featured_image = '/images/mfccs.jpg'
+  url = '/mfccs'
+  description = 'an interactive introduction'
+[[params.homepage_order]]
   name = 'attacksustainrelease'
 [[params.homepage_order]]
   name = 'hollow'
