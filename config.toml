@@ -441,3 +441,7 @@ theme = ["gohugo-theme-ananke"]
   Year = "2014"
   type = "image"
   path = "/images/body-house.jpg"
+
+[[params.repos]]
+    name = "FluCoMa"
+    url = "https://github.com/FluCoMa"
