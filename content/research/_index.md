@@ -26,11 +26,192 @@ Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical A
 
 _Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
 
-* [DJII](/research/djii) modular live electronic fx commissioned by improvising bassoonist {{< el "Dana Jessen" "https://www.danajessen.com/" >}} (2022-) ({{< el "SuperCollider" "https://supercollider.github.io/" >}})
-* [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](https://learn.flucoma.org/reference/mfcc/explain/) (2022) (p5.js)
-* [Serge Modular Archive Instrument](/research/serge) (2021-22) (SuperCollider, Processing, & C++ {{< el openFrameworks "https://openframeworks.cc/" >}})
-* [Module-Tensor](/research/module-tensor): laptop improvisation software (2014-) (SuperCollider) (see [performances](/improv) of this software in use)
-* [Microtonal Keyboard](/research/microtonal-keyboard) (2016) (SuperCollider)​
+<!-- GENERATED_SELECTED_SOFTWARE:start -->
+
+### FluCoMa in SuperCollider
+* *Fluid Corpus Manipulation plugins for Supercollider*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/flucoma-sc) / 🍴 from [flucoma/flucoma-sc](https://github.com/flucoma/flucoma-sc)
+ *  💻 SuperCollider 64% · C++ 26% · CMake 10%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### [DJII](/research/djii)
+* *modular live electronic fx commissioned by improvising bassoonist Dana Jessen (2022-)*
+ *  SuperCollider
+
+
+### [Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation](/mfccs)
+* *An interactive MFCC pedagogical tool made in p5*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/mfccs) 1⭐️ / 🍴 from [flucoma/MFCC-interactive-widget](https://github.com/flucoma/MFCC-interactive-widget)
+ *  💻 JavaScript 100%
+
+
+### [Serge Modular Archive Instrument](/research/serge)
+* *a sample-based computer emulation of selected patches of a vintage Serge Modular*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Serge-Modular-Archive-Instrument) 20⭐️
+ *  💻 C++ 77% · Makefile 10% · SuperCollider 8% · Processing 5%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### [Module Tensor](/research/module-tensor)
+* *laptop improvisation software (2014-)*
+ *  SuperCollider
+
+
+### [Microtonal Keyboard](/research/microtonal-keyboard)
+* *Microtonal Keyboard App for SuperCollider*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Microtonal-Keyboard)
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+
+### MMMAudio
+* *python/Mojo audio coding environment*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/MMMAudio) / 🍴 from [spluta/MMMAudio](https://github.com/spluta/MMMAudio)
+ *  💻 Mojo 78% · Python 22%
+ * 🛡 MIT License
+
+
+### OrderedIdentityDictionary
+* *SuperCollider IdentityDictionary that retains the order in which the key-value pairs are added.*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/OrderedIdentityDictionary)
+ *  💻 SuperCollider 100%
+ * 🛡 MIT License
+
+
+### SelectFiles
+* *SuperCollider class for recursively selecting files of a certain extension from a number of disk locations*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/SelectFiles)
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+
+### FluidPCA-explained-variance
+* *A simple function for determining the explained variance ratios from a FluidPCA json save.*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/FluidPCA-explained-variance)
+ *  💻 SuperCollider 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### FluCoMa-Pedagogical-Materials
+* *FluCoMa Pedagogical Materials*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/FluCoMa-Pedagogical-Materials) 7⭐️
+ *  💻 Max 95% · SuperCollider 4%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### NeuralNetwork
+* *Simple multi-layer perceptron in SuperCollider (client side only)*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/NeuralNetwork)
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+
+### SuperCollider Help File System
+* *Towards an improved system for managing SuperCollider Help Files*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/schelp2) 3⭐️
+ *  💻 C++ 96% · Python 1% · Yacc 1%
+ * 🛡 GNU General Public License v3.0
+
+
+### JSON-Writer-Supercollider
+* *simple json writer for supercollider (Dictionary --> JSON File)*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/JSON-Writer-Supercollider)
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+
+### tSNE-SuperCollider
+* *tSNE port for SuperCollider (client-side)*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/tSNE-SuperCollider)
+ *  💻 SuperCollider 100%
+ * 🛡 MIT License
+
+
+### Linear-Assignment
+* *Two linear assignment algorithms for SuperCollider (client-side)*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Linear-Assignment) 1⭐️
+ *  💻 SuperCollider 100%
+
+
+### Audio-Controlled-StyleGAN3
+* *Using a time series of audio descriptors to navigate the latent space of StyleGAN3*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Audio-Controlled-StyleGAN3)
+ *  💻 Jupyter Notebook 83% · SuperCollider 17%
+ * 🛡 GNU General Public License v3.0
+
+
+### score-docs-jinja
+* *rendering score documents with jinja templates*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/score-docs-jinja)
+ *  💻 Python 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### alloy
+* *code for preparing and performing Ted Moore's *alloy**
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/alloy)
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+
+### PlotXYColor
+* *class for easily plotting multidimensional data in 3 dimensions: x, y, color*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/PlotXYColor) 3⭐️
+ *  💻 SuperCollider 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### OSC-to-DMX
+
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/OSC-to-DMX) 2⭐️
+ *  💻 C++ 58% · Makefile 42%
+
+
+### Music-Hackspace-FluCoMa-Intro
+* *Materials for the FluCoMa Workshop hosted by Music Hackspace*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Music-Hackspace-FluCoMa-Intro) 2⭐️
+ *  💻 Max 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### Neural-Nets-FluCoMa-Workshop
+* *Materials for Neural Networks via FluCoMa workshop hosted by Music Hackspace*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Neural-Nets-FluCoMa-Workshop) 1⭐️
+ *  💻 Max 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### Unsupervised-Learning-FluCoMa-Workshop
+* *Materials for Unsupervised Learning via FluCoMa workshop hosted by Music Hackspace*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Unsupervised-Learning-FluCoMa-Workshop) 4⭐️
+ *  💻 Max 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### NMF-FluCoMa-Workshop
+* *Materials for the Music Hackspace workshop on NMF via FluCoMa*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/NMF-FluCoMa-Workshop)
+ *  💻 Max 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### Spatial-Audio-File-Player
+* *SuperCollider program for playing audio files to specific speaker outputs*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Spatial-Audio-File-Player)
+ *  💻 SuperCollider 100%
+ * 🛡 BSD 3-Clause "New" or "Revised" License
+
+
+### Endorphines-Shuttle-Control-for-SC
+* *A class and GUI for controlling the Endorphin.es Shuttle Control eurorack module*
+ * 🐙 [GitHub Repo](https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC) 2⭐️
+ *  💻 SuperCollider 100%
+ * 🛡 GNU General Public License v3.0
+
+<!-- GENERATED_SELECTED_SOFTWARE:end -->
+
+
 
 # Select Research Presentations
 

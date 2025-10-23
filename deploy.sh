@@ -3,6 +3,8 @@ rm -rf *
 cd ..
 cd python
 python3 render-appearances-spreadsheet.py
+export GITHUB_TOKEN="$(< ../tedsgithubtoken.txt)"
+python3 get-repos.py
 cd ..
 hugo --minify
 cp CNAME public

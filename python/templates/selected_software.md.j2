@@ -1,0 +1,6 @@
+{% for entry in entries %}### {{ entry.title }}
+{% if entry.description %}* *{{- entry.description -}}*{% endif %}
+{% if entry.details %}{% for detail in entry.details %} * {{ detail }}
+{% endfor %}{% endif %}
+
+{% endfor %}
