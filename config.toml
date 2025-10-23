@@ -442,35 +442,32 @@ theme = ["gohugo-theme-ananke"]
   type = "image"
   path = "/images/body-house.jpg"
 
-[[params.research]]
-    gh_name = "flucoma-sc"
-    title = "FluCoMa in SuperCollider"
-[[params.research]]
-    title = "DJII"
-    local_page = "/research/djii"
-    description = "modular live electronic fx commissioned by improvising bassoonist Dana Jessen (2022-)"
-    languages = ["SuperCollider"]
-[[params.research]]
-    gh_name = "mfccs"
-    local_page = "/mfccs"
-    title = "Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation"
-[[params.research]]
-    local_page = "/research/serge"
-    gh_name = "Serge-Modular-Archive-Instrument"
-    title = "Serge Modular Archive Instrument"
+# RESEARCH / SOFTWARE LIST
 [[params.research]]
     local_page = "/research/module-tensor"
     title = "Module Tensor"
     description = "laptop improvisation software (2014-)"
     languages = ["SuperCollider"]
 [[params.research]]
+    title = "DJII"
+    local_page = "/research/djii"
+    description = "modular live electronic fx commissioned by improvising bassoonist Dana Jessen (2022-)"
+    languages = ["SuperCollider"]
+[[params.research]]
+    gh_name = "FluCoMa-Pedagogical-Materials"
+[[params.research]]
+    local_page = "/research/serge"
+    gh_name = "Serge-Modular-Archive-Instrument"
+    title = "Serge Modular Archive Instrument"
+[[params.research]]
+    gh_name = "mfccs"
+    local_page = "/mfccs"
+    title = "Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation"
+[[params.research]]
     gh_name = "Microtonal-Keyboard"
     title = "Microtonal Keyboard"
     local_page = "/research/microtonal-keyboard"
     languages = ["SuperCollider"]
-[[params.research]]
-    gh_name = "MMMAudio"
-    title = "MMMAudio"
 [[params.research]]
     gh_name = "OrderedIdentityDictionary"
 [[params.research]]
@@ -478,7 +475,13 @@ theme = ["gohugo-theme-ananke"]
 [[params.research]]
     gh_name = "FluidPCA-explained-variance"
 [[params.research]]
-    gh_name = "FluCoMa-Pedagogical-Materials"
+    gh_name = "score-docs-jinja"
+[[params.research]]
+    gh_name = "MMMAudio"
+    title = "MMMAudio"
+[[params.research]]
+    gh_name = "flucoma-sc"
+    title = "FluCoMa in SuperCollider"
 [[params.research]]
     gh_name = "NeuralNetwork"
 [[params.research]]
@@ -492,8 +495,6 @@ theme = ["gohugo-theme-ananke"]
     gh_name = "Linear-Assignment"
 [[params.research]]
     gh_name = "Audio-Controlled-StyleGAN3"
-[[params.research]]
-    gh_name = "score-docs-jinja"
 [[params.research]]
     gh_name = "alloy"
 [[params.research]]

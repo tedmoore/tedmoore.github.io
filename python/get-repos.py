@@ -2,12 +2,49 @@ from __future__ import annotations
 
 import json
 import os
+from html import escape
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
 import requests
 import tomli
 from jinja2 import Environment, FileSystemLoader
+
+try:  # Optional dependency for richer Markdown handling
+    import markdown as markdown_lib
+except ImportError:  # pragma: no cover - fallback handles absence gracefully
+    markdown_lib = None
+
+import re
+
+LINK_PATTERN = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+
+
+def render_inline_markdown(text: Optional[str]) -> str:
+    if not isinstance(text, str):
+        return ""
+    stripped = text.strip()
+    if not stripped:
+        return ""
+
+    if markdown_lib is not None:
+        html_text = markdown_lib.markdown(  # type: ignore[attr-defined]
+            stripped, extensions=[], output_format="html"
+        )
+        if html_text.startswith("<p>") and html_text.endswith("</p>"):
+            html_text = html_text[3:-4]
+        return html_text
+
+    result: List[str] = []
+    last_index = 0
+    for match in LINK_PATTERN.finditer(stripped):
+        result.append(escape(stripped[last_index : match.start()]))
+        label = escape(match.group(1))
+        url = escape(match.group(2), quote=True)
+        result.append(f'<a href="{url}">{label}</a>')
+        last_index = match.end()
+    result.append(escape(stripped[last_index:]))
+    return "".join(result)
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
@@ -214,6 +251,8 @@ def build_entry(
         else:
             title_text = "Untitled"
 
+    title_plain = title_text.strip()
+
     description = repo_config.get("description")
     if not isinstance(description, str) or not description.strip():
         description = github_data.get("description") if github_data else None
@@ -222,9 +261,6 @@ def build_entry(
     local_page_text = local_page if isinstance(local_page, str) and local_page.strip() else None
 
     details: List[str] = []
-
-    if local_page_text:
-        title_text = f"[{title_text}]({local_page_text})"
 
     github_url = github_data.get("html_url") if github_data else None
     if not github_url and owner_repo:
@@ -257,7 +293,7 @@ def build_entry(
     cached_summary = github_data.get("language_summary") if github_data else None
     languages = combine_language_data(repo_config.get("languages"), github_languages, cached_summary)
     if languages:
-        details.append(f" {languages}")
+        details.append(languages.strip())
 
     license_name = repo_config.get("license")
     if not isinstance(license_name, str) or not license_name.strip():
@@ -265,10 +301,27 @@ def build_entry(
     if isinstance(license_name, str) and license_name.strip():
         details.append(f"🛡 {license_name}")
 
+    if local_page_text:
+        title_html = f'<a href="{escape(local_page_text, quote=True)}"><em>{escape(title_plain)}</em></a>'
+    else:
+        title_html = render_inline_markdown(title_plain)
+        if not title_html:
+            title_html = escape(title_plain)
+
+    description_html: Optional[str] = None
+    if isinstance(description, str) and description.strip():
+        rendered_description = render_inline_markdown(description)
+        if rendered_description:
+            description_html = f"<em>{rendered_description}</em>"
+
+    details_html = [render_inline_markdown(detail) for detail in details if isinstance(detail, str) and detail]
+
     return {
-        "title": title_text,
-        "description": description,
+        "title": title_plain,
+        "title_html": title_html,
+        "description_html": description_html,
         "details": details,
+        "details_html": details_html,
     }
 
 

@@ -1,6 +1,15 @@
-{% for entry in entries %}### {{ entry.title }}
-{% if entry.description %}* *{{- entry.description -}}*{% endif %}
-{% if entry.details %}{% for detail in entry.details %} * {{ detail }}
-{% endfor %}{% endif %}
-
-{% endfor %}
+<table class="selected-software" style="width:100%; border-collapse:separate; border-spacing:0 1.75rem;">
+<colgroup>
+<col style="width:35%;">
+<col style="width:65%;">
+</colgroup>
+<tbody>
+{% for entry in entries -%}
+<tr>
+<td style="padding-right:2.5rem; vertical-align:top;"><strong>{{ entry.title_html }}</strong>{% if entry.description_html %}<br>{{ entry.description_html }}{% endif %}</td>
+<td style="vertical-align:top;">{% if entry.details_html -%}
+{% for detail in entry.details_html -%}{{ detail }}{% if not loop.last %}<br>{% endif %}{% endfor -%}
+{% endif %}</td>
+</tr>
+{% endfor -%}
+</tbody></table>
