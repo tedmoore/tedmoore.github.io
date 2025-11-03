@@ -1,0 +1,21 @@
+{{ define "main" }}
+  <article class="pa0 pa4-ns nested-copy-line-height mw8 center ph3">
+    <header class="mt8 w-100"> <!--- mt = margin top --->
+      <h1 class="f1 athelas mt0 mb1">
+        {{- .Title -}}
+      </h1>
+    </header>
+    
+    <section class="nested-copy-line-height lh-copy {{ $.Param `post_content_classes`  | default `serif`}} f5 nested-links {{ $.Param `text_color` | default `dark-gray` }} w-100-l pa0">
+      {{- .Content -}}
+    </section>
+    <section class="flex flex-column items-center mt0 w-100">
+        {{ range .Paginator.Pages }}
+          <div class="relative w-100 mb3 bg-white">
+            {{ .Render "blog-summary" }}
+          </div>
+        {{ end }}
+      </section>
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}

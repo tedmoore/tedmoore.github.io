@@ -1,0 +1,26 @@
+<div class="relative w-100 mb0">
+  <div class="mb0 pa0 overflow-hidden">
+    <h1 class="f4 mb0">
+      {{if isset . "URL" }}
+        {{ if not (eq .URL "none") }}
+          <a href="{{ .URL }}" class="link near-black hover-blue">
+            {{ partial "work-title.html" . }}
+          </a>
+        {{else}}
+          {{ partial "work-title.html" . }}
+        {{end}}
+      {{else}}
+        {{ $info := . }}
+        {{ with .RelPermalink }}
+          <a href="{{ . }}" class="link near-black hover-blue">
+            {{ partial "work-title.html" $info  | markdownify}}
+          </a>
+        {{end}}
+      {{end}}
+    </h1>
+    <div class="nested-links f5 mb2">
+      {{ .Description | markdownify }}
+      {{if isset . "role"}}<br><i>{{.role}}</i>{{end}}
+    </div>
+  </div>
+</div>

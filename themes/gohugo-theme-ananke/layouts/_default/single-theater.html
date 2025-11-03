@@ -1,0 +1,34 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3"> <!--- mw8 = max width --->
+    <header class="w-100"> <!--- mt = margin top --->
+      <h1 class="f1 athelas mt0 mb">
+        {{- .Title -}}
+      </h1>
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param `post_content_classes`  | default `serif`}} f5 {{ $.Param `text_color` | default `dark-gray` }} w-100-l">
+      {{- .Content -}}
+      <section class="flex w-100 center h8">
+        
+        <div class="flex flex-column measure-narrow pr3">
+          {{ range site.Params.theater_list }}
+            {{ partial "list-a-work.html" . }}
+          {{end}}
+        </div>
+        
+        <div class="flex flex-column hl-copy near-black pa0">
+          {{ range site.Params.theater_media }}
+            <div class= "tc f4 pa0"><b><i>{{.Title}}</i> ({{ .Year }})</b> {{ with .info }}{{- . -}}{{end}}
+              {{ partial "display-media-by-type.html" . }}
+            </div>
+            <br>
+          {{end}}
+        </div>
+        
+    </section>
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,1 @@
+<i>{{ .Params.Alttitle | default .Title | markdownify }}</i> {{if .Params.Year}}({{.Params.Year}}){{else}}{{if isset . "Year"}}({{.Year}}){{end}}{{end}}

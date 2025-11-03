@@ -1,0 +1,22 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3"> <!--- mw8 = max width --->
+    <header class="mt8 w-100"> <!--- mt = margin top --->
+      <h1 class="f1 athelas mt0 mb0">
+        {{- .Title | markdownify -}}
+      </h1>
+    </header>
+    {{ if .Date }}
+      <div class="f5 pv1 dark-gray">
+        <i>{{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}</i>
+      </div>
+    {{ end }}
+    <div class="nested-copy-line-height lh-copy {{ $.Param `post_content_classes`  | default `serif`}} f5 nested-links {{ $.Param `text_color` | default `dark-gray` }} w-100-l pa0">
+      {{- .Content -}}
+    </div>
+    {{ partial "display-tags.html" . }}
+  </article>
+{{ end }}

@@ -1,0 +1,17 @@
+{{ if (eq .type "youtube") }}
+<div style="position: relative; padding-bottom:56.25%; height: 0; overflow: hidden; width:100%; margin: {{ $.Scratch.Get `margin` }}">
+  <iframe src="https://www.youtube.com/embed/{{ .id }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen></iframe>
+</div>
+{{ end }}
+{{ if (eq .type "bandcamp") }}
+  <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album={{ .album }}/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track={{.track}}/transparent=true/" seamless></iframe>
+{{ end }}
+{{ if (eq .type "vimeo") }}
+  <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/{{ .id }}" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{{ end }}
+{{ if (eq .type "image") }}
+  <img src="{{ .path }}" width=100%>
+{{ end }}
+{{ if (eq .type "soundcloud") }}
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{.id}}&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+{{ end }}

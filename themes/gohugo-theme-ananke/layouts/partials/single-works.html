@@ -1,0 +1,17 @@
+{{ define "header" }}
+   {{/* We can override any block in the baseof file be defining it in the template */}}
+  {{ partial "page-header.html" . }}
+{{ end }}
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3"> <!--- mw8 = max width --->
+    <header class="mt8 w-100"> <!--- mt = margin top --->
+      <h1 class="f1 athelas mt0 mb1">
+        <i>{{- .Title -}}</i> ({{ .Params.year }})
+      </h1>
+      {{ .Params.description }}
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f5 nested-links {{ $.Param "text_color" | default "dark-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-100-l">
+      {{- .Content -}}
+    </div>
+  </article>
+{{ end }}

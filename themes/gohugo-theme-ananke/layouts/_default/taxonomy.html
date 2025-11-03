@@ -1,0 +1,19 @@
+{{/*  this is the list for a page showing a single tag, such as "pages tagged with: 'dmx'" */}}
+{{ define "main" }}
+  <article class="tc pt4 mb0">
+    <div class="measure-wide-l center f4 lh-copy nested-copy-line-height nested-links pb0{{ $.Param "text_color" | default "mid-gray" }}">
+      {{ i18n "taxonomyPageList" . }}
+      <br>
+      <a href="/tags/"><i>see all tags</i></a>
+    </div>
+  </article>
+  <div class="mw8 center">
+    <section class="flex-ns flex-wrap justify-around mt0">
+      {{ range  (.Pages.ByParam "year").Reverse }}
+        <div class="relative w-100 mb0 bg-white">
+          {{ .Render "summary-with-image" }}
+        </div>
+      {{ end }}
+    </section>
+  </div>
+{{ end }}

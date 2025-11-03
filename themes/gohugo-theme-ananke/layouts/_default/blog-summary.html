@@ -1,0 +1,24 @@
+<div class='{{ $.Param "text_color" | default "mid-gray" }} overflow-hidden mb4'>
+  <div class="flex flex-column flex-row-ns">
+    {{ if .Params.featured_image }}
+      <div class="pr3-ns mb3 mb0-ns w-100 w-30-ns">
+        <a href="{{ .RelPermalink }}" class="db">
+          <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="img">
+        </a>
+      </div>
+    {{ end }}
+    <div class="w-100{{ if .Params.featured_image }} w-70-ns pl3-ns{{ end }}">
+      {{ if .Date }}
+        <div class="f5">
+          {{ .Date | time.Format (default "January 2, 2006" .Site.Params.date_format) }}
+        </div>
+      {{ end }}
+      <h1 class="f3 near-black lh-solid">
+        <a href="{{ .RelPermalink }}" class="link black dim">{{ .Title | markdownify }}</a>
+      </h1>
+      <div class="f5 lh-copy">
+        {{ .Description | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>

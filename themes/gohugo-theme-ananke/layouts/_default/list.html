@@ -1,0 +1,33 @@
+{{ define "main" }}
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    
+    <header class="mt8 w-100"> <!--- mt = margin top --->
+      <h1 class="f1 athelas mt0 mb1">
+        {{- .Title -}}
+      </h1>
+    </header>
+    
+    <br>
+    <section class="cf tc {{ $.Param `post_content_classes`  | default `serif`}} f5 center {{ $.Param `text_color` | default `dark-gray` }} nested-copy-line-height lh-copy"> <!--- lh = line height --->
+      {{ .Content }}
+    </section>
+    <section class="flex w-100 center h8">
+        <div class="flex-column pr4 lh-copy measure-narrow">
+          {{ range site.Params.works_order }}
+              
+            {{ with $.Site.GetPage .name }}
+              {{ partial "list-a-work.html" . }}
+            {{ end }}
+            
+          {{ end }}
+        </div>
+        <div class="flex flex-column w-100 lh-copy tc">
+          {{ range site.Params.works_media }}
+            {{ partial "display-media-by-type.html" . }}
+            <br>
+          {{ end }}   
+        </div>
+    </section>
+    <!-- {{- template "_internal/pagination.html" . -}} -->
+  </article>
+{{ end }}

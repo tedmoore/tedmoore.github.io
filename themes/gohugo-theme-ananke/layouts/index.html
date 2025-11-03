@@ -1,0 +1,48 @@
+{{/*  Site Landing Page  */}}
+{{ define "main" }} 
+ <article class="w-100 pt3 center">
+    {{ .Content }}
+    <div class="flex justify-between w-100 tc">
+      {{ $ncols := 3}}
+      {{ range $column, $el0 := (seq $ncols) }}
+        <div class="flex flex-column w-100 pr0 pv0">
+          {{ range $index, $element := (seq (len site.Params.homepage_order)) }}
+            {{ if eq (mod $index $ncols) $column }}
+              {{ $pagename := index (site.Params.homepage_order) $index }}
+              {{ if $pagename.name }}
+                {{ with $.Site.GetPage $pagename.name }}
+                  <!-- if there is a "name" field specified-->
+                  <div class="container">
+                    <img src="{{.Params.featured_image | default `/images/eclipse/eclipse01.jpg` }}"class="image">
+                    <a href="{{ .RelPermalink }}">
+                      <div class="overlay">
+                        <div class="text">
+                          {{ partial "work-title.html" . }}
+                          <div class="f5 gray">{{ .Description | markdownify }}</div>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                {{ end }}
+              {{ else }}
+                <!-- if there is no "name" field specified-->
+                <div class="container">
+                  <img src="{{$pagename.featured_image | default `/images/eclipse/eclipse01.jpg` }}"class="image">
+                  <a href="{{ $pagename.url | default `/` }}">
+                    <div class="overlay">
+                      <div class="text">
+                        {{ $pagename.title }}
+                        <div class="f5 gray">{{ $pagename.description | markdownify }}</div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              {{ end }}
+            {{end}}
+          {{ end }}
+        </div>
+      {{end}}
+      
+    </div>  
+  </article>
+{{ end }}

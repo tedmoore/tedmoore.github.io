@@ -1,0 +1,8 @@
+<footer class="bg-white center w-50" role="contentinfo">
+  <div class="flex flex-wrap justify-center">
+    <div>{{ partial "social-follow.html" . }}</div>
+    <a class="f5 near-black hover-blue no-underline pv2 ph3" href="{{ .Site.BaseURL }}" >
+      &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+    </a>
+  </div>
+</footer>
