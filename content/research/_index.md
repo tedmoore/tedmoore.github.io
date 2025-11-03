@@ -24,11 +24,11 @@ Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical A
 
 # Selected Software
 
-_a list of projects and repos that demonstrate what kinds of work I'm up to. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
+_a list of projects and repos that demonstrate what kinds of work I'm up to and/or might be useful to others. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
 
 <!-- GENERATED_SELECTED_SOFTWARE:start -->
 
-<table class="selected-software" style="width:100%; border-collapse:separate; border-spacing:0 1.75rem;">
+<table class="selected-software" style="width:100%; border-collapse:separate; border-spacing:0 0.75rem;">
 <colgroup>
 <col style="width:35%;">
 <col style="width:65%;">
@@ -59,20 +59,8 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to. Che
 <td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Microtonal-Keyboard">GitHub Repo</a><br>💻 SuperCollider 100% · 💻 SuperCollider<br>🛡 GNU General Public License v3.0</td>
 </tr>
 <tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>OrderedIdentityDictionary</strong><br><em>SuperCollider IdentityDictionary that retains the order in which the key-value pairs are added.</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/OrderedIdentityDictionary">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 MIT License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>SelectFiles</strong><br><em>SuperCollider class for recursively selecting files of a certain extension from a number of disk locations</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/SelectFiles">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
-</tr>
-<tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluidPCA-explained-variance</strong><br><em>A simple function for determining the explained variance ratios from a FluidPCA json save.</em></td>
 <td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/FluidPCA-explained-variance">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>score-docs-jinja</strong><br><em>rendering score documents with jinja templates</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/score-docs-jinja">GitHub Repo</a><br>💻 Python 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>MMMAudio</strong><br><em>python/Mojo audio coding environment</em></td>
@@ -81,34 +69,6 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to. Che
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluCoMa in SuperCollider</strong><br><em>Fluid Corpus Manipulation plugins for Supercollider</em></td>
 <td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/flucoma-sc">GitHub Repo</a> / 🍴 from <a href="https://github.com/flucoma/flucoma-sc">flucoma/flucoma-sc</a><br>💻 SuperCollider 64% · C++ 26% · CMake 10%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>NeuralNetwork</strong><br><em>Simple multi-layer perceptron in SuperCollider (client side only)</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/NeuralNetwork">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>SuperCollider Help File System</strong><br><em>Towards an improved system for managing SuperCollider Help Files</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/schelp2">GitHub Repo</a> 3⭐️<br>💻 C++ 96% · Python 1% · Yacc 1%<br>🛡 GNU General Public License v3.0</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>JSON-Writer-Supercollider</strong><br><em>simple json writer for supercollider (Dictionary --&gt; JSON File)</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/JSON-Writer-Supercollider">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>tSNE-SuperCollider</strong><br><em>tSNE port for SuperCollider (client-side)</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/tSNE-SuperCollider">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 MIT License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Linear-Assignment</strong><br><em>Two linear assignment algorithms for SuperCollider (client-side)</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Linear-Assignment">GitHub Repo</a> 1⭐️<br>💻 SuperCollider 100%</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Audio-Controlled-StyleGAN3</strong><br><em>Using a time series of audio descriptors to navigate the latent space of StyleGAN3</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Audio-Controlled-StyleGAN3">GitHub Repo</a><br>💻 Jupyter Notebook 83% · SuperCollider 17%<br>🛡 GNU General Public License v3.0</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>alloy</strong><br><em>code for preparing and performing Ted Moore&#x27;s *alloy*</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/alloy">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>PlotXYColor</strong><br><em>class for easily plotting multidimensional data in 3 dimensions: x, y, color</em></td>
@@ -121,26 +81,6 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to. Che
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>Music-Hackspace-FluCoMa-Intro</strong><br><em>Materials for the FluCoMa Workshop hosted by Music Hackspace</em></td>
 <td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Music-Hackspace-FluCoMa-Intro">GitHub Repo</a> 2⭐️<br>💻 Max 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Neural-Nets-FluCoMa-Workshop</strong><br><em>Materials for Neural Networks via FluCoMa workshop hosted by Music Hackspace</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Neural-Nets-FluCoMa-Workshop">GitHub Repo</a> 1⭐️<br>💻 Max 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Unsupervised-Learning-FluCoMa-Workshop</strong><br><em>Materials for Unsupervised Learning via FluCoMa workshop hosted by Music Hackspace</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Unsupervised-Learning-FluCoMa-Workshop">GitHub Repo</a> 4⭐️<br>💻 Max 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>NMF-FluCoMa-Workshop</strong><br><em>Materials for the Music Hackspace workshop on NMF via FluCoMa</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/NMF-FluCoMa-Workshop">GitHub Repo</a><br>💻 Max 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Spatial-Audio-File-Player</strong><br><em>SuperCollider program for playing audio files to specific speaker outputs</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Spatial-Audio-File-Player">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
-</tr>
-<tr>
-<td style="padding-right:2.5rem; vertical-align:top;"><strong>Endorphines-Shuttle-Control-for-SC</strong><br><em>A class and GUI for controlling the Endorphin.es Shuttle Control eurorack module</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Endorphines-Shuttle-Control-for-SC">GitHub Repo</a> 2⭐️<br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
 </tr>
 </tbody></table>
 

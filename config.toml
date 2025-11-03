@@ -468,50 +468,50 @@ theme = ["gohugo-theme-ananke"]
     title = "Microtonal Keyboard"
     local_page = "/research/microtonal-keyboard"
     languages = ["💻 SuperCollider"]
-[[params.research]]
-    gh_name = "OrderedIdentityDictionary"
-[[params.research]]
-    gh_name = "SelectFiles"
+# [[params.research]]
+#     gh_name = "OrderedIdentityDictionary"
+# [[params.research]]
+#     gh_name = "SelectFiles"
 [[params.research]]
     gh_name = "FluidPCA-explained-variance"
-[[params.research]]
-    gh_name = "score-docs-jinja"
+# [[params.research]]
+#     gh_name = "score-docs-jinja"
 [[params.research]]
     gh_name = "MMMAudio"
     title = "MMMAudio"
 [[params.research]]
     gh_name = "flucoma-sc"
     title = "FluCoMa in SuperCollider"
-[[params.research]]
-    gh_name = "NeuralNetwork"
-[[params.research]]
-    gh_name = "schelp2"
-    title = "SuperCollider Help File System"
-[[params.research]]
-    gh_name = "JSON-Writer-SuperCollider"
-[[params.research]]
-    gh_name = "tSNE-SuperCollider"
-[[params.research]]
-    gh_name = "Linear-Assignment"
-[[params.research]]
-    gh_name = "Audio-Controlled-StyleGAN3"
-[[params.research]]
-    gh_name = "alloy"
+# [[params.research]]
+#     gh_name = "NeuralNetwork"
+# [[params.research]]
+#     gh_name = "schelp2"
+#     title = "SuperCollider Help File System"
+# [[params.research]]
+#     gh_name = "JSON-Writer-SuperCollider"
+# [[params.research]]
+#     gh_name = "tSNE-SuperCollider"
+# [[params.research]]
+#     gh_name = "Linear-Assignment"
+# [[params.research]]
+#     gh_name = "Audio-Controlled-StyleGAN3"
+# [[params.research]]
+#     gh_name = "alloy"
 [[params.research]]
     gh_name = "PlotXYColor"
 [[params.research]]
     gh_name = "OSC-to-DMX"
 [[params.research]]
     gh_name = "Music-Hackspace-FluCoMa-Intro"
-[[params.research]]
-    gh_name = "Neural-Nets-FluCoMa-Workshop"
-[[params.research]]
-    gh_name = "Unsupervised-Learning-FluCoMa-Workshop"
-[[params.research]]
-    gh_name = "NMF-FluCoMa-Workshop"
-[[params.research]]
-    gh_name = "Spatial-Audio-File-Player"
-[[params.research]]
-    gh_name = "Endorphines-Shuttle-Control-for-SC"
+# [[params.research]]
+#     gh_name = "Neural-Nets-FluCoMa-Workshop"
+# [[params.research]]
+#     gh_name = "Unsupervised-Learning-FluCoMa-Workshop"
+# [[params.research]]
+#     gh_name = "NMF-FluCoMa-Workshop"
+# [[params.research]]
+#     gh_name = "Spatial-Audio-File-Player"
+# [[params.research]]
+#     gh_name = "Endorphines-Shuttle-Control-for-SC"
 
 
