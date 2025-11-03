@@ -9,17 +9,14 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
-      - name: Checkout public folder
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          path: public
-          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -47,16 +44,11 @@ jobs:
       - name: Build Hugo site
         run: hugo --minify
       
-      - name: Copy CNAME
-        run: cp CNAME public/
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./public
       
       - name: Deploy to GitHub Pages
-        run: |
-          cd public
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git diff --staged --quiet || git commit -m "Deploy website - ${{ github.sha }}"
-          git push -f origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: deployment
+        uses: actions/deploy-pages@v2
