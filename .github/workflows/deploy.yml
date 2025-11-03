@@ -1,0 +1,63 @@
+name: Deploy Hugo Site
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Checkout public folder
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: public
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install Python dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          if [ -f python/requirements.txt ]; then pip install -r python/requirements.txt; fi
+      
+      - name: Download Hugo v0.98.0
+        run: |
+          wget https://github.com/gohugoio/hugo/releases/download/v0.98.0/hugo_extended_0.98.0_Linux-64bit.tar.gz
+          tar -xzf hugo_extended_0.98.0_Linux-64bit.tar.gz
+          sudo mv hugo /usr/local/bin/
+          hugo version
+      
+      - name: Run Python scripts
+        run: |
+          cd python
+          python3 render-appearances-spreadsheet.py
+          python3 get-repos.py
+          cd ..
+      
+      - name: Build Hugo site
+        run: hugo --minify
+      
+      - name: Copy CNAME
+        run: cp CNAME public/
+      
+      - name: Deploy to GitHub Pages
+        run: |
+          cd public
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git diff --staged --quiet || git commit -m "Deploy website - ${{ github.sha }}"
+          git push -f origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
