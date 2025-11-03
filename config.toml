@@ -134,6 +134,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.works_order]]
   name = 'nand'
 [[params.works_order]]
+  name = 'nan'
+[[params.works_order]]
   name = 'tap'
 [[params.works_order]]
   name = 'fold'
@@ -234,6 +236,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'hollow'
 [[params.homepage_order]]
+  name = 'nan'
+[[params.homepage_order]]
   name = 'feathermucker'
 [[params.homepage_order]]
   name = 'patina'
@@ -249,6 +253,8 @@ theme = ["gohugo-theme-ananke"]
   name = 'noise-gate'
 [[params.homepage_order]]
   name = 'flucoma'
+[[params.homepage_order]]
+  name = 'nan'
 [[params.homepage_order]]
   name = 'apsis'
 [[params.homepage_order]]
