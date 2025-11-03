@@ -24,7 +24,7 @@ Moore, Ted. 2021. ["Human and Artificial Intelligence Alignment: AI as Musical A
 
 # Selected Software
 
-_Here's a list of repos that demonstrate what I'm up to. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
+_a list of projects and repos that demonstrate what kinds of work I'm up to. Checkout my {{< el "github" "https://github.com/tedmoore" >}} for more._
 
 <!-- GENERATED_SELECTED_SOFTWARE:start -->
 
@@ -36,11 +36,11 @@ _Here's a list of repos that demonstrate what I'm up to. Checkout my {{< el "git
 <tbody>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong><a href="/research/module-tensor"><em>Module Tensor</em></a></strong><br><em>laptop improvisation software (2014-)</em></td>
-<td style="vertical-align:top;">SuperCollider</td>
+<td style="vertical-align:top;">💻 SuperCollider</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong><a href="/research/djii"><em>DJII</em></a></strong><br><em>modular live electronic fx commissioned by improvising bassoonist Dana Jessen (2022-)</em></td>
-<td style="vertical-align:top;">SuperCollider</td>
+<td style="vertical-align:top;">💻 SuperCollider</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluCoMa-Pedagogical-Materials</strong><br><em>FluCoMa Pedagogical Materials</em></td>
@@ -56,7 +56,7 @@ _Here's a list of repos that demonstrate what I'm up to. Checkout my {{< el "git
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong><a href="/research/microtonal-keyboard"><em>Microtonal Keyboard</em></a></strong><br><em>Microtonal Keyboard App for SuperCollider</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Microtonal-Keyboard">GitHub Repo</a><br>💻 SuperCollider 100%<br>🛡 GNU General Public License v3.0</td>
+<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Microtonal-Keyboard">GitHub Repo</a><br>💻 SuperCollider 100% · 💻 SuperCollider<br>🛡 GNU General Public License v3.0</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>OrderedIdentityDictionary</strong><br><em>SuperCollider IdentityDictionary that retains the order in which the key-value pairs are added.</em></td>
@@ -76,7 +76,7 @@ _Here's a list of repos that demonstrate what I'm up to. Checkout my {{< el "git
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>MMMAudio</strong><br><em>python/Mojo audio coding environment</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 78% · Python 22%<br>🛡 MIT License</td>
+<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 77% · Python 23%<br>🛡 MIT License</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluCoMa in SuperCollider</strong><br><em>Fluid Corpus Manipulation plugins for Supercollider</em></td>

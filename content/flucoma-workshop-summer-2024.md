@@ -6,7 +6,7 @@ description: FluCoMa Workshop Summer 2024
 featured_image: /images/flucoma.jpg
 ---
 
-{{< figure src="/images/flucoma-full.jpg#floatright" width="50%" >}}
+{{< figure-float "/images/flucoma-full.jpg" "" "50" >}}
 **Dates:** Monday-Friday, July 22-26, 2024  
 **Time:** 12pm-3:30pm (with breaks) & 4:30pm-5:30pm USA East Coast Time  
 (asynchronous participation is allowed)  

@@ -71,7 +71,7 @@ March 2020
 UChicago Arts
 {{% /column %}}
 {{< column 50 >}}
-{{< figure src="/images/ripple_effects.jpg" link="https://open.spotify.com/album/6GrwwIqg0ChHOLow9TMssY" >}}
+{{< figure-float "/images/ripple_effects.jpg" "" "50" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
@@ -148,7 +148,7 @@ March 11, 2016
 {{< el "Ravello Records" "https://www.ravellorecords.com/" >}}
 {{% /column %}}
 {{< column 50 >}}
-{{< figure src="/images/gilgamesh_enkidu.jpg" link="https://www.ravellorecords.com/catalog/rr7926/" >}}
+{{< figure-float "/images/gilgamesh_enkidu.jpg" "" "50" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
@@ -177,7 +177,7 @@ November 2015
 {{< el "AVID Sound Records" "http://www.avidsoundrecords.com/" >}} 20153
 {{% /column %}}
 {{< column 50 >}}
-{{< figure src="/images/history_is_going_to_change.jpg" >}}
+{{< figure-float "/images/history_is_going_to_change.jpg" "" "50" >}}
 {{< /column >}}
 {{< /columnrow >}}
 
@@ -190,6 +190,6 @@ February 2014
 {{< el "AVID Sound Records" "http://www.avidsoundrecords.com/" >}} 20141
 {{% /column %}}
 {{< column 50 >}}
-{{< figure src="/images/interactions.jpg" >}}
+{{< figure "/images/interactions.jpg" "" "50" >}}
 {{< /column >}}
 {{< /columnrow >}}

@@ -447,12 +447,12 @@ theme = ["gohugo-theme-ananke"]
     local_page = "/research/module-tensor"
     title = "Module Tensor"
     description = "laptop improvisation software (2014-)"
-    languages = ["SuperCollider"]
+    languages = ["💻 SuperCollider"]
 [[params.research]]
     title = "DJII"
     local_page = "/research/djii"
     description = "modular live electronic fx commissioned by improvising bassoonist Dana Jessen (2022-)"
-    languages = ["SuperCollider"]
+    languages = ["💻 SuperCollider"]
 [[params.research]]
     gh_name = "FluCoMa-Pedagogical-Materials"
 [[params.research]]
@@ -467,7 +467,7 @@ theme = ["gohugo-theme-ananke"]
     gh_name = "Microtonal-Keyboard"
     title = "Microtonal Keyboard"
     local_page = "/research/microtonal-keyboard"
-    languages = ["SuperCollider"]
+    languages = ["💻 SuperCollider"]
 [[params.research]]
     gh_name = "OrderedIdentityDictionary"
 [[params.research]]

@@ -8,7 +8,7 @@ featured_image: /images/djii-full.jpg
 tags: ["software"]
 ---
 
-{{< figure src="/images/djii-full.jpg#floatright" width="500px" >}}
+{{< figure-float "/images/djii-full.jpg#floatright" "Screenshot of DJII" "50" >}}
 _Pronounced like the letter "G"_
 
 DJII was designed by {{< el "Dana Jessen" "https://www.danajessen.com/" >}} and Ted Moore during 2021-2022 and coded by Ted Moore in {{< el "SuperCollider" "https://supercollider.github.io/" >}}. The software is designed to be used by an improvising solo musician as supporting electronics material.
