@@ -1,4 +1,5 @@
-baseURL = "https://tedmoore.github.io"
+baseURL = "https://www.tedmooremusic.com/"
+canonifyURLs = true
 languageCode = 'en-us'
 title = "Ted Moore | Composer, Improviser, Intermedia Artist"
 copyright = "Ted Moore. All Rights Reserved."
