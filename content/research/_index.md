@@ -48,7 +48,7 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to and/
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong><a href="/research/serge"><em>Serge Modular Archive Instrument</em></a></strong><br><em>a sample-based computer emulation of selected patches of a vintage Serge Modular</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Serge-Modular-Archive-Instrument">GitHub Repo</a> 20⭐️<br>💻 C++ 77% · Makefile 10% · SuperCollider 8% · Processing 5%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
+<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/Serge-Modular-Archive-Instrument">GitHub Repo</a> 21⭐️<br>💻 C++ 77% · Makefile 10% · SuperCollider 8% · Processing 5%<br>🛡 BSD 3-Clause &quot;New&quot; or &quot;Revised&quot; License</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong><a href="/mfccs"><em>Mel-Frequency Cepstral Coefficients (MFCC) Interactive Explanation</em></a></strong><br><em>An interactive MFCC pedagogical tool made in p5</em></td>
@@ -64,7 +64,7 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to and/
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>MMMAudio</strong><br><em>python/Mojo audio coding environment</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 77% · Python 23%<br>🛡 MIT License</td>
+<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 77% · Python 22%<br>🛡 MIT License</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluCoMa in SuperCollider</strong><br><em>Fluid Corpus Manipulation plugins for Supercollider</em></td>
