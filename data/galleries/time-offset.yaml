@@ -1,0 +1,10 @@
+title: "Finding a Polygon Centroid"
+images:
+  - src: "/images/morph-polygons/61-time-offset.jpg"
+    caption: "Initially all of the polygons moved in sync, so they would all 'depart' and 'arrive' at the same time."
+  - src: "/images/morph-polygons/62-time-offset.jpg"
+    caption: "I wanted to offset their motion."
+  - src: "/images/morph-polygons/63-time-offset.jpg"
+    caption: "Each trajectory is given a random amount their timing should be offset from the global time."
+  - src: "/images/morph-polygons/64-time-offset.jpg"
+    caption: "The random timing offsets were determined using a normal distribution so for big movements, at first a few polygons would move, then many, then again just a few at the end."

@@ -1,0 +1,10 @@
+title: "Finding a Polygon Centroid"
+images:
+  - src: "/images/morph-polygons/65-resample.jpg"
+    caption: "Given a polygon..."
+  - src: "/images/morph-polygons/66-resample.jpg"
+    caption: "...the total perimeter was divided into equal segments corresponding to the desired number of sides."
+  - src: "/images/morph-polygons/67-resample.jpg"
+    caption: "After going all the way around the perimeter..."
+  - src: "/images/morph-polygons/68-resample.jpg"
+    caption: "...new vertices were placed at each of those equal segments to create a new polygon with the desired number of sides."

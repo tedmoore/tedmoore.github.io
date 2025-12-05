@@ -1,0 +1,10 @@
+title: "Finding a Polygon Centroid"
+images:
+  - src: "/images/morph-polygons/56-swerve.jpg"
+    caption: "When the polygons traversed across the three screens, I didn't like how linear it was."
+  - src: "/images/morph-polygons/57-swerve.jpg"
+    caption: "So I gave each traversal a hidden line (purple) that it would use to make the traversal less linear."
+  - src: "/images/morph-polygons/58-swerve.jpg"
+    caption: "As the polygon makes the long traversal across the three screens it 'swerves' towards and then away from the purple line."
+  - src: "/images/morph-polygons/59-swerve.jpg"
+    caption: "Each trajectory's traversal got a different 'swerve' line randomly provided with a normal distribution for the starting and stopping point along vertical edges of the video."
