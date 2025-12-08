@@ -269,6 +269,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'apsis-ii'
 [[params.homepage_order]]
+  name = 'morphing-polygons'
+[[params.homepage_order]]
   name = 'for-line-upon-line'
 [[params.homepage_order]]
   name = 'eclipse'
