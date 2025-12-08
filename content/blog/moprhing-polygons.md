@@ -3,7 +3,7 @@ title: Making Polygons Morph and Float
 description: video design in *still life*
 draft: false
 layout: blog-entry
-featured_image: /images/morph-polygons/43-sort-vertices.jpg
+featured_image: /images/still-life-canny.jpg
 date: 2025-12-04
 year: 2025
 tags: ["intermedia","video"]
