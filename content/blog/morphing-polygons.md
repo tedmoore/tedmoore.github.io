@@ -33,7 +33,7 @@ For each frame, I first iterate over the polygons and process them in various wa
 
 **4.** Assign the polygon a color taken from the original image at the `x,y` position of the centroid computed in #1.
 
-**5.** Create a vector of "descriptors" to represent the polygon when determining how "similar" it is to other polygons (this will be needed later). The elements in the vector are: `[ centroid x, centroid y, convex hull area, color red, color green, color blue ]`. Usually the (unnormalized) weights of these dimensions is `[ 1, 1, 0, 0, 0, 0]`, so what is being compared when considering "similarity" is actually just `x` and `y` position. Later, *only* area is considered, and in some tests, color was also included.
+**5.** Create a vector of "descriptors" to represent the polygon when determining how "similar" it is to other polygons (this will be needed later). The elements in the vector are: `[ centroid x, centroid y, convex hull area, color red, color green, color blue ]`. Usually the (unnormalized) weights of these dimensions is `[ 1, 1, 0, 0, 0, 0 ]`, so what is being compared when considering "similarity" is actually just `x` and `y` position. Later, *only* area is considered, and in some tests, color was also included.
 
 **6.** Smooth out the polygons a bit to removes sharp corners.
 
