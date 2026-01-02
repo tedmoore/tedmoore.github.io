@@ -64,7 +64,7 @@ _a list of projects and repos that demonstrate what kinds of work I'm up to and/
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>MMMAudio</strong><br><em>python/Mojo audio coding environment</em></td>
-<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 77% · Python 22%<br>🛡 MIT License</td>
+<td style="vertical-align:top;">🐙 <a href="https://github.com/tedmoore/MMMAudio">GitHub Repo</a> / 🍴 from <a href="https://github.com/spluta/MMMAudio">spluta/MMMAudio</a><br>💻 Mojo 76% · Python 23%<br>🛡 MIT License</td>
 </tr>
 <tr>
 <td style="padding-right:2.5rem; vertical-align:top;"><strong>FluCoMa in SuperCollider</strong><br><em>Fluid Corpus Manipulation plugins for Supercollider</em></td>
