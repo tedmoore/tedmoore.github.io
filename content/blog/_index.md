@@ -4,7 +4,7 @@ draft: false
 layout: blog-list
 ---
 
-A blog, or something like it. These posts aren't very frequency, just when I think there's something interesting to share about my work that is best conveyed in prose.
+A blog, or something like it. These posts aren't very frequent, just when I think there's something interesting to share about my work that is best conveyed in prose.
 
 The dates are not necessarily when I *write* them; these entries might be back dated to when I worked on these ideas. If the entry was written at a time different from when the ideas were pursued, it will indicate at the top of the entry.
 
