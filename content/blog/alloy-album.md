@@ -9,16 +9,18 @@ year: 2025
 tags: ["machine-learning","feedback"]
 ---
 
-After having performed [*alloy*](/works/alloy/) many times with [Kyle](http://www.jefferykylehutchins.com/), we decided to record a whole album of just feedback cymbal + saxophone multiphonics. 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=2642959353/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://binarycanary.bandcamp.com/album/alloy">alloy by Binary Canary</a></iframe>
 
-**Track 1 from *alloy*:**
+<!-- {{< bandcamp-album id="2642959353" width="100%" >}} -->
 
-<audio controls>
+<!-- <audio controls>
   <source src="/audio/alloy-1.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
-</audio>
+</audio> -->
 
-see the [code](https://github.com/tedmoore/alloy) referenced below.
+*see the [code](https://github.com/tedmoore/alloy) referenced below.*
+
+After having performed [*alloy*](/works/alloy/) many times with [Kyle](http://www.jefferykylehutchins.com/), we decided to record a whole album of just feedback cymbal + saxophone multiphonics. 
 
 ## Multiphonic Similarity Lookup
 

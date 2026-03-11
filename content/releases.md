@@ -5,6 +5,24 @@ draft: false
 <!-- nuclear sonic fusion -->
 {{< columnrow >}}
 {{% column 50 pr1 %}}
+### _alloy_ (2026) {#alloy}
+{{< el "Binary Canary" "http://www.binarycanarymusic.com" >}}'s fourth studio album featuring feedback cymbal, feedback saxophone, and sine tones. 
+
+All tracks are structured improvisations.  
+Binary Canary is Ted Moore and {{< el "Kyle Hutchins" "http://www.jefferykylehutchins.com/" >}}. 
+
+[Read more about it.](/blog/alloy-album)
+
+March 20, 2026  
+​{{< el "Carrier Records" "https://carrierrecords.com/" >}}
+{{% /column %}}
+{{< column 50 >}}
+{{< bandcamp-album id="2642959353" width="100%" >}}
+{{< /column >}}
+{{< /columnrow >}}
+
+{{< columnrow >}}
+{{% column 50 pr1 %}}
 ### _Nuclear Sonic Fusion_ (2023)  
 Improvised music featuring:  
 {{< el "Ermanno Baron" "https://www.instagram.com/ermanno.baron/" >}} on percussion  
