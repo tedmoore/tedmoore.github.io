@@ -131,6 +131,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.works_order]]
   name = 'quartet'
 [[params.works_order]]
+  name = 'still-life'
+[[params.works_order]]
   name = 'triangle'
 [[params.works_order]]
   name = 'nand'
@@ -204,21 +206,23 @@ theme = ["gohugo-theme-ananke"]
 # HOMEPAGE ORDER
 
 [[params.homepage_order]]
-  name = 'saccades'
-[[params.homepage_order]]
-  name = 'tap'
+  name = 'arco'
 [[params.homepage_order]]
   name = 'improv'
 [[params.homepage_order]]
   name = 'mmmaudio-icmc-2026'
 [[params.homepage_order]]
-  name = 'arco'
+  name = 'saccades'
 [[params.homepage_order]]
   name = 'aluminum-forest'
+[[params.homepage_order]]
+  name = 'still-life'
 [[params.homepage_order]]
   name = 'triangle'
 [[params.homepage_order]]
   name = 'quartet'
+[[params.homepage_order]]
+  name = 'tap'
 [[params.homepage_order]]
   name = 'nand'
 [[params.homepage_order]]
