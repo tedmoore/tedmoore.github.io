@@ -210,6 +210,8 @@ theme = ["gohugo-theme-ananke"]
 [[params.homepage_order]]
   name = 'improv'
 [[params.homepage_order]]
+  name = 'mmmaudio-icmc-2026'
+[[params.homepage_order]]
   name = 'arco'
 [[params.homepage_order]]
   name = 'aluminum-forest'
