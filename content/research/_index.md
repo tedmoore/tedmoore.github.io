@@ -6,6 +6,8 @@ layout: single
 
 # Writing & Peer-Reviewed Research Publications
 
+Pluta, Sam and Ted Moore. 2026. {{< el "\"The MMMAudio Computer Music Environment.\"" "https://github.com/spluta/MMMAudio/blob/main/resources/MMMAudioPaperICMC2026.pdf" >}} In *Proceedings of the International Computer Music Conference (ICMC)*, Hamburg, Germany.
+
 Moore, Ted. 2025. ["Learned Navigation of StyleGAN3 Latent Space from Audio Descriptors."](/documents/stylegan3-audio-descriptors.pdf) In *Proceedings of the 6th Artificial Intelligence and Musical Creativity (AIMC) Conference*, Brussels, Belgium.
 
 Moore, Ted, James Bradbury, PA Tremblay, and Owen Green. 2025. “Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa.” [*Journal SEAMUS 32*](https://seamusonline.org/wp-content/uploads/2025/01/Journal_SEAMUS_vol_32_rev_1.pdf), (1-2): 24-38.
