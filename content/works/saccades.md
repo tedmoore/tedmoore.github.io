@@ -9,7 +9,7 @@ featured_image: /images/saccades/saccades-02.jpg
 related_pages: ["allosphere"]
 ---
 
-{{< youtube-float qUv5gQdTVOg 65 right >}}
+{{< youtube-float FN71qPEhnyo 65 right >}}
 A “saccade” is a rapid movement of the eyeball between two fixed focal points. During this brief moment, the brain hides this blurry motion from our perception. Once a saccade motion has begun, the destination cannot change, meaning that if the target of focus disappears the viewer won’t know until the saccade completes. If the field of vision is changing too quickly, the saccades may never be able to arrive at and focus on a target, instead, the objects in view are only perceived through peripheral vision. 
 
 This phenomenon is imitated by the sound and video presented in the piece. It also serves as a metaphor for the density of information and high entropy experiences we constantly face. A scroll on social media, smartphone alerts, big data, technological advancements and predictions, the abundance of choices in the grocery aisle. 
@@ -30,7 +30,7 @@ More about the [Allosphere](https://allosphere.ucsb.edu/) at UC Santa Barbara.
 
 ### Video Design:
 
-{{< youtube FN71qPEhnyo >}}
+{{< youtube qUv5gQdTVOg >}}
 
 ### Stills from Video Design:
 
