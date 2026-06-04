@@ -9,7 +9,7 @@ year: 2025
 tags: ["intermedia","video"]
 ---
 
-For my collaboration with composer Katie Balch, titled *still life*, we wanted to find ways to abstract the sound and video we were recording in the forests of Connecticut. Here I describe one strategy that I used to make hundreds of polygons morph–transitioning between different video scenes. The final video will be spread out over 3 16:9 screens/projector in front of/around the audience. All the computation and rendering described below was done in [openFrameworks](https://openframeworks.cc/): a creative coding library for C++.
+For my collaboration with composer Katie Balch, titled [*still life*](/works/still-life), we wanted to find ways to abstract the sound and video we were recording in the forests of Connecticut. Here I describe one strategy that I used to make hundreds of polygons morph–transitioning between different video scenes. The final video will be spread out over 3 16:9 screens/projector in front of/around the audience. All the computation and rendering described below was done in [openFrameworks](https://openframeworks.cc/): a creative coding library for C++.
 
 ## Canny Edge Detection & Contour Finder
 
