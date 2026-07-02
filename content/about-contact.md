@@ -8,7 +8,7 @@ layout: single
     <div class="tc">
         <ul>
           <li class="list f5-ns fw5 dib tc ph5"> <!-- dib = "display inline block"-->
-            <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="mailto:ted@tedmooremusic.com">email</a>
+            <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="mailto:ted@tedmoore.art">email</a>
           </li>
           <li class="list f5-ns fw5 dib tc ph5"> <!-- dib = "display inline block"-->
             <a class="hover-blue no-underline gray f4 fw3 lh-copy" href="/documents/Ted-Moore-CV.pdf" target="_blank">CV</a>

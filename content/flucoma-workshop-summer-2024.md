@@ -13,7 +13,7 @@ featured_image: /images/flucoma.jpg
 **Location:** Classes Held on Zoom    
 **Instructor:** [Ted Moore](/about-contact/)  
 **Cost:** $100 USD (no one turned away for lack of funds)  
-**To Register:** [email me](mailto:ted@tedmooremusic.com) stating:
+**To Register:** [email me](mailto:ted@tedmoore.art) stating:
 1. your interest
 2. your experience with Max and/or SuperCollider
 3. any prior experience with machine learning or artificial intelligence (none required!) 
