@@ -8,6 +8,8 @@ layout: single
 
 Pluta, Sam and Ted Moore. 2026. {{< el "\"The MMMAudio Computer Music Environment.\"" "https://github.com/spluta/MMMAudio/blob/main/resources/MMMAudioPaperICMC2026.pdf" >}} In *Proceedings of the International Computer Music Conference (ICMC)*, Hamburg, Germany. **[Best Paper Award]**
 
+Bradbury, James, Pierre Alexandre Tremblay, Owen Green, and Ted Moore. 2026. "Resisting reconfiguration: Contrasting design philosophies in creative AI." *Technoetic Arts 24. Synthetic Sentience: Relational Intelligence and the Politics of Perception.* 131-147.
+
 Moore, Ted. 2025. ["Learned Navigation of StyleGAN3 Latent Space from Audio Descriptors."](/documents/stylegan3-audio-descriptors.pdf) In *Proceedings of the 6th Artificial Intelligence and Musical Creativity (AIMC) Conference*, Brussels, Belgium.
 
 Moore, Ted, James Bradbury, PA Tremblay, and Owen Green. 2025. “Making Machine Learning Musical: Reflections on a Year of Teaching FluCoMa.” [*Journal SEAMUS 32*](https://seamusonline.org/wp-content/uploads/2025/01/Journal_SEAMUS_vol_32_rev_1.pdf), (1-2): 24-38.
