@@ -440,12 +440,12 @@ theme = ["gohugo-theme-ananke"]
 
 # Theater page media order
 
-[[params.theater_media]]
-  Title = "APPETITE"
-  info = "(excerpts)"
-  Year = "2017"
-  type = "vimeo"
-  id = "221813599"
+# [[params.theater_media]]
+#   Title = "APPETITE"
+#   info = "(excerpts)"
+#   Year = "2017"
+#   type = "vimeo"
+#   id = "221813599"
 [[params.theater_media]]
   Title = "PERSEPHONE"
   Year = "2014"
