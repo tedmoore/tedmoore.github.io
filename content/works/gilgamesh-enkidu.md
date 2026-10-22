@@ -5,6 +5,7 @@ layout: single-works
 year: 2012
 draft: false
 categories: ["composition"]
+tags: ["chamber"]
 featured_image: /images/gilgamesh_enkidu.jpg
 ---
 {{< soundcloud-playlist 5620773 60 >}}

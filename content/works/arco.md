@@ -4,7 +4,7 @@ description: violin, video, & tape
 draft: false
 year: 2024
 layout: single-works
-tags: ["video","machine learning","intermedia"]
+tags: ["video","machine learning","intermedia","solo"]
 featured_image: /images/arco-05.jpg
 related_pages: ["harmonic-series-strikes-again","score-rendering","learned-navigation-stylegan3"]
 ---

@@ -5,7 +5,7 @@ year: 2018
 description: feedback saxophone, saxohpone wtih embeded electronics, 142 speakers, and DMX lights
 layout: single-works
 categories: ["composition"]
-tags: ["feedback","intermedia","lights"]
+tags: ["feedback","intermedia","lights","solo"]
 featured_image: /images/column-kyle.jpeg
 ---
 

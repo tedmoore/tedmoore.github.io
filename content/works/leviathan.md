@@ -5,7 +5,7 @@ year: 2014
 description: bass clarinet, feedback vases, and live electronics
 layout: single-works
 categories: ["composition"]
-tags: ["feedback"]
+tags: ["feedback","solo"]
 ---
 
 {{< youtube-float HokAGcNIcUs 60 right >}}

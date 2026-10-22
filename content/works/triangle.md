@@ -5,6 +5,7 @@ year: 2020
 description: string quartet and tape
 layout: single-works
 categories: ["composition"]
+tags: ["chamber"]
 featured_image: images/triangle.jpg
 ---
 

@@ -6,7 +6,7 @@ year: 2016
 description: feedback cymbal
 layout: single-works
 categories: ["composition"]
-tags: ["feedback"]
+tags: ["feedback","solo"]
 featured_image: /images/it-teaches-us-credit-Ben-Semisch.jpeg
 ---
 

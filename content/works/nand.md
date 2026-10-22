@@ -1,10 +1,10 @@
 ---
 title: nand
-description: piano, trumpet, percussion, video, & circuit
+description: piano, trumpet, percussion, electronic sound, & video
 draft: false
 year: 2023, rev. 2025
 layout: single-works
-tags: ["feedback","machine learning","video","intermedia"]
+tags: ["feedback","machine learning","video","intermedia","chamber"]
 featured_image: /images/nand.jpg
 ---
 

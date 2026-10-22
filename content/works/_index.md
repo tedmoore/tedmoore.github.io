@@ -22,3 +22,11 @@ _"Moore's mournful musical language combined with his gifts as a theatrical soun
 {{% /center %}}
 {{< /column >}}
 {{< /columnrow >}}
+
+{{% center %}}
+**by instrumentation:**<br>
+<a class="blue no-hover" href="/tags/solo">solo + electronics</a>&emsp;&emsp;&emsp;
+<a class="blue no-hover" href="/tags/chamber">chamber ensemble (2 to 8 players)</a>&emsp;&emsp;&emsp;
+<a class="blue no-hover" href="/tags/large-ensemble">large ensemble</a>&emsp;&emsp;&emsp;
+<a class="blue no-hover" href="/tags/fixed-media">fixed media</a>
+{{% /center %}}

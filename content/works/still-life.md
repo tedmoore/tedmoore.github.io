@@ -5,7 +5,7 @@ year: 2026
 description: octet, surround video, & surround audio
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","video"]
+tags: ["intermedia","video","chamber"]
 featured_image: /images/sunflower-freeze-thumbnail.jpg
 related_pages: ["morphing-polygons"]
 ---

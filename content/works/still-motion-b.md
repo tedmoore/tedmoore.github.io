@@ -5,7 +5,7 @@ year: 2017
 description: mouth performer and live video sampling
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","video"]
+tags: ["intermedia","video","solo"]
 featured_image: /images/still-motion-b-pc-Ben-Semisch.jpeg
 ---
 

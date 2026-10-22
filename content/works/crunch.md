@@ -5,6 +5,7 @@ year: 2019
 description: violin, bassoon, and tape
 layout: single-works
 categories: ["composition"]
+tags: ["chamber"]
 ---
 
 {{< soundcloud-float 1335924517 60 right>}}

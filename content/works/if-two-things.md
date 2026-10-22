@@ -6,6 +6,7 @@ year: 2014
 description: saxophone, mezzo soprano, and live electronics
 layout: single-works
 categories: ["composition"]
+tags: ["chamber"]
 featured_image: /images/if-two-things.jpg
 ---
 

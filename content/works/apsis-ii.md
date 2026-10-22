@@ -2,9 +2,10 @@
 title: apsis ii
 draft: false
 year: 2020
-description: piano four hands and tape
+description: piano four (or two) hands and tape
 layout: single-works
 categories: ["composition"]
+tags: ["solo","chamber"]
 featured_image: /images/apsis-ii.jpg
 ---
 

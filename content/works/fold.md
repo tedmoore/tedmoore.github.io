@@ -4,7 +4,7 @@ description: piano, sax, clarinet, & video
 draft: false
 year: 2023
 layout: single-works
-tags: ["feedback","video","intermedia"]
+tags: ["feedback","video","intermedia","chamber"]
 featured_image: /images/fold.jpg
 ---
 

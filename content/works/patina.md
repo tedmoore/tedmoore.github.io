@@ -5,6 +5,7 @@ year: 2018
 description: orchestra
 layout: single-works
 categories: ["composition"]
+tags: ["large ensemble"]
 featured_image: images/patina.jpg
 ---
 

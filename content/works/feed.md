@@ -5,7 +5,7 @@ year: 2018
 description: bassoon, live processing, no-input-mixer, tape, and DMX lights
 layout: single-works
 categories: ["composition"]
-tags: ["feedback","intermedia","lights","machine learning"]
+tags: ["feedback","intermedia","lights","machine learning","chamber"]
 featured_image: /images/feed-duo.jpg
 ---
 

@@ -5,7 +5,7 @@ year: 2016
 description: flute, alto saxophone, cello, percussion, live processing, and video
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","video"]
+tags: ["intermedia","video","chamber"]
 featured_image: /images/apsis-cubes.jpg
 ---
 

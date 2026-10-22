@@ -5,7 +5,7 @@ year: 2019
 description: percussion trio and intermedia
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","video","lights"]
+tags: ["intermedia","video","lights","chamber"]
 featured_image: images/tap.jpg
 ---
 

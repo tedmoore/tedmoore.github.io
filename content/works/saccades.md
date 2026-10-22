@@ -4,7 +4,7 @@ description: saxophone, tape, & video
 draft: false
 year: 2022
 layout: single-works
-tags: ["feedback","machine learning","intermedia","video"]
+tags: ["feedback","machine learning","intermedia","video","solo"]
 featured_image: /images/saccades/saccades-02.jpg
 related_pages: ["allosphere"]
 ---

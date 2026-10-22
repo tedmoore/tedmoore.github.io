@@ -5,7 +5,7 @@ year: 2014
 description: tenor saxophone, live electronics, live processing
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","feedback","video"]
+tags: ["intermedia","feedback","video","solo"]
 featured_image: /images/eclipse/eclipse01.jpg
 ---
 

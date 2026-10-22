@@ -5,6 +5,7 @@ year: 2015
 description: alto flute, tenor saxophone, cello, and percussion
 layout: single-works
 categories: ["composition"]
+tags: ["chamber"]
 ---
 
 {{< soundcloud-float 224137989 60 right >}}

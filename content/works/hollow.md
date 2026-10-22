@@ -5,7 +5,7 @@ year: 2018
 description: feedback saxophone and feedback PVC tubes
 layout: single-works
 categories: ["composition"]
-tags: ["feedback","lights","machine learning"]
+tags: ["feedback","lights","machine learning","chamber"]
 featured_image: /images/hollow.jpg
 related_pages: ["harmonic-series-strikes-again"]
 ---

@@ -5,7 +5,7 @@ year: 2017
 description: percussionist and live video sampling
 layout: single-works
 categories: ["composition"]
-tags: ["intermedia","video"]
+tags: ["intermedia","video","solo"]
 featured_image: /images/still-motion.jpg
 ---
 

@@ -4,7 +4,7 @@ description: fixed media tape and video
 draft: false
 year: 2023
 layout: single-works
-tags: ["feedback","machine learning","video","intermedia"]
+tags: ["feedback","machine learning","video","intermedia","fixed media"]
 featured_image: /images/nan-video-frame.jpg
 ---
 

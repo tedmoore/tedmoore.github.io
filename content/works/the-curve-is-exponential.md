@@ -5,6 +5,7 @@ year: 2017
 description: carillon and tape
 layout: single-works
 categories: ["composition"]
+tags: ["solo","intermedia"]
 ---
 
 {{< soundcloud-float 364704395 60 right >}}

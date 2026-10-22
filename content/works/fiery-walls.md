@@ -5,6 +5,7 @@ year: 2012
 description: trumpet and live electronics
 layout: single-works
 categories: ["composition"]
+tags: ["solo"]
 ---
 
 {{< youtube-float L0ncIF6PKlU 60 right >}}

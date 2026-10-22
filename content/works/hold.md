@@ -5,6 +5,7 @@ year: 2020
 description: tape
 layout: single-works
 categories: ["composition"]
+tags: ["fixed media"]
 featured_image: /images/hold.jpg
 ---
 
