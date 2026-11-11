@@ -6,6 +6,8 @@ layout: single
 
 # Writing & Peer-Reviewed Research Publications
 
+Moore, Ted. "The Sweet Spot: Human–AI Alignment with Randomness, Complexity, and Machine Learning." In {{< el "*Musicians Coding AI for Themselves*" "https://www.routledge.com/Musicians-Coding-AI-for-Themselves/Basica-Zhu/p/book/9781041016663" >}}, edited by Constantin Basica and Julie Zhu. Routledge, 2027.
+
 Pluta, Sam and Ted Moore. 2026. {{< el "\"The MMMAudio Computer Music Environment.\"" "https://github.com/spluta/MMMAudio/blob/main/resources/MMMAudioPaperICMC2026.pdf" >}} In *Proceedings of the International Computer Music Conference (ICMC)*, Hamburg, Germany. **[Best Paper Award]**
 
 Bradbury, James, Pierre Alexandre Tremblay, Owen Green, and Ted Moore. 2026. "Resisting reconfiguration: Contrasting design philosophies in creative AI." *Technoetic Arts 24. Synthetic Sentience: Relational Intelligence and the Politics of Perception.* 131-147.
